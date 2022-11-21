@@ -1737,3 +1737,209 @@ http://140.207.241.3:8080/live/program/live/jspdhd/4000000/mnf.m3u8
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/shsshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-name="五星体育频道" group-title="数字",五星体育频道
 http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
+#EXTINF:-1 group-title="体育",ONE Golf「高尔夫」
+http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="体育",爱尔达体育2台
+http://198.16.64.10:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0
+#EXTINF:-1 group-title="体育",广东体育
+http://fyld.eatuo.com:9901/tsfile/live/1012_1.m3u8
+#EXTINF:-1 group-title="体育",广东体育
+http://xjayrf.eatuo.com:9901/tsfile/live/1014_1.m3u8
+#EXTINF:-1 group-title="体育",广东体育
+http://e59abdd420c65d43cc1550d493a88c71.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
+#EXTINF:-1 group-title="体育",广州南国都市
+http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzngds
+#EXTINF:-1 group-title="体育",红牛RedBull
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 group-title="体育",红牛RedBull
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8?zshijd
+#EXTINF:-1 group-title="体育",红牛RedBull
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?zshijd
+#EXTINF:-1 group-title="体育",辽宁体育
+http://42.176.185.28:9901/tsfile/live/1007_1.m3u8
+#EXTINF:-1 group-title="体育",魅力足球
+https://epg.pm/stream/a32057cef84c4b54e5311d45962f633e1931a4603a49cc11003617636161ce48.m3u8
+#EXTINF:-1 group-title="体育",魅力足球
+http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8?zshangd
+#EXTINF:-1 group-title="体育",咪咕篮球
+http://39.134.115.163:8080/PLTV/88888910/224/3221226243/index.m3u8
+#EXTINF:-1 group-title="体育",咪咕视频
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226238/index.m3u8
+#EXTINF:-1 group-title="体育",咪咕视频.体育
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226240/index.m3u8
+#EXTINF:-1 group-title="体育",咪咕视频.体育2
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226243/index.m3u8
+#EXTINF:-1 group-title="体育",咪咕足球
+http://39.137.49.76:8080/PLTV/88888888/224/3221226240/index.m3u8?
+#EXTINF:-1 group-title="体育",咪咕NBA
+http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
+#EXTINF:-1 group-title="体育",咪咕NBA
+http://39.137.49.76:8080/PLTV/88888888/224/3221226238/index.m3u8?
+#EXTINF:-1 group-title="体育",咪咕NBA
+http://39.134.65.164/PLTV/88888888/224/3221226046/1.m3u8
+#EXTINF:-1 group-title="体育",咪咕NBA
+http://39.137.49.76:8080/PLTV/88888888/224/3221226235/index.m3u8?
+#EXTINF:-1 group-title="体育",咪咕NBA
+http://39.137.49.76:8080/PLTV/88888888/224/3221226241/index.m3u8?
+#EXTINF:-1 group-title="体育",咪咕NBA
+http://39.137.49.76:8080/PLTV/88888888/224/3221226243/index.m3u8?
+#EXTINF:-1 group-title="体育",五星体育
+http://112.25.48.70/live/program/live/ssty/4000000/mnf.m3u8
+#EXTINF:-1 group-title="体育",五星体育
+http://125.74.5.39/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
+#EXTINF:-1 group-title="体育",五星体育
+http://112.25.48.69/live/program/live/ssty/4000000/mnf.m3u8
+#EXTINF:-1 group-title="体育",五星体育
+http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
+#EXTINF:-1 group-title="体育",新视觉体育
+https://epg.pm/stream/bcf11d27e2ce62a0b2dca5d8c81e2d6f66c725fe2e5b6eb82c2897074e4b8f7d.m3u8
+#EXTINF:-1 group-title="体育",新视觉体育
+https://epg.pm/stream/66656cb6a3d1a271b3be81da3f56c7f2a739a0b525a66039ae85a4ca491db310.m3u8
+#EXTINF:-1 group-title="体育",智林体育
+http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
+#EXTINF:-1 group-title="体育",BBC 1
+http://198.16.64.10:8278/bbc1_antik/playlist.m3u8?tid=MF5F6677034466770344&ct=19225&tsum=7620e8a88546352c525938a2dee63a56
+#EXTINF:-1 group-title="体育",ELEVEN SPORTS 1
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
+#EXTINF:-1 group-title="体育",ELEVEN SPORTS 2
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven2
+#EXTINF:-1 group-title="体育",ELEVEN SPORTS 3
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven3
+#EXTINF:-1 group-title="体育",ELEVEN SPORTS 4
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven4
+#EXTINF:-1 group-title="体育",ELEVEN SPORTS 5
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven5
+#EXTINF:-1 group-title="体育",beIN SPORTS 1 HD
+http://destiny4k.com:2086/live/NAm/rSUqBCHN29/5347.ts
+#EXTINF:-1 group-title="体育",beIN SPORTS 2 HD
+http://destiny4k.com:2086/live/NAm/rSUqBCHN29/5345.ts
+#EXTINF:-1 group-title="体育",beIN SPORTS 3
+http://198.16.64.10:8278/Bein2hd/playlist.m3u8?tid=MD5D6186771861867718&ct=19225&tsum=7c0ab40062586283b22934ea37318203
+#EXTINF:-1 group-title="体育",beIN SPORTS 3 HD
+http://destiny4k.com:2086/live/NAm/rSUqBCHN29/5344.ts
+#EXTINF:-1 group-title="体育",beIN SPORTS 4 HD
+http://destiny4k.com:2086/live/NAm/rSUqBCHN29/5342.ts
+#EXTINF:-1 group-title="体育",beIN SPORTS 4 HD+
+http://destiny4k.com:2086/live/NAm/rSUqBCHN29/5330.ts
+#EXTINF:-1 group-title="体育",beIN SPORTS Max 1 HD
+http://destiny4k.com:2086/live/NAm/rSUqBCHN29/5351.ts
+#EXTINF:-1 group-title="体育",beIN-SPORTS
+http://51.79.82.208:16064
+#EXTINF:-1 group-title="体育",beIN-SPORTS 3
+http://51.79.82.208:16065
+#EXTINF:-1 group-title="体育",beIN-SPORTS FHD1
+http://destiny4k.com:2086/live/NAm/rSUqBCHN29/17067.ts
+#EXTINF:-1 group-title="体育",beIN-SPORTS FHD2
+http://destiny4k.com:2086/live/NAm/rSUqBCHN29/17068.ts
+#EXTINF:-1 group-title="体育",beIN-SPORTS FHD3
+http://destiny4k.com:2086/live/NAm/rSUqBCHN29/17069.ts
+#EXTINF:-1 group-title="体育",beIN-SPORTS FHD4
+http://destiny4k.com:2086/live/NAm/rSUqBCHN29/17070.ts
+#EXTINF:-1 group-title="体育",beIN-SPORTS FHD5
+http://destiny4k.com:2086/live/NAm/rSUqBCHN29/17071.ts
+#EXTINF:-1 group-title="体育",beIN-SPORTS FHD6
+http://destiny4k.com:2086/live/NAm/rSUqBCHN29/17072.ts
+#EXTINF:-1 group-title="体育",beIN-SPORTS FHD7
+http://destiny4k.com:2086/live/NAm/rSUqBCHN29/17073.ts
+#EXTINF:-1 group-title="体育",beIN-SPORTS HD2
+http://destiny4k.com:2086/live/NAm/rSUqBCHN29/17055.ts
+#EXTINF:-1 group-title="体育",beIN-SPORTS HD3
+http://destiny4k.com:2086/live/NAm/rSUqBCHN29/17056.ts
+#EXTINF:-1 group-title="体育",beIN-SPORTS HD4
+http://destiny4k.com:2086/live/NAm/rSUqBCHN29/17057.ts
+#EXTINF:-1 group-title="体育",beIN-SPORTS HD5
+http://destiny4k.com:2086/live/NAm/rSUqBCHN29/17058.ts
+#EXTINF:-1 group-title="体育",beIN-SPORTS HD6
+http://destiny4k.com:2086/live/NAm/rSUqBCHN29/17059.ts
+#EXTINF:-1 group-title="体育",beIN-SPORTS HD7
+http://destiny4k.com:2086/live/NAm/rSUqBCHN29/17060.ts
+#EXTINF:-1 group-title="体育",BT Sports 2
+http://198.16.64.10:8278/beetwo/playlist.m3u8?tid=MC6C8157554681575546&ct=19225&tsum=7f1f5e74a8628b59aceabd8c8349dbcf
+#EXTINF:-1 group-title="体育",EDGEsport
+https://edgesport-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="体育",EDGEsport
+https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="体育",EDGEsport
+https://edgesports-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="体育",ELEVEN 1
+http://cineapp.org:8000/Fernando/Fernando/7451
+#EXTINF:-1 group-title="体育",ELEVEN 2
+http://198.16.64.10:8278/bsfuji_japan/playlist.m3u8?tid=MEFE1641904216419042&ct=19225&tsum=e49ffeb9a6df295150be1cd8f9b0ea30
+#EXTINF:-1 group-title="体育",ELEVEN 3
+http://cineapp.org:8000/Fernando/Fernando/7453
+#EXTINF:-1 group-title="体育",ELEVEN 6
+http://cineapp.org:8000/Fernando/Fernando/7456
+#EXTINF:-1 group-title="体育",ELEVEN体育1台
+http://198.16.64.10:8278/bs181_japan/playlist.m3u8?tid=MEBE3981057839810578&ct=19225&tsum=d6fa49cd7b45b3bea924647730100283
+#EXTINF:-1 group-title="体育",ELEVEN体育1台
+http://50.7.220.74:8278/golfchannel_twn/playlist.m3u8?tid=m43df9270caf7&ct=18335&tsum=3bcc02e810e7073b86bb40d392e95f23
+#EXTINF:-1 group-title="体育",ELEVEN体育2台
+http://61.221.81.93:8078/hls/26/80/esport2.m3u8
+#EXTINF:-1 group-title="体育",ESPN
+http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/42909
+#EXTINF:-1 group-title="体育",ESPN
+http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/9660
+#EXTINF:-1 group-title="体育",ESPN 2
+http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/10881
+#EXTINF:-1 group-title="体育",ESPN 2
+http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/42910
+#EXTINF:-1 group-title="体育",ESPN 3
+http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/10880
+#EXTINF:-1 group-title="体育",ESPN News
+http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/11583
+#EXTINF:-1 group-title="体育",ESPN News
+http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/42908
+#EXTINF:-1 group-title="体育",ESPN U
+http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/42907
+#EXTINF:-1 group-title="体育",ESPN+
+http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/32482
+#EXTINF:-1 group-title="体育",FreeSports
+https://d3cq7cdp2cfi92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2ff27mp9b8422-prod/hls-harvester2-1293-prod/us-east-1/cc-2ff27mp9b8422/master.m3u8
+#EXTINF:-1 group-title="体育",FTF Sport
+https://elevensports-samsunguk-ca.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="体育",NBA TV
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/6693
+#EXTINF:-1 group-title="体育",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 group-title="体育",Red Bull TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1 group-title="体育",Red Bull TV HD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 group-title="体育",Red Bull TV HD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
+#EXTINF:-1 group-title="体育",Red Bull TV HD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1 group-title="体育",Ski TV
+https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SynapseTV/193.m3u8
+#EXTINF:-1 group-title="体育",Sports Tonight
+http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8
+#EXTINF:-1 group-title="体育",SUPERSPORT 1 FHD
+http://destiny4k.com:2086/live/NAm/rSUqBCHN29/2709.ts
+#EXTINF:-1 group-title="体育",SUPERSPORT 2 FHD
+http://destiny4k.com:2086/live/NAm/rSUqBCHN29/2710.ts
+#EXTINF:-1 group-title="体育",SUPERSPORT 2 FHD
+http://destiny4k.com:2086/live/NAm/rSUqBCHN29/2701.ts
+#EXTINF:-1 group-title="体育",SUPERSPORT 3 FHD
+http://destiny4k.com:2086/live/NAm/rSUqBCHN29/2702.ts
+#EXTINF:-1 group-title="体育",SUPERSPORT 4 FHD
+http://destiny4k.com:2086/live/NAm/rSUqBCHN29/2703.ts
+#EXTINF:-1 group-title="体育",SUPERSPORT 5 FHD
+http://destiny4k.com:2086/live/NAm/rSUqBCHN29/2704.ts
+#EXTINF:-1 group-title="体育",SUPERSPORT 6 FHD
+http://destiny4k.com:2086/live/NAm/rSUqBCHN29/2705.ts
+#EXTINF:-1 group-title="体育",SUPERSPORT 7 FHD
+http://destiny4k.com:2086/live/NAm/rSUqBCHN29/2706.ts
+#EXTINF:-1 group-title="体育",SUPERSPORT 8 FHD
+http://destiny4k.com:2086/live/NAm/rSUqBCHN29/2707.ts
+#EXTINF:-1 group-title="体育",SUPERSPORT 9 FHD
+http://destiny4k.com:2086/live/NAm/rSUqBCHN29/2708.ts
+#EXTINF:-1 group-title="体育",TNTSPORTS 1
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+#EXTINF:-1 group-title="体育",TNTSPORTS 2
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1 group-title="体育",TNTSPORTS 3
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+#EXTINF:-1 group-title="体育",TNTSPORTS 4
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+#EXTINF:-1 group-title="体育",TNTSPORTS 5
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8

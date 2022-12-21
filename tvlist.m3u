@@ -1,238 +1,442 @@
 #EXTM3U
-#EXTINF:-1 group-title="港台,#genre#",翡翠台
-https://t6.iptv200.com/live/tvb/index.m3u8?session=xc1ovbk1yogn7i9ysxsfvh8ehigujbh0
-#EXTINF:-1 group-title="港台,#genre#",无线新闻
-https://t15.iptv200.com/live/inews/index.m3u8?session=fy1w586j78rm1t9bk289nz4w9v4cirn0
-#EXTINF:-1 group-title="港台,#genre#",翡翠台
-http://23.237.10.66:16106
-#EXTINF:-1 group-title="港台,#genre#",翡翠台
-http://50.7.168.234:8278/jade_twn/playlist.m3u8?tid=m51e8c5582227&ct=18336&tsum=d0987332bec9b0fecc98b9b9ff3ddeac
-#EXTINF:-1 group-title="港台,#genre#",翡翠华丽
-http://23.237.10.66:16410
-#EXTINF:-1 group-title="港台,#genre#",无线新闻
-http://23.237.10.66:16110
-#EXTINF:-1 group-title="港台,#genre#",无线新闻
-https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/playlist.m3u8
-#EXTINF:-1 group-title="港台,#genre#",无线新闻
-https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
-#EXTINF:-1 group-title="港台,#genre#",TVB翡翠HD
-https://cdn.hklive.tv/xxxx/81/index.m3u8
-#EXTINF:-1 group-title="港台,#genre#",TVB J2台
-https://cdn.hklive.tv/xxxx/82/index.m3u8
-#EXTINF:-1 group-title="港台,#genre#",TVB無綫新聞
-https://cdn.hklive.tv/xxxx/83/index.m3u8
-#EXTINF:-1 group-title="港台,#genre#",TVB明珠台
-https://cdn.hklive.tv/xxxx/84/index.m3u8
-#EXTINF:-1 group-title="港台,#genre#",TVB無綫財經
-https://cdn.hklive.tv/xxxx/85/index.m3u8
-#EXTINF:-1 group-title="港台,#genre#",香港开电视
-https://cdn.hklive.tv/xxxx/77/index.m3u8
-#EXTINF:-1 group-title="港台,#genre#",VIU
-https://cdn.hklive.tv/xxxx/96/index.m3u8
-#EXTINF:-1 group-title="港台,#genre#",无线新闻
-https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
-#EXTINF:-1 group-title="港台,#genre#",凤凰中文
-http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
-#EXTINF:-1 group-title="港台,#genre#",凤凰中文
-http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
-#EXTINF:-1 group-title="港台,#genre#",凤凰中文
-https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8
-#EXTINF:-1 group-title="港台,#genre#",凤凰中文
-http://[2409:8087:2004:10::2786:474b]/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8?icpid=4&RTS=1639880648&from=1&hms_devid=221&vqe=3
-#EXTINF:-1 group-title="港台,#genre#",凤凰中文
-http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-#EXTINF:-1 group-title="港台,#genre#",凤凰中文
-http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv1.m3u8
-#EXTINF:-1 group-title="港台,#genre#",凤凰中文
-http://anren.live/HK/AQtR.m3u8
-#EXTINF:-1 group-title="港台,#genre#",凤凰中文
-http://yuniptvunql.chinayungu.cn:65530/live/fhzw/index.m3u8
-#EXTINF:-1 group-title="港台,#genre#",凤凰中文
-http://125.210.152.21:9120/live/FHZW.m3u8
-#EXTINF:-1 group-title="港台,#genre#",凤凰中文
-http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
-#EXTINF:-1 group-title="港台,#genre#",凤凰资讯
-http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv1.m3u8
-#EXTINF:-1 group-title="港台,#genre#",无线新闻
-http://ye23.win/iptv/tvb.php?id=1
-#EXTINF:-1 group-title="港台,#genre#",无线财经
-http://ye23.win/iptv/tvb.php?id=2
-#EXTINF:-1 group-title="港台,#genre#",无线新闻
-http://ye23.win/iptv/tvb.php?id=4
-#EXTINF:-1 group-title="港台,#genre#",无线新闻
-http://ye23.win/iptv/tvb.php?id=5
-#EXTINF:-1 group-title="港台,#genre#",无线新闻
-http://111.229.84.232/yulin/tvb.php?id=1
-#EXTINF:-1 group-title="港台,#genre#",无线财经
-http://111.229.84.232/yulin/tvb.php?id=2
-#EXTINF:-1 group-title="港台,#genre#",Now新聞332台
-http://livetv.dnsfor.me:80/channel.4.m3u8
-#EXTINF:-1 group-title="港台,#genre#",Now直播331台
-http://livetv.dnsfor.me:80/channel.3.m3u8
-#EXTINF:-1 group-title="港台,#genre#",無綫新聞台
-http://livetv.dnsfor.me:80/channel.10.m3u8
-#EXTINF:-1 group-title="港台,#genre#",無綫財經資訊台
-http://livetv.dnsfor.me:80/channel.11.m3u8
-#EXTINF:-1 group-title="港台,#genre#",Now Sports Prime 630
-http://livetv.dnsfor.me:80/channel.12.m3u8
-#EXTINF:-1 group-title="港台,#genre#",RTHK31
-http://livetv.dnsfor.me:80/channel.1.m3u8
-#EXTINF:-1 group-title="港台,#genre#",RTHK32
-http://livetv.dnsfor.me:80/channel.2.m3u8
-#EXTINF:-1 group-title="港台,#genre#",有線新聞台 HD
-http://livetv.dnsfor.me:80/channel.5.m3u8
-#EXTINF:-1 group-title="港台,#genre#",有線財經資訊台 HD
-http://livetv.dnsfor.me:80/channel.6.m3u8
-#EXTINF:-1 group-title="港台,#genre#",有線綜合娛樂台 HD
-http://livetv.dnsfor.me:80/channel.7.m3u8
-#EXTINF:-1 group-title="港台,#genre#",開電視
-http://livetv.dnsfor.me:80/channel.9.m3u8
-#EXTINF:-1 group-title="港台,#genre#",有线新闻
-rtmp://v3948069e.live.126.net/live/8ad6da5302022e3a8b67ccc9848614e/ggbox/index#http://livetv.dnsfor.me:80/channel.5.m3u8
-#EXTINF:-1 group-title="港台,#genre#",香港有線新聞
-rtmp://202.39.64.233/channel/60c2d2bd961593122ebaf8b7?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplhWA1Sh5OSXH0%2BGEAGw2JpJUyn%2Fcg%2BxzGoxzMdNqNCic
-#EXTINF:-1 group-title="港台,#genre#",FashionTV1
-https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="港台,#genre#",FashionTV2
-http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
-#EXTINF:-1 group-title="港台,#genre#",FashionTV3
-http://lb.streaming.sk/fashiontv/stream/chunklist_w1402273512.m3u8
-#EXTINF:-1 group-title="港台,#genre#",有线新闻
-https://api.leonardpark.dev/live/icable/109
-#EXTINF:-1 group-title="港台,#genre#",香港有線新聞
-https://uc6.i-cable.com/live_freedirect/freehd209_h.live/chunklist_w784366279.m3u8
-#EXTINF:-1 group-title="港台,#genre#",澳亚卫视
-https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
-#EXTINF:-1 group-title="港台,#genre#",TVBS新闻tv
-https://tv.puboat.com/live.m3u8?c=22
-#EXTINF:-1 group-title="港台,#genre#",中视新闻tv
-https://tv.puboat.com/live.m3u8?c=21
-#EXTINF:-1 group-title="港台,#genre#",民视新闻tv
-https://tv.puboat.com/live.m3u8?c=25
-#EXTINF:-1 group-title="港台,#genre#",台视新闻tv
-https://tv.puboat.com/live.m3u8?c=27
-#EXTINF:-1 group-title="港台,#genre#",中天新闻
-https://tv.puboat.com/live.m3u8?c=26
-#EXTINF:-1 group-title="港台,#genre#",环宇新闻
-https://tv.puboat.com/live.m3u8?c=28
-#EXTINF:-1 group-title="港台,#genre#",东森新闻
-https://tv.puboat.com/live.m3u8?c=29
-#EXTM3U
-#EXTINF:-1 group-title="CQIPTV,#genre#",CCTV-1高清
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000231?AuthInfo=xxx&userid=
-#EXTINF:-1 group-title="CQIPTV,#genre#",CCTV-2高清
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000295?AuthInfo=xxx&userid=
-#EXTINF:-1 group-title="CQIPTV,#genre#",CCTV-3高清
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000302?AuthInfo=xxx&userid=
-#EXTINF:-1 group-title="CQIPTV,#genre#",CCTV-4高清
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000342?AuthInfo=xxx&userid=
-#EXTINF:-1 group-title="CQIPTV,#genre#",CCTV-5高清
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000304?AuthInfo=xxx&userid=
-#EXTINF:-1 group-title="CQIPTV,#genre#",CCTV5+高清
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000230?AuthInfo=xxx&userid=
-#EXTINF:-1 group-title="CQIPTV,#genre#",CCTV-6高清
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000305?AuthInfo=xxx&userid=
-#EXTINF:-1 group-title="CQIPTV,#genre#",CCTV-7高清
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000290?AuthInfo=xxx&userid=
-#EXTINF:-1 group-title="CQIPTV,#genre#",CCTV-8高清
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000307?AuthInfo=xxx&userid=
-#EXTINF:-1 group-title="CQIPTV,#genre#",CCTV-9高清
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000294?AuthInfo=xxx&userid=
-#EXTINF:-1 group-title="CQIPTV,#genre#",CCTV-10高清
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000293?AuthInfo=xxx&userid=
-#EXTINF:-1 group-title="CQIPTV,#genre#",CCTV-11高清
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000389?AuthInfo=xxx&userid=
-#EXTINF:-1 group-title="CQIPTV,#genre#",CCTV-12高清
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000292?AuthInfo=xxx&userid=
-#EXTINF:-1 group-title="CQIPTV,#genre#",CCTV-13高清
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000387?AuthInfo=xxx&userid=
-#EXTINF:-1 group-title="CQIPTV,#genre#",CCTV-14高清
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000291?AuthInfo=xxx&userid=
-#EXTINF:-1 group-title="CQIPTV,#genre#",CCTV-15高清
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000388?AuthInfo=xxx&userid=
-#EXTINF:-1 group-title="CQIPTV,#genre#",CCTV-16高清
+#EXTINF:-1 group-title="体育,#genre#",AR | beIN Sport 1
+https://epg.pm/stream/68d7e1e271b8d06d4fff26471b80fd547a8191af74683d5afe63cc99721d88a8.ctv
+#EXTINF:-1 group-title="体育,#genre#",AR | beIN Sport 2
+https://epg.pm/stream/dd873a77537bb5cc1cb61e4035e177c9ffede276422fb69394ea6e76d51015f1.ctv
+#EXTINF:-1 group-title="体育,#genre#",AR | beIN Sport 3 English
+https://epg.pm/stream/bcd84009cb6df7c264703a9af40ca4bd4171a9a648f5ee238df0e44c7b844649.ctv
+#EXTINF:-1 group-title="体育,#genre#",AR | beIN Sport Premium 1
+https://epg.pm/stream/bf6dde37693fb9b86dbd0603ecf70be18d14790de6d7c466a48ebdd377d62556.ctv
+#EXTINF:-1 group-title="体育,#genre#",AR | beIN Sport Premium 2
+https://epg.pm/stream/66433d80638de469751e6f1f5ce01a993ed285488c5e574bae683d840cfd6a8a.ctv
+#EXTINF:-1 group-title="体育,#genre#",beIN SPORTS 1 EN
+https://epg.pm/stream/aac33242e513fe69211b511f25c1fd40b2bdd49003a24634bafc30f53c10f6bf.ctv
+#EXTINF:-1 group-title="体育,#genre#",beIN SPORTS 1
+https://epg.pm/stream/c3ede22fe45366c0218208050ea90d6c1974348d3ab513574c309c529d13048a.ctv
+#EXTINF:-1 group-title="体育,#genre#",beIN SPORTS 1 Premium
+https://epg.pm/stream/e1047f391f9f0f5af414847acb719702f927d8a5543c06064c4e6c1e35b6c450.ctv
+#EXTINF:-1 group-title="体育,#genre#",beIN SPORTS 2
+https://epg.pm/stream/b75dba3e70a73a8d323807c067ea14a87fb934e30bed76886a685ec2a5aeff14.ctv
+#EXTINF:-1 group-title="体育,#genre#",beIN SPORTS 2 Premium
+https://epg.pm/stream/e11ac05966d3f2177da1fb750a4b3687e5c97f92385a0376c1edb1d5b77eb864.ctv
+#EXTINF:-1 group-title="体育,#genre#",beIN SPORTS 3 EN
+https://epg.pm/stream/db2b81b275aaad1a190745dbbbb733419659dcb4a3dc529c06bbf68d7dd72f15.ctv
+#EXTINF:-1 group-title="体育,#genre#",FR | BeIN SPORTS 3
+https://epg.pm/stream/851d1f5902a1d6be468fda8c0640d600ccfe2ecbd4fbcbcd4c0392c33ed9240c.ctv
+#EXTINF:-1 group-title="体育,#genre#",ZA | SuperSport Variety 1
+https://epg.pm/stream/a95c0378f27da3eba9cc998d5906bbeb55654840cf6469ba826651f49d202338.ctv
+#EXTINF:-1 group-title="体育,#genre#",ZA | SuperSport Variety 2
+https://epg.pm/stream/44f771297154e1ed764015c145984b5f69ecaa0ef65415690fcce4e42cb30fc5.ctv
+#EXTINF:-1 group-title="体育,#genre#",Euronews EN
+https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="体育,#genre#",Eurosport1
+http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/216/stream.m3u8
+#EXTINF:-1 group-title="体育,#genre#",Eurosport2
+http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/218/stream.m3u8
+#EXTINF:-1 group-title="体育,#genre#",Eurosport2
+https://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/219/stream.m3u8
+#EXTINF:-1 group-title="体育,#genre#",TNTSPORTS 4
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+#EXTINF:-1 group-title="体育,#genre#",TNTSPORTS 5
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+#EXTINF:-1 group-title="英文,#genre#",CHANNEL 5
+https://epg.pm/stream/d3298bd65f3343455815add67cb81456950d1f3e4a186136bc4bba83881edcb0.ctv
+#EXTINF:-1 group-title="英文,#genre#",CHANNEL 8
+https://epg.pm/stream/aca6e4c459ce6d8a537e367c342259d216e170cbab670db7819506c44f764eb0.ctv
+#EXTINF:-1 group-title="英文,#genre#",CHANNEL U
+https://epg.pm/stream/e38856317669c65c0e02cb839e6db54eb4c3fded37777c681d0bce43fe7b444f.ctv
+#EXTINF:-1 group-title="英文,#genre#",CNN
+https://epg.pm/stream/b3d5d4af8a70e1014829acbac9dd26db181ac4a8d8d8200275cdd206c91578bb.ctv
+#EXTINF:-1 group-title="英文,#genre#",BBC Lifestyle
+https://epg.pm/stream/716811591892ece116c90ea34c833fe893d7fd9397b9d3b7844713da2e4d3b95.m3u8
+#EXTINF:-1 group-title="英文,#genre#",BBC World News
+https://epg.pm/stream/57b2e324e8191c91144d95a2f047de750d2638ac84e9d926b14a2da5e9309cd8.ctv
+#EXTINF:-1 group-title="英文,#genre#",CGTN (China)
+https://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 group-title="英文,#genre#",CinemaWorld
+http://210.210.155.35/dr9445/h/h04/index.m3u8
+#EXTINF:-1 group-title="英文,#genre#",BBC One (UK)
+https://uksono1-samsunguk.amagi.tv/playlist480p.m3u8
+#EXTINF:-1 group-title="英文,#genre#",CNA
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
+#EXTINF:-1 group-title="英文,#genre#",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8?zshijd
+#EXTINF:-1 group-title="英文,#genre#",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
+#EXTINF:-1 group-title="英文,#genre#",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
+#EXTINF:-1 group-title="央视卫视,#genre#",CCTV1
+http://39.135.138.58:18890/PLTV/88888888/224/3221225762/index.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",CCTV1
+http://39.135.138.58:18890/PLTV/88888888/224/3221225918/index.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",CCTV1
+https://epg.pm/stream/dca259b1884cff5b15d2d7b70da46b199b37f17e14df86210fc167c5510132cd.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",CCTV3
+http://39.135.138.58:18890/PLTV/88888888/224/3221225634/index.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",CCTV4
+https://epg.pm/stream/b735e65f396552b8dcda2dd4ee9020c706eafc525b390fe18dea2e087d869457.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",CCTV5
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel5/index.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",CCTV5
+http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",CCTV5
+http://39.135.138.58:18890/PLTV/88888888/224/3221225633/index.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",CCTV5
+http://39.135.138.58:18890/PLTV/88888888/224/3221225751/index.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",CCTV5
+http://39.135.138.58:18890/PLTV/88888888/224/3221225753/index.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",CCTV5
+http://39.135.138.58:18890/PLTV/88888888/224/3221225754/index.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",CCTV5
+http://39.135.138.58:18890/PLTV/88888888/224/3221225755/index.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",CCTV5
+http://39.135.138.58:18890/PLTV/88888888/224/3221225756/index.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",CCTV5
+http://39.135.138.60:18890/TVOD/88888910/224/3221225633/index.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",CCTV5+
+http://117.169.121.162:6610/PLTV/88888910/224/3221225649/index.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",CCTV5+
+http://117.169.121.162:6610/PLTV/88888910/224/3221225706/index.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",CCTV5+
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel13/1300.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",CCTV5+
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel13/index.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",CCTV5+
+http://39.134.116.30:8080/PLTV/88888910/224/3221225706/index.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",CCTV5+
+https://epg.pm/stream/1a224447cc897a8dda24b7dd096624dc3475b6d426edfe11854560d42750ce2f.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",CCTV6
+http://117.169.121.162:6610/PLTV/88888910/224/3221225632/index.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",CCTV6
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel6/2300.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",CCTV6
+http://39.135.138.59:18890/PLTV/88888910/224/3221225632/index.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",CCTV6
+http://39.135.138.59:18890/TVOD/88888910/224/3221225632/index.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",CCTV6
+http://39.135.138.60:18890/PLTV/88888910/224/3221225632/index.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",CCTV6
+https://epg.pm/stream/91d80f3cc643d76ca6852769aef305366f33ce7cf97bd9d015d17ec51ea75e5f.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",CCTV7
+http://117.169.121.162:6610/PLTV/88888910/224/3221225624/index.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",CCTV7
+http://117.169.121.162:6610/PLTV/88888910/224/3221225644/index.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",CCTV7
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel7/2300.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",CCTV7
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel7/index.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",CCTV7
+http://39.135.138.58:18890/PLTV/88888910/224/3221225624/index.m3u8codeyj
+#EXTINF:-1 group-title="央视卫视,#genre#",CCTV7
+http://39.135.138.59:18890/PLTV/88888910/224/3221225644/index.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",CCTV7
+https://epg.pm/stream/92533419f2d39b023196553b4c112d010b0df9411d65b12930376dab7e2bcaef.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",CCTV7
+https://epg.pm/stream/f8bcfd67e46041f8eb1485fdfb8d15872e0d232ac8b6b47ca8cdca9746d1456a.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",CCTV8
+http://117.169.121.162:6610/PLTV/88888910/224/3221225635/index.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",CCTV8
+http://39.135.138.58:18890/PLTV/88888888/224/3221225635/index.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",CCTV8
+http://39.135.138.59:18890/PLTV/88888910/224/3221225631/index.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",CCTV8
+http://39.135.138.59:18890/TVOD/88888910/224/3221225631/index.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",CCTV8
+http://39.135.138.60:18890/PLTV/88888910/224/3221225631/index.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",CCTV8
+http://39.135.138.60:18890/PLTV/88888910/224/3221225635/index.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",CCTV8
+https://epg.pm/stream/9141f1bd6d41eeab7495a47aaa9ada2422151844168c80349fbcdcd9d5b18d29.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",CCTV9
+http://39.135.138.58:18890/PLTV/88888888/224/3221225626/index.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",CCTV10
+http://39.135.138.58:18890/PLTV/88888888/224/3221225627/index.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",CCTV11
+http://39.135.138.58:18890/PLTV/88888888/224/3221225628/index.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",CCTV11
+https://epg.pm/stream/c7906f8ec2fe4b8605558ff71f5a942cdcd75e24431f343c9883af0c5cbae90d.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",CCTV12
+http://39.135.138.58:18890/PLTV/88888888/224/3221225629/index.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",CCTV12
+https://epg.pm/stream/9762cb61d94b06f854baf2bede2c0e377f31528f12168487d9f0175a0770c769.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",CCTV13
+http://39.135.138.58:18890/PLTV/88888888/224/3221225638/index.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",CCTV13
+https://epg.pm/stream/da75a02ef499d826c73a02315f6add205ba57b4419d6d67bbd9e12f679e33eb7.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",CCTV14
+https://epg.pm/stream/bf05c6b79563de2d7b1b3450c85f4a4e6ed18c0bc00226dfa55b9119c0b465b9.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",CCTV16
 http://39.135.138.60:18890/TVOD/88888910/224/3221226233/index.m3u8
-#EXTINF:-1 group-title="CQIPTV,#genre#",CCTV-17高清
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000346?AuthInfo=xxx&userid=
-#EXTINF:-1 group-title="CQIPTV,#genre#",CHC动作电影
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-#EXTINF:-1 group-title="CQIPTV,#genre#",CHC高清电影
-http://111.20.33.93/PLTV/88888893/224/3221226463/index.m3u8
-#EXTINF:-1 group-title="CQIPTV,#genre#",CQTV重庆卫视高清
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000365?AuthInfo=xxx&userid=
-#EXTINF:-1 group-title="CQIPTV,#genre#",CQTV新闻高清
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000367?AuthInfo=xxx&userid=
-#EXTINF:-1 group-title="CQIPTV,#genre#",CQTV影视高清
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000372?AuthInfo=xxx&userid=
-#EXTINF:-1 group-title="CQIPTV,#genre#",CQTV社会与法
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000375?AuthInfo=xxx&userid=
-#EXTINF:-1 group-title="CQIPTV,#genre#",CQTV时尚高清
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000369?AuthInfo=xxx&userid=
-#EXTINF:-1 group-title="CQIPTV,#genre#",CQTV娱乐高清
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000370?AuthInfo=xxx&userid=
-#EXTINF:-1 group-title="CQIPTV,#genre#",CQTV公共农村
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000376?AuthInfo=xxx&userid=
-#EXTINF:-1 group-title="CQIPTV,#genre#",CQTV少儿高清
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000374?AuthInfo=xxx&userid=
-#EXTINF:-1 group-title="CQIPTV,#genre#",CQTV科教高清
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000373?AuthInfo=xxx&userid=
-#EXTINF:-1 group-title="CQIPTV,#genre#",CQTV移动高清
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000384?AuthInfo=xxx&userid=
-#EXTINF:-1 group-title="CQIPTV,#genre#",湖南地方卫视高清
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000228?AuthInfo=xxx&userid=
-#EXTINF:-1 group-title="CQIPTV,#genre#",浙江地方卫视高清
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000224?AuthInfo=xxx&userid=
-#EXTINF:-1 group-title="CQIPTV,#genre#",江苏地方卫视高清
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000225?AuthInfo=xxx&userid=
-#EXTINF:-1 group-title="CQIPTV,#genre#",安徽地方卫视高清
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000296?AuthInfo=xxx&userid=
-#EXTINF:-1 group-title="CQIPTV,#genre#",广东地方卫视高清
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000221?AuthInfo=xxx&userid=
-#EXTINF:-1 group-title="CQIPTV,#genre#",北京地方卫视高清
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000229?AuthInfo=xxx&userid=
-#EXTINF:-1 group-title="CQIPTV,#genre#",天津地方卫视高清
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000223?AuthInfo=xxx&userid=
-#EXTINF:-1 group-title="CQIPTV,#genre#",辽宁地方卫视高清
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000260?AuthInfo=xxx&userid=
-#EXTINF:-1 group-title="CQIPTV,#genre#",东方地方卫视高清
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000232?AuthInfo=xxx&userid=
-#EXTINF:-1 group-title="CQIPTV,#genre#",深圳地方卫视高清
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000226?AuthInfo=xxx&userid=
-#EXTINF:-1 group-title="CQIPTV,#genre#",河北地方卫视高清
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000341?AuthInfo=xxx&userid=
-#EXTINF:-1 group-title="CQIPTV,#genre#",黑龙江卫视高清
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000227?AuthInfo=xxx&userid=
-#EXTINF:-1 group-title="CQIPTV,#genre#",江西地方卫视高清
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000378?AuthInfo=xxx&userid=
-#EXTINF:-1 group-title="CQIPTV,#genre#",四川地方卫视高清
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000377?AuthInfo=xxx&userid=
-#EXTINF:-1 group-title="CQIPTV,#genre#",东南地方卫视高清
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000379?AuthInfo=xxx&userid=
-#EXTINF:-1 group-title="CQIPTV,#genre#",贵州地方卫视高清
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000340?AuthInfo=xxx&userid=
-#EXTINF:-1 group-title="CQIPTV,#genre#",湖北地方卫视高清
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000222?AuthInfo=xxx&userid=
-#EXTINF:-1 group-title="CQIPTV,#genre#",山东地方卫视高清
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000261?AuthInfo=xxx&userid=
-#EXTINF:-1 group-title="CQIPTV,#genre#",海南地方卫视高清
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000385?AuthInfo=xxx&userid=
-#EXTM3U
-#EXTINF:-1 group-title="港澳台,#genre#",翡翠台
-https://t6.iptv200.com/live/tvb/index.m3u8?session=xc1ovbk1yogn7i9ysxsfvh8ehigujbh0
-#EXTINF:-1 group-title="港澳台,#genre#",无线新闻
-https://t15.iptv200.com/live/inews/index.m3u8?session=fy1w586j78rm1t9bk289nz4w9v4cirn0
+#EXTINF:-1 group-title="央视卫视,#genre#",CCTV17
+http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",广东公共
+https://epg.pm/stream/53d16f6d24caaea7594cc8ebc7556e1b9bf7681bf2f4c343fa56b6a5f840224d.ctv
+#EXTINF:-1 group-title="央视卫视,#genre#",广东少儿
+https://epg.pm/stream/e725edf425844c41572e35e79f1f00ca5aad28bcba6e7fedd87bed2ddd56fe13.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",广东新闻
+https://epg.pm/stream/cef56fddd7e06d9e63b474134ec9ce7b105e59cac4b8d44adcee9f0465e5ff2f.ctv
+#EXTINF:-1 group-title="央视卫视,#genre#",广东影视
+https://epg.pm/stream/5eb900f3cd50643f3296dc54529a7a2b44e4a6a0578a59f3b2e10e62b7bc5be8.ctv
+#EXTINF:-1 group-title="央视卫视,#genre#",广东珠江
+https://epg.pm/stream/02538b866658ede6728419f29071362a7e62114eb162e068ded6ae98f7cb1bb4.ctv
+#EXTINF:-1 group-title="央视卫视,#genre#",河北卫视
+https://epg.pm/stream/94b4980bcc326ed3e2b8d4cef540057b02e18190893ada394ec0e0c0270225f4.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",安徽卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225691/index.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",北京卫视
+http://39.135.138.58:18890/PLTV/88888888/224/3221225673/index.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",东方卫视
+http://39.135.138.58:18890/PLTV/88888888/224/3221225658/index.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",东南卫视
+http://39.135.138.58:18890/PLTV/88888888/224/3221225657/index.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",广东卫视
+http://39.135.138.58:18890/PLTV/88888888/224/3221225701/index.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",贵州卫视
+http://39.135.138.58:18890/PLTV/88888888/224/3221225483/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="央视卫视,#genre#",黑龙江卫视
+http://39.135.138.58:18890/PLTV/88888888/224/3221225690/index.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",湖北卫视
+http://39.135.138.58:18890/PLTV/88888888/224/3221225740/index.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",湖南卫视
+http://39.135.138.58:18890/PLTV/88888888/224/3221225704/index.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",湖南卫视
+http://39.135.138.58:18890/PLTV/88888888/224/3221225745/index.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",华语电视
+http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",江苏卫视
+http://39.135.138.58:18890/PLTV/88888888/224/3221225702/index.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",江苏卫视
+http://39.135.138.58:18890/PLTV/88888888/224/3221225743/index.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",江苏卫视
+http://39.135.138.58:18890/PLTV/88888910/224/3221225702/index.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",江西卫视
+http://39.135.138.58:18890/PLTV/88888888/224/3221225705/index.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",江西卫视
+http://39.135.138.58:18890/PLTV/88888910/224/3221225705/index.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",辽宁卫视
+http://39.135.138.58:18890/PLTV/88888888/224/3221225696/index.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",深圳卫视
+http://39.135.138.58:18890/PLTV/88888888/224/3221225741/index.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",天津卫视
+http://39.135.138.58:18890/PLTV/88888888/224/3221225698/index.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",天津卫视
+http://39.135.138.58:18890/PLTV/88888888/224/3221225739/index.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",NewTV超级电影
+http://39.135.138.58:18890/PLTV/88888888/224/3221225766/index.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",NewTV超级体育
+http://39.135.138.58:18890/PLTV/88888888/224/3221225622/index.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",NewTV超级体育
+http://39.135.138.58:18890/PLTV/88888888/224/3221225648/index.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",NewTV超级体育
+http://39.135.138.58:18890/PLTV/88888888/224/3221225767/index.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",NewTV东北热剧
+http://39.135.138.58:18890/PLTV/88888888/224/3221226202/index.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",NewTV古装剧场
+http://39.135.138.58:18890/PLTV/88888888/224/3221225678/index.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",NewTV欢乐剧场
+http://39.135.138.58:18890/PLTV/88888888/224/3221226210/index.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",NewTV金牌综艺
+http://39.135.138.58:18890/PLTV/88888888/224/3221225711/index.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",NewTV军旅剧场
+http://39.135.138.58:18890/PLTV/88888888/224/3221225669/index.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",NewTV武搏世界
+http://39.135.138.58:18890/PLTV/88888888/224/3221225656/index.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",NewTV怡伴健康
+http://39.135.138.58:18890/PLTV/88888888/224/3221225666/index.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",NewTV中国功夫
+http://39.135.138.58:18890/PLTV/88888888/224/3221225660/index.m3u8
+#EXTINF:-1 group-title="港澳台,#genre#",凤凰中文
+http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+#EXTINF:-1 group-title="港澳台,#genre#",凤凰中文
+http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv1.m3u8
+#EXTINF:-1 group-title="港澳台,#genre#",凤凰中文
+https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+#EXTINF:-1 group-title="港澳台,#genre#",凤凰中文
+https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
+#EXTINF:-1 group-title="港澳台,#genre#",凤凰资讯
+http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
+#EXTINF:-1 group-title="港澳台,#genre#",凤凰资讯
+http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+#EXTINF:-1 group-title="港澳台,#genre#",凤凰资讯
+http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8?zgangd
+#EXTINF:-1 group-title="港澳台,#genre#",凤凰资讯
+http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8?zgangd
+#EXTINF:-1 group-title="港澳台,#genre#",凤凰资讯
+http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8?zgangd
+#EXTINF:-1 group-title="港澳台,#genre#",凤凰资讯
+http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv1.m3u8
+#EXTINF:-1 group-title="港澳台,#genre#",凤凰资讯
+http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv2.m3u8
+#EXTINF:-1 group-title="港澳台,#genre#",凤凰资讯
+http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv2.m3u8?zgangd
+#EXTINF:-1 group-title="港澳台,#genre#",凤凰资讯
+https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+#EXTINF:-1 group-title="港澳台,#genre#",凤凰资讯
+https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
+#EXTINF:-1 group-title="港澳台,#genre#",凤凰资讯
+https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8?zgangd
+#EXTINF:-1 group-title="港澳台,#genre#",凤凰资讯
+https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8?zgangd
+#EXTINF:-1 group-title="港澳台,#genre#",RTHK31
+http://livetv.dnsfor.me:80/channel.1.m3u8
+#EXTINF:-1 group-title="港澳台,#genre#",RTHK32
+http://livetv.dnsfor.me:80/channel.2.m3u8
+#EXTINF:-1 group-title="港澳台,#genre#",爱尔达影剧台
+https://epg.pm/stream/18aea213865329a6fd57a0285d8988c9c1a78705b8aa415b5395df9dffb6b0b6.m3u8
+#EXTINF:-1 group-title="港澳台,#genre#",八大戏剧台
+https://epg.pm/stream/3aa1e98ff7535737b1e2033b1b244ef785f408257c2cc29bd60d2f7e0b29e175.m3u8
+#EXTINF:-1 group-title="港澳台,#genre#",八大戲劇台
+https://epg.pm/stream/4af7c4faa07d5077ebec910b5bd2265e2f0d72834df88b09aaf6f61ff027457f.m3u8
+#EXTINF:-1 group-title="港澳台,#genre#",博斯网球台
+https://epg.pm/stream/546ff53f4c8a8026140e5530e81a26655c7c0b2b28124bc9ef425fbde7f7ccca.m3u8
+#EXTINF:-1 group-title="港澳台,#genre#",博斯網球
+https://epg.pm/stream/8c649d09e0863a728af0b04d18e5dacba83ca82ea55f5c1f89d0db38fe3e121b.m3u8
+#EXTINF:-1 group-title="港澳台,#genre#",东森新闻
+https://epg.pm/stream/70b102b7954d6b1120be28d9d818bc9a52dcc92cc0a45ce716885ab97fab61a3.m3u8
+#EXTINF:-1 group-title="港澳台,#genre#",东森综合
+https://epg.pm/stream/ec25ac4303cf584b2a952e1e10581e692522925526c35f5558b56e61c0fbbc90.m3u8
+#EXTINF:-1 group-title="港澳台,#genre#",東森財經
+https://epg.pm/stream/a57faf5a33c91243885391049c09ed5bc4a2f56b9a2a9d29177e09c99a78ba20.m3u8
+#EXTINF:-1 group-title="港澳台,#genre#",東森電影
+https://epg.pm/stream/a9b5b8a2e23c2e234f898a948efff558ca1ac2e0bf0aa2c5091ffdebbb26e9bc.m3u8
+#EXTINF:-1 group-title="港澳台,#genre#",東森新聞
+https://epg.pm/stream/94e67fdc6bfede633eaafe5b21e2d395a46bdf494953bd8ac1979f8e0e37d2df.m3u8
+#EXTINF:-1 group-title="港澳台,#genre#",动物星球
+https://epg.pm/stream/a2487213c7a7b9dc6d01be9d6dfa07394ba944a4d7518bcb497c3c9538e74655.ctv
+#EXTINF:-1 group-title="港澳台,#genre#",動物星球
+https://epg.pm/stream/9ed4b7a41318e1bc7827840d716f91c65db090c05e361d814dd4c55278f70850.m3u8
+#EXTINF:-1 group-title="港澳台,#genre#",翡翠台(备)
+https://epg.pm/stream/701ee6ede73464a260e2b6778de58baaa78e6dd9fbf6477fdcc695dcc82da853.ctv
+#EXTINF:-1 group-title="港澳台,#genre#",公视
+https://epg.pm/stream/296eddcf3a7033144d78939826470ca9fe38189788d1461ca092bc667276f322.m3u8
+#EXTINF:-1 group-title="港澳台,#genre#",国家地理
+https://epg.pm/stream/e691b4c6bdb0bf6b81859773af0a7b24603e7605b1bdb76bb867b41f3a82f355.m3u8
+#EXTINF:-1 group-title="港澳台,#genre#",国家地理野生频道
+https://epg.pm/stream/624d8d6f8dcedba2bc6ae8e4164173f5ce6edb22a8e7c70a13c8a3d693109ac6.ctv
+#EXTINF:-1 group-title="港澳台,#genre#",好莱坞电影
+https://epg.pm/stream/0fd74ae3baf4017f7a5db0e21fa27bd41bdb009e70d5b6fb7cbc4d91f4c0fd2e.m3u8
+#EXTINF:-1 group-title="港澳台,#genre#",好莱坞电影
+https://epg.pm/stream/22faa65a58936501a195525b810a8d2c11e84d7fd6cea2eef36d00d09c4bcc78.ctv
+#EXTINF:-1 group-title="港澳台,#genre#",好莱坞电影
+https://epg.pm/stream/efe95971ae85364ddbeb7839cf5bd9719d87d960a295838e1a32cca651ba3627.m3u8
+#EXTINF:-1 group-title="港澳台,#genre#",好萊塢電影
+https://epg.pm/stream/445aa4c9b98680b1ffe5ba57bee3f87fcac8b01873a38859126fd2245b659ffe.m3u8
+#EXTINF:-1 group-title="港澳台,#genre#",寰宇新闻台
+https://epg.pm/stream/9a7226d1bbab76a82e617e169d93add97d9a7eb1b4747fbd6cb766b3fe3e19ae.ctv
+#EXTINF:-1 group-title="港澳台,#genre#",嘉佳卡通
+https://epg.pm/stream/163f912a1ac4b260e72cea402c8747f3c4f7ed2309e1497e6194c79200d32c22.ctv
+#EXTINF:-1 group-title="港澳台,#genre#",靖天國際
+https://epg.pm/stream/de860223692726ccdbdf30dc5091788c6536dafb17e9ccf200c95f786c32ff03.m3u8
+#EXTINF:-1 group-title="港澳台,#genre#",美亚电影台
+https://epg.pm/stream/e323481a9ba54d43f82ef18afad50779803d0ab5afb89b5b39e4ce8b91db35e6.m3u8
+#EXTINF:-1 group-title="港澳台,#genre#",民视
+https://epg.pm/stream/9f8ecf0373c1bd89351781a61a695a0ad8d4ecd92995fd69e743d0f190aad627.ctv
+#EXTINF:-1 group-title="港澳台,#genre#",民视新闻台
+https://epg.pm/stream/2550b5aa6f6e4e4b168e52e1e5de2a6a5aebc5012c0d4f00a2783c06ea51d197.m3u8
+#EXTINF:-1 group-title="港澳台,#genre#",三立iNEWS
+https://epg.pm/stream/2c1e6bcb4f3e1cfd619ee889b656cd8c355669a35145595a239f1bc6148d74f7.m3u8
+#EXTINF:-1 group-title="港澳台,#genre#",三立iNEWS
+https://epg.pm/stream/acb17868a96d5baaf29bbb0e5f07eff2a75af4810eba70337833afd5f5ec8a2e.m3u8
+#EXTINF:-1 group-title="港澳台,#genre#",三立戏剧台
+https://epg.pm/stream/6b118f1bf8a3fda14774ad8d423c5dd6c0bb1ab491446e4f639748c39660e3a5.m3u8
+#EXTINF:-1 group-title="港澳台,#genre#",三立戏剧台
+https://epg.pm/stream/e4454863519eee3886a7a3b3fbc00604e986185ad67333ba3306a57cafad86b5.m3u8
+#EXTINF:-1 group-title="港澳台,#genre#",緯來電影
+https://epg.pm/stream/c8ef4f68abdee55a06c078230c904e4ee9073bab68de3ef63e54b4ac3c7df74f.m3u8
+#EXTINF:-1 group-title="港澳台,#genre#",緯來日本
+https://epg.pm/stream/5d30c19b0ae5afc0651f2024991fe8116805b02abaa09e163bc01b5ab875a18f.m3u8
+#EXTINF:-1 group-title="港澳台,#genre#",卫视电影
+https://epg.pm/stream/a8cef989671b57197faaa63740bdb3aa5ad9fc45d59f6ab4bbcac98848cdefd0.ctv
+#EXTINF:-1 group-title="港澳台,#genre#",無綫新聞台
+https://epg.pm/stream/f4d4a0c08680c8bf05efd0dc653daaedf99e2a8cddfcb4c3459b478400785bdc.ctv
+#EXTINF:-1 group-title="港澳台,#genre#",中国电影
+https://epg.pm/stream/12b1d86efdf2560f010bce7b5375d96d7ef706c1c19db8d9842062daae47d221.m3u8
+#EXTINF:-1 group-title="港澳台,#genre#",中华美食
+https://epg.pm/stream/41c5286af2607036c5fdf7307e5f4ab3b944ea7fb69dcd05a0b99ac14608bd37.m3u8
+#EXTINF:-1 group-title="港澳台,#genre#",中视新闻
+https://epg.pm/stream/a4dffc57cfca6b141af5f554bb60f5d563187b144586575d9bebd55d6ba82540.m3u8
+#EXTINF:-1 group-title="港澳台,#genre#",中天亚洲台
+https://epg.pm/stream/14649e03cee33ba18643ec03a4285fdcdcbfa0924ad9ec419015965af860fddb.m3u8
+#EXTINF:-1 group-title="港澳台,#genre#",中天娛樂
+https://epg.pm/stream/81fd4ae3ee79d3176913346544599b377d505d2ce53231a347da1f964a5e6957.ctv
+#EXTINF:-1 group-title="港澳台,#genre#",中天娛樂
+https://epg.pm/stream/b09f444962fe40dc48a3e45674a0a94fe01b1344408bbf3b20eff68e7f2b082b.m3u8
+#EXTINF:-1 group-title="港澳台,#genre#",中天娛樂
+https://epg.pm/stream/ed810e55cca8386b1dd05e1496095d454a9311d3a39932ed23911b174cdc110e.m3u8
+#EXTINF:-1 group-title="港澳台,#genre#",中天综合
+https://epg.pm/stream/b93473773ee612992096eed496152c59b16a4b4b7bb19f273c715d24f14c2550.m3u8
+#EXTINF:-1 group-title="港澳台,#genre#",CTS
+https://epg.pm/stream/f366d74909ba1cf8b6c3f2364f553076139104e93c2be813835db44e8c4e4312.ctv
+#EXTINF:-1 group-title="港澳台,#genre#",ELTA影劇
+https://epg.pm/stream/8542185f9dd108a75391645702db379b7ec63a9f7892d98c1e016b84f4a1aca8.m3u8
+#EXTINF:-1 group-title="港澳台,#genre#",EYE TV戲劇台
+https://epg.pm/stream/1e72ba32e2ec8d26cc8074bdf0e530ccb7554fbc0d31dbe225600e6e97242fd8.m3u8
+#EXTINF:-1 group-title="港澳台,#genre#",FashionTV
+https://epg.pm/stream/d98f134425caee7fe3ca3b95eeed9344457c8210ce101d2c15dbdaf9842822fa.m3u8
+#EXTINF:-1 group-title="港澳台,#genre#",HBO
+https://epg.pm/stream/f692e6213cd84573e56dba1dfde98cac8b7f6a8fbbac047279aa067850746d1f.m3u8
+#EXTINF:-1 group-title="港澳台,#genre#",IKIM
+https://epg.pm/stream/f282a5c5a3945d57b185d3759dafcc5f1a26b7166d1c06a527e180a027471bb9.m3u8
+#EXTINF:-1 group-title="港澳台,#genre#",J2
+https://epg.pm/stream/ca570e5de7438d722055195748068ad15f14dd97c28e3f2043fc744bf0c51c58.ctv
+#EXTINF:-1 group-title="港澳台,#genre#",J2
+https://epg.pm/stream/e964d5ad248118fc99f0909ee8708ef7b10bf1d2787c97251a93c33b36474d0a.m3u8
+#EXTINF:-1 group-title="港澳台,#genre#",J5
+https://epg.pm/stream/6cda986cca80589455d6f12e7f1127544213d5458e5f8e716c16dc6b7f2272ef.ctv
+#EXTINF:-1 group-title="港澳台,#genre#",J5
+https://epg.pm/stream/b773a6e284df5ac93a05a44b2118be52cf4f9109a0c3cb7ec720bf246b061dce.m3u8
+#EXTINF:-1 group-title="港澳台,#genre#",JET综合
+https://epg.pm/stream/7498dd94d030ea9fdf87a6e285447eb361b3914417770b29296377c98a3fe135.m3u8
+#EXTINF:-1 group-title="港澳台,#genre#",momo 1台
+https://epg.pm/stream/5c46060c29b8cd5c9d8941b9c206f4bedc6f348274277f42244eb8cc9c85e4af.m3u8
+#EXTINF:-1 group-title="港澳台,#genre#",momo 1台
+https://epg.pm/stream/f551b0240044d679d8cc358438eb2960d0a9e6b922db5551e500b622bf52889b.m3u8
+#EXTINF:-1 group-title="港澳台,#genre#",RTHK31
+https://epg.pm/stream/b0033f1dbabe7895aa0f7a31bf86a036528128e211c9cf37f01de9d918757d2b.m3u8
+#EXTINF:-1 group-title="港澳台,#genre#",RTHK32
+https://epg.pm/stream/7227bc3ca67dd67dfeb96916698ff2970a5942b3dc0981453754615d10e5a558.m3u8
+#EXTINF:-1 group-title="港澳台,#genre#",THE K-POP
+https://epg.pm/stream/901842c769b9d5bcc1254a247018da30e3d33bb1968010ffb328149b03a50bfb.m3u8
+#EXTINF:-1 group-title="港澳台,#genre#",TV8
+https://epg.pm/stream/8a8558cdd9190234e48d67fe29963efce326544bb442f48973a018c90836b046.m3u8
+#EXTINF:-1 group-title="港澳台,#genre#",TVBS
+https://epg.pm/stream/b2d9db5437689cca7b6c4ef979b65c46b2e7281a2180578195dfa41c9ff1b665.m3u8
+#EXTINF:-1 group-title="港澳台,#genre#",TVBS新聞
+https://epg.pm/stream/13adcea28170d709798601502f309329742702587e2946d30e84fd8e1b274a45.m3u8
+#EXTINF:-1 group-title="港澳台,#genre#",TVBS新聞
+https://epg.pm/stream/8478982b497c110423fa6e5648997c9160cc6427f9a2cccd7a3527d9ddb8e4c8.m3u8
+#EXTINF:-1 group-title="港澳台,#genre#",TVE 24 Horas
+https://epg.pm/stream/b0b44c82a41f4efeaa0410a66f1729dd0e765f40d2dd74a20a18b5ec741570e8.ctv
+#EXTINF:-1 group-title="港澳台,#genre#",VASANTHAM
+https://epg.pm/stream/64a0273786058d1537999b78251b783982f94a16f290538531331537919990ca.ctv
+#EXTINF:-1 group-title="港澳台,#genre#",ViuTV
+https://epg.pm/stream/9d32668ae4e57c682a5c230bca7d0d8de4d8bcae53fc1ad1b5dbfd14b58ca2d8.m3u8
+#EXTINF:-1 group-title="港澳台,#genre#",ViuTV
+https://epg.pm/stream/74608ab5e5f77d7a0c4625435adc621c41841f7e6489faca867268fc4b6b859f.ctv
+#EXTINF:-1 group-title="港澳台,#genre#",ViuTV1
+https://epg.pm/stream/cb736257bba9f749c10605d4f0251504f8c0345fb1da64bdc28cbca76866cce5.ctv
+#EXTINF:-1 group-title="港澳台,#genre#",ViuTV6
+https://epg.pm/stream/dc20c6096c276ac0d44f1c3d5788802d29b647e8e279826b9a9a7575d542d171.ctv
+#EXTINF:-1 group-title="港澳台,#genre#",EYE TV戲劇
+http://50.7.220.74:8278/eyetvxiju_twn/playlist.m3u8?tid=m379e8846d31b14432367&ct=17874&tsum=2c4c2acd16a5a5e00797ad6f4c4cb586
+#EXTINF:-1 group-title="港澳台,#genre#",HBO溫馨家庭
+http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
+#EXTINF:-1 group-title="港澳台,#genre#",TVBSG
+http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+#EXTINF:-1 group-title="港澳台,#genre#",民视新闻台
+http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1 group-title="港澳台,#genre#",台視
+http://50.7.220.74:8278/ttv_taiwan/playlist.m3u8?tid=mdea1ba75c9e516139101&ct=17874&tsum=95f1742d36f959fe6e241587a4f8e970
+#EXTINF:-1 group-title="港澳台,#genre#",天映經典
+http://50.7.220.74:8278/Celestial2/playlist.m3u8?tid=m6ef86c74cc921039065&ct=17916&tsum=d3a0eedfcfc050a71e7c99ea52c0da04
+#EXTINF:-1 group-title="港澳台,#genre#",香港卫视
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
+#EXTINF:-1 group-title="港澳台,#genre#",香港卫视
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 #EXTINF:-1 group-title="港澳台,#genre#",翡翠台
 http://23.237.10.66:16106
-#EXTINF:-1 group-title="港澳台,#genre#",翡翠台
-http://50.7.168.234:8278/jade_twn/playlist.m3u8?tid=m51e8c5582227&ct=18336&tsum=d0987332bec9b0fecc98b9b9ff3ddeac
 #EXTINF:-1 group-title="港澳台,#genre#",翡翠华丽
 http://23.237.10.66:16410
-#EXTINF:-1 group-title="港澳台,#genre#",无线新闻
-http://23.237.10.66:16110
-#EXTINF:-1 group-title="港澳台,#genre#",无线新闻
-https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/playlist.m3u8
-#EXTINF:-1 group-title="港澳台,#genre#",无线新闻
-https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
 #EXTINF:-1 group-title="港澳台,#genre#",TVB翡翠HD
 https://cdn.hklive.tv/xxxx/81/index.m3u8
 #EXTINF:-1 group-title="港澳台,#genre#",TVB J2台
@@ -247,8 +451,6 @@ https://cdn.hklive.tv/xxxx/85/index.m3u8
 https://cdn.hklive.tv/xxxx/77/index.m3u8
 #EXTINF:-1 group-title="港澳台,#genre#",VIU
 https://cdn.hklive.tv/xxxx/96/index.m3u8
-#EXTINF:-1 group-title="港澳台,#genre#",无线新闻
-https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
 #EXTINF:-1 group-title="港澳台,#genre#",凤凰中文
 http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 group-title="港澳台,#genre#",凤凰中文
@@ -256,41 +458,17 @@ http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 group-title="港澳台,#genre#",凤凰中文
 https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8
 #EXTINF:-1 group-title="港澳台,#genre#",凤凰中文
-http://[2409:8087:2004:10::2786:474b]/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8?icpid=4&RTS=1639880648&from=1&hms_devid=221&vqe=3
-#EXTINF:-1 group-title="港澳台,#genre#",凤凰中文
 http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 group-title="港澳台,#genre#",凤凰中文
 http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv1.m3u8
 #EXTINF:-1 group-title="港澳台,#genre#",凤凰中文
-http://anren.live/HK/AQtR.m3u8
-#EXTINF:-1 group-title="港澳台,#genre#",凤凰中文
-http://yuniptvunql.chinayungu.cn:65530/live/fhzw/index.m3u8
-#EXTINF:-1 group-title="港澳台,#genre#",凤凰中文
-http://125.210.152.21:9120/live/FHZW.m3u8
-#EXTINF:-1 group-title="港澳台,#genre#",凤凰中文
 http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
 #EXTINF:-1 group-title="港澳台,#genre#",凤凰资讯
 http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv1.m3u8
-#EXTINF:-1 group-title="港澳台,#genre#",无线新闻
-http://ye23.win/iptv/tvb.php?id=1
-#EXTINF:-1 group-title="港澳台,#genre#",无线财经
-http://ye23.win/iptv/tvb.php?id=2
-#EXTINF:-1 group-title="港澳台,#genre#",无线新闻
-http://ye23.win/iptv/tvb.php?id=4
-#EXTINF:-1 group-title="港澳台,#genre#",无线新闻
-http://ye23.win/iptv/tvb.php?id=5
-#EXTINF:-1 group-title="港澳台,#genre#",无线新闻
-http://111.229.84.232/yulin/tvb.php?id=1
-#EXTINF:-1 group-title="港澳台,#genre#",无线财经
-http://111.229.84.232/yulin/tvb.php?id=2
 #EXTINF:-1 group-title="港澳台,#genre#",Now新聞332台
 http://livetv.dnsfor.me:80/channel.4.m3u8
 #EXTINF:-1 group-title="港澳台,#genre#",Now直播331台
 http://livetv.dnsfor.me:80/channel.3.m3u8
-#EXTINF:-1 group-title="港澳台,#genre#",無綫新聞台
-http://livetv.dnsfor.me:80/channel.10.m3u8
-#EXTINF:-1 group-title="港澳台,#genre#",無綫財經資訊台
-http://livetv.dnsfor.me:80/channel.11.m3u8
 #EXTINF:-1 group-title="港澳台,#genre#",Now Sports Prime 630
 http://livetv.dnsfor.me:80/channel.12.m3u8
 #EXTINF:-1 group-title="港澳台,#genre#",RTHK31
@@ -305,151 +483,11 @@ http://livetv.dnsfor.me:80/channel.6.m3u8
 http://livetv.dnsfor.me:80/channel.7.m3u8
 #EXTINF:-1 group-title="港澳台,#genre#",開電視
 http://livetv.dnsfor.me:80/channel.9.m3u8
-#EXTINF:-1 group-title="港澳台,#genre#",有线新闻
-rtmp://v3948069e.live.126.net/live/8ad6da5302022e3a8b67ccc9848614e/ggbox/index#http://livetv.dnsfor.me:80/channel.5.m3u8
-#EXTINF:-1 group-title="港澳台,#genre#",香港有線新聞
-rtmp://202.39.64.233/channel/60c2d2bd961593122ebaf8b7?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplhWA1Sh5OSXH0%2BGEAGw2JpJUyn%2Fcg%2BxzGoxzMdNqNCic
 #EXTINF:-1 group-title="港澳台,#genre#",FashionTV1
 https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="港澳台,#genre#",FashionTV2
-http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
-#EXTINF:-1 group-title="港澳台,#genre#",FashionTV3
-http://lb.streaming.sk/fashiontv/stream/chunklist_w1402273512.m3u8
 #EXTINF:-1 group-title="港澳台,#genre#",有线新闻
 https://api.leonardpark.dev/live/icable/109
 #EXTINF:-1 group-title="港澳台,#genre#",香港有線新聞
 https://uc6.i-cable.com/live_freedirect/freehd209_h.live/chunklist_w784366279.m3u8
 #EXTINF:-1 group-title="港澳台,#genre#",澳亚卫视
 https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
-#EXTINF:-1 group-title="港澳台,#genre#",TVBS新闻tv
-https://tv.puboat.com/live.m3u8?c=22
-#EXTINF:-1 group-title="港澳台,#genre#",中视新闻tv
-https://tv.puboat.com/live.m3u8?c=21
-#EXTINF:-1 group-title="港澳台,#genre#",民视新闻tv
-https://tv.puboat.com/live.m3u8?c=25
-#EXTINF:-1 group-title="港澳台,#genre#",台视新闻tv
-https://tv.puboat.com/live.m3u8?c=27
-#EXTINF:-1 group-title="港澳台,#genre#",中天新闻
-https://tv.puboat.com/live.m3u8?c=26
-#EXTINF:-1 group-title="港澳台,#genre#",环宇新闻
-https://tv.puboat.com/live.m3u8?c=28
-#EXTINF:-1 group-title="港澳台,#genre#",东森新闻
-https://tv.puboat.com/live.m3u8?c=29
-#EXTINF:-1 group-title="",翡翠台
-https://t6.iptv200.com/live/tvb/index.m3u8?session=xc1ovbk1yogn7i9ysxsfvh8ehigujbh0
-#EXTINF:-1 group-title="",无线新闻
-https://t15.iptv200.com/live/inews/index.m3u8?session=fy1w586j78rm1t9bk289nz4w9v4cirn0
-#EXTINF:-1 group-title="",翡翠台
-http://23.237.10.66:16106
-#EXTINF:-1 group-title="",翡翠台
-http://50.7.168.234:8278/jade_twn/playlist.m3u8?tid=m51e8c5582227&ct=18336&tsum=d0987332bec9b0fecc98b9b9ff3ddeac
-#EXTINF:-1 group-title="",翡翠华丽
-http://23.237.10.66:16410
-#EXTINF:-1 group-title="",无线新闻
-http://23.237.10.66:16110
-#EXTINF:-1 group-title="",无线新闻
-https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/playlist.m3u8
-#EXTINF:-1 group-title="",无线新闻
-https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
-#EXTINF:-1 group-title="",TVB翡翠HD
-https://cdn.hklive.tv/xxxx/81/index.m3u8
-#EXTINF:-1 group-title="",TVB J2台
-https://cdn.hklive.tv/xxxx/82/index.m3u8
-#EXTINF:-1 group-title="",TVB無綫新聞
-https://cdn.hklive.tv/xxxx/83/index.m3u8
-#EXTINF:-1 group-title="",TVB明珠台
-https://cdn.hklive.tv/xxxx/84/index.m3u8
-#EXTINF:-1 group-title="",TVB無綫財經
-https://cdn.hklive.tv/xxxx/85/index.m3u8
-#EXTINF:-1 group-title="",香港开电视
-https://cdn.hklive.tv/xxxx/77/index.m3u8
-#EXTINF:-1 group-title="",VIU
-https://cdn.hklive.tv/xxxx/96/index.m3u8
-#EXTINF:-1 group-title="",无线新闻
-https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
-#EXTINF:-1 group-title="",凤凰中文
-http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
-#EXTINF:-1 group-title="",凤凰中文
-http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
-#EXTINF:-1 group-title="",凤凰中文
-https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8
-#EXTINF:-1 group-title="",凤凰中文
-http://[2409:8087:2004:10::2786:474b]/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8?icpid=4&RTS=1639880648&from=1&hms_devid=221&vqe=3
-#EXTINF:-1 group-title="",凤凰中文
-http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-#EXTINF:-1 group-title="",凤凰中文
-http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv1.m3u8
-#EXTINF:-1 group-title="",凤凰中文
-http://anren.live/HK/AQtR.m3u8
-#EXTINF:-1 group-title="",凤凰中文
-http://yuniptvunql.chinayungu.cn:65530/live/fhzw/index.m3u8
-#EXTINF:-1 group-title="",凤凰中文
-http://125.210.152.21:9120/live/FHZW.m3u8
-#EXTINF:-1 group-title="",凤凰中文
-http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
-#EXTINF:-1 group-title="",凤凰资讯
-http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv1.m3u8
-#EXTINF:-1 group-title="",无线新闻
-http://ye23.win/iptv/tvb.php?id=1
-#EXTINF:-1 group-title="",无线财经
-http://ye23.win/iptv/tvb.php?id=2
-#EXTINF:-1 group-title="",无线新闻
-http://ye23.win/iptv/tvb.php?id=4
-#EXTINF:-1 group-title="",无线新闻
-http://ye23.win/iptv/tvb.php?id=5
-#EXTINF:-1 group-title="",无线新闻
-http://111.229.84.232/yulin/tvb.php?id=1
-#EXTINF:-1 group-title="",无线财经
-http://111.229.84.232/yulin/tvb.php?id=2
-#EXTINF:-1 group-title="",Now新聞332台
-http://livetv.dnsfor.me:80/channel.4.m3u8
-#EXTINF:-1 group-title="",Now直播331台
-http://livetv.dnsfor.me:80/channel.3.m3u8
-#EXTINF:-1 group-title="",無綫新聞台
-http://livetv.dnsfor.me:80/channel.10.m3u8
-#EXTINF:-1 group-title="",無綫財經資訊台
-http://livetv.dnsfor.me:80/channel.11.m3u8
-#EXTINF:-1 group-title="",Now Sports Prime 630
-http://livetv.dnsfor.me:80/channel.12.m3u8
-#EXTINF:-1 group-title="",RTHK31
-http://livetv.dnsfor.me:80/channel.1.m3u8
-#EXTINF:-1 group-title="",RTHK32
-http://livetv.dnsfor.me:80/channel.2.m3u8
-#EXTINF:-1 group-title="",有線新聞台 HD
-http://livetv.dnsfor.me:80/channel.5.m3u8
-#EXTINF:-1 group-title="",有線財經資訊台 HD
-http://livetv.dnsfor.me:80/channel.6.m3u8
-#EXTINF:-1 group-title="",有線綜合娛樂台 HD
-http://livetv.dnsfor.me:80/channel.7.m3u8
-#EXTINF:-1 group-title="",開電視
-http://livetv.dnsfor.me:80/channel.9.m3u8
-#EXTINF:-1 group-title="",有线新闻
-rtmp://v3948069e.live.126.net/live/8ad6da5302022e3a8b67ccc9848614e/ggbox/index#http://livetv.dnsfor.me:80/channel.5.m3u8
-#EXTINF:-1 group-title="",香港有線新聞
-rtmp://202.39.64.233/channel/60c2d2bd961593122ebaf8b7?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplhWA1Sh5OSXH0%2BGEAGw2JpJUyn%2Fcg%2BxzGoxzMdNqNCic
-#EXTINF:-1 group-title="",FashionTV1
-https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="",FashionTV2
-http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
-#EXTINF:-1 group-title="",FashionTV3
-http://lb.streaming.sk/fashiontv/stream/chunklist_w1402273512.m3u8
-#EXTINF:-1 group-title="",有线新闻
-https://api.leonardpark.dev/live/icable/109
-#EXTINF:-1 group-title="",香港有線新聞
-https://uc6.i-cable.com/live_freedirect/freehd209_h.live/chunklist_w784366279.m3u8
-#EXTINF:-1 group-title="",澳亚卫视
-https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
-#EXTINF:-1 group-title="",TVBS新闻tv
-https://tv.puboat.com/live.m3u8?c=22
-#EXTINF:-1 group-title="",中视新闻tv
-https://tv.puboat.com/live.m3u8?c=21
-#EXTINF:-1 group-title="",民视新闻tv
-https://tv.puboat.com/live.m3u8?c=25
-#EXTINF:-1 group-title="",台视新闻tv
-https://tv.puboat.com/live.m3u8?c=27
-#EXTINF:-1 group-title="",中天新闻
-https://tv.puboat.com/live.m3u8?c=26
-#EXTINF:-1 group-title="",环宇新闻
-https://tv.puboat.com/live.m3u8?c=28
-#EXTINF:-1 group-title="",东森新闻
-https://tv.puboat.com/live.m3u8?c=29

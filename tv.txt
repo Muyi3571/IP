@@ -456,6 +456,47 @@ TVBS新闻,https://epg.pm/stream/b25d1fa77951f24d82b6f83f0a6eb8e9a9d4f22fc734ff4
 
 
 体育,#genre#
+astro Supersport,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/485564
+astro Supersport 2,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/485565
+astro Supersport 3,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/485566
+astro Supersport 4,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/485567
+astro Supersport 5,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/485569
+Sky Sports Main Event,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428298
+Sky Sports Premier League,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428320
+Sky Sports Football,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428292
+Sky Sports Arena,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/431479
+Sky Sports Cricket,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/377942
+Sky Sports F1,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428289
+Sky Sports Golf,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/375845
+Sky Sports Mix,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428300
+Sky Sports News,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/483428
+Sky Sports Racing,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428306
+BT SPORT 1,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428237
+BT SPORT 2,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428240
+BT SPORT 3,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428243
+BT SPORT 4,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428246
+TSN 1,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418553
+TSN 2,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418554
+TSN 3,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418555
+TSN 4,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418534
+TSN 5,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418535
+Now Sports 4K,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425322
+Now Sports 1,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425329
+Now Sports 2,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425328
+Now Sports 3,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425327
+Now Sports 4,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425326
+Now Sports 5,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425325
+Now Sports 6,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425324
+Now Sports 7,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425323
+Now Premier Sports 1,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425332
+Now Premier Sports 2,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425333
+Now Premier Sports 3,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425334
+Now Premier Sports 4,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425335
+Now Premier Sports 5,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425336
+Now Premier Sports 6,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425337
+Now Premier Sports 7,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425331
+Now Premier Sports 8,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425330
+
 Abu Dhabi SPORT,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/2256/index.m3u8?checkedby:ahlakid.com
 Abu Dhabi SPORT,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6832/index.m3u8?checkedby:ahlakid.com
 Abu Dhabi SPORTS 1,http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_SPORTS1&checkedby:ahlakid.com

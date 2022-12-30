@@ -240,6 +240,40 @@ Fox News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 FOX Sport,https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 NHK,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 NHK,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+NBC,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/419895
+ABC,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/376410
+CBS,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/424635
+FOX,http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/52955
+CW,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/419893
+CNN,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418435
+BBC WORLD NEWS,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418112
+FOX NEWS CHANNEL,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/488004
+NBC NEWS NOW,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/405946
+ABC NEWS LIVE,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418139
+CNBC,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418115
+MSNBC,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418123
+FOX SPORTS 1,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/488005
+FOX SPORTS 2,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418179
+FOX SOCCER PLUS,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418210
+ESPN,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418175
+ESPN 2,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418173
+ESPN NEWS,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418174
+NBA TV,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418182
+WWE NETWORK,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/405955
+BEIN SPORTS,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/376417
+TNT,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/376412
+USA NETWORK,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/417921
+TBS,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/419360
+AMC,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/417872
+HBO,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418057
+CINEMAX,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418077
+CBS SPORTS NETWORK,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/487974
+BBC ONE,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428366
+BBC TWO,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428368
+BBC THREE,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428370
+BBC FOUR,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428372
+CBBC,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428205
+Sky News,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/435362
 
 SG,#genre#
 NBATV,http://line.premiumpowers.net:80/Manuel/1234567/941562

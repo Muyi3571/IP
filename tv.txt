@@ -390,6 +390,75 @@ BBC WORLD NEWS,http://line.premiumpowers.net:80/Manuel/1234567/941693
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8?zgangd
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8?zgangd
+翡翠台,http://103.214.71.71:1631/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=70qj8XH4usan4DGZc2X6uw&expires=1672125181
+无线新闻,http://103.214.71.71:1633/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=70qj8XH4usan4DGZc2X6uw&expires=1672125181
+無綫財經 體育 資訊台,http://103.214.71.71:1689/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=bjaD1wSYnGNqDL_CzY2Geg&expires=1672125765
+有限新闻台,http://103.214.71.71:1635/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=70qj8XH4usan4DGZc2X6uw&expires=1672125181
+有限财经台,http://103.214.71.71:1637/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=70qj8XH4usan4DGZc2X6uw&expires=1672125181
+香港开电视,http://103.214.71.71:1639/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=70qj8XH4usan4DGZc2X6uw&expires=1672125181
+J2,http://103.214.71.71:1642/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=70qj8XH4usan4DGZc2X6uw&expires=1672125181
+明珠台,http://103.214.71.71:1691/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=NPnnfUxqnGx90BVftJw4fA&expires=1672125771
+香港国际财经台,http://103.214.71.71:1645/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=70qj8XH4usan4DGZc2X6uw&expires=1672125181
+ViuTV,http://103.214.71.71:1648/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=70qj8XH4usan4DGZc2X6uw&expires=1672125181
+凤凰中文,http://103.214.71.71:1651/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=70qj8XH4usan4DGZc2X6uw&expires=1672125181
+凤凰资讯,http://103.214.71.71:1654/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=70qj8XH4usan4DGZc2X6uw&expires=1672125181
+澳视澳门,http://103.214.71.71:1693/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=70qj8XH4usan4DGZc2X6uw&expires=1672125181
+澳视资讯台,http://103.214.71.71:1657/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=70qj8XH4usan4DGZc2X6uw&expires=1672125181
+澳视体育,http://103.214.71.71:1697/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=70qj8XH4usan4DGZc2X6uw&expires=1672125181
+澳视综艺,http://103.214.71.71:1699/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=7MW6ETdT93XrTXEEU319AQ&expires=1672125780
+中天新闻,http://103.214.71.71:1660/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=70qj8XH4usan4DGZc2X6uw&expires=1672125181
+中天亚洲,http://103.214.71.71:1663/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=70qj8XH4usan4DGZc2X6uw&expires=1672125181
+TVBS新闻,http://103.214.71.71:1666/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=70qj8XH4usan4DGZc2X6uw&expires=1672125181
+TVBS56,http://103.214.71.71:1669/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=70qj8XH4usan4DGZc2X6uw&expires=1672125181
+民视新闻,http://103.214.71.71:1672/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=70qj8XH4usan4DGZc2X6uw&expires=1672125181
+三立新闻+,http://103.214.71.71:1675/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=70qj8XH4usan4DGZc2X6uw&expires=1672125181
+东森新闻,http://103.214.71.71:1677/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=70qj8XH4usan4DGZc2X6uw&expires=1672125181
+东森财经新闻,http://103.214.71.71:1679/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=70qj8XH4usan4DGZc2X6uw&expires=1672125181
+中视新闻,http://103.214.71.71:1681/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=70qj8XH4usan4DGZc2X6uw&expires=1672125181
+镜新闻,http://103.214.71.71:1683/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=70qj8XH4usan4DGZc2X6uw&expires=1672125181
+东森幼幼,http://103.214.71.71:1685/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=70qj8XH4usan4DGZc2X6uw&expires=1672125181
+寰宇新闻,http://103.214.71.71:1687/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=70qj8XH4usan4DGZc2X6uw&expires=1672125181
+东森综合,http://103.214.71.71:1701/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=s2s9B2ggthUXCHt3kCsy6w&expires=1672125783
+港台電視31,mitv://generationnexxxt.com:9906/edeb618c6961487c9aa09f92cdccff87
+港台电视32,mitv://generationnexxxt.com:9906/497b859f3e0a4a7991d9596357983bdc
+HOY TV,mitv://generationnexxxt.com:9906/388b5281ef2144f9b0f1483809b630ce
+翡翠台(备),mitv://generationnexxxt.com:9906/bebf0169c9ab4d6599eb6cd9fadb8afb
+J2,mitv://generationnexxxt.com:9906/574f908877f34fb89f4d4baf61c59e68
+无线新闻台(备),mitv://generationnexxxt.com:9906/ecadb578528244d58766f6e969d279b5
+无线新闻台,mitv://generationnexxxt.com:9906/1101dac1296f40e089b92553c823a0e6
+无线财经·资讯台,mitv://generationnexxxt.com:9906/7589ad7d4a2f4c87884807f7eff51942
+ViuTVsix,mitv://generationnexxxt.com:9906/9411ab8d23264d7db8efaf1a41023105
+ViuTV,mitv://generationnexxxt.com:9906/f21f4132b2304bbcb3531e9d837d0bc4
+凤凰中文台,mitv://generationnexxxt.com:9906/19302d935de34226826aa8f5a2dbc668
+凤凰资讯台,mitv://generationnexxxt.com:9906/1d779f490bab44c29767a2c3a6558c59
+凤凰香港台,mitv://generationnexxxt.com:9906/02a9cb9ec6974c35b45c0376ff4efeab
+TVB星河(粤),mitv://generationnexxxt.com:9906/2cbd6ffa893347de81529e644be10ac2
+阳光卫视,mitv://generationnexxxt.com:9906/33aa35d916a24ea18c5afd74edabb618
+澳门-MACAU,mitv://generationnexxxt.com:9906/8d73e8e5b3d74d0685dfdd5619ffa3b7
+澳门莲花,mitv://generationnexxxt.com:9906/a53c00a5be5b4d39a3ca0c1ea354daf8
+now新闻台,mitv://generationnexxxt.com:9906/b79fedebf5094806a89555c1afe77763
+now直播台,mitv://generationnexxxt.com:9906/4d57ffad50984d26b12f8dac2519d0cc
+HKC电影台,mitv://generationnexxxt.com:9906/7200dbd246164ca5b4804830fb5e28fd
+凤凰电影台,mitv://generationnexxxt.com:9906/669a8e49dc4a4643a08e17939920d781
+HKC新闻台,mitv://generationnexxxt.com:9906/0e0e68987cd24063895cf76df3c25d34
+HKC财经资讯台,mitv://generationnexxxt.com:9906/24a33cdea71f48eb87771b446f8ed66d
+HKC 18,mitv://generationnexxxt.com:9906/6356935c81bb47dea01725800367d230
+HKC 603,mitv://generationnexxxt.com:9906/f9997cd5f533461a9fc39e911d9e09d8
+HKC體育台,mitv://generationnexxxt.com:9906/8e5201bac7e84508a226a289978db63e
+HKC Sports Plus 1,mitv://generationnexxxt.com:9906/01b55db4e80046f29f736c7cc1b5c53e
+HKC综合娱乐台,mitv://generationnexxxt.com:9906/cd5327509a0d407f952ecef7ebe6d901
+TVB娱乐新闻台,mitv://generationnexxxt.com:9906/1fc20d0f346a41c9a8b462c6903500f0
+翡翠台,mitv://generationnexxxt.com:9906/027f96540c5b4d4cb04fce43dddec24a
+TVB经典台,mitv://generationnexxxt.com:9906/28a11e673c574b948b3a7986fc6784f5
+Thrill,mitv://generationnexxxt.com:9906/9cb1055b5b8f4512a94401f22e848884
+明珠台,mitv://generationnexxxt.com:9906/035c03a9aed84593a3e4c9cecde00eae
+18台,mitv://generationnexxxt.com:9906/2a3ec0216b474d02bafb577221bc5d98
+美亚电影台(粤语),mitv://generationnexxxt.com:9906/3a62ddd011a0496d95c1e5852369601b
+Hands Up,mitv://generationnexxxt.com:9906/2add08eef835449b8f02c01b138fa264
+粤语片台,mitv://generationnexxxt.com:9906/08324fae45ac4b0392e5c92b1d83f37d
+亚洲剧台,mitv://generationnexxxt.com:9906/52a791dc62624341afea2b5b6ab7600a
+功夫台,mitv://generationnexxxt.com:9906/3ea383e69c5849cc8480307714784a0e
+HOY资讯台,mitv://generationnexxxt.com:9906/0bf5c859c0ee4a32846dd985e8ae1b1c
 TVB华丽台,http://pull-l3-cny.douyincdn.com/live/8f0f5b53f8ad921929fc9ac8771cbd82.m3u8
 TVB明珠台,http://pull-l3-cny.douyincdn.com/live/81c6196a626a87b4bc7a81d032b0bf7f.m3u8
 TVB财经台,http://pull-l3-cny.douyincdn.com/live/beb24d452126196227a4c183337d6bfd.m3u8

@@ -517,16 +517,175 @@ BBC THREE,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428370
 BBC FOUR,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428372
 CBBC,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428205
 Sky News,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/435362
+AR: FOX MOVIES ACTION HD,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/362074.ts
+AR: FOX MOVIES FAMILY HD,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/366489.ts
+AR: FOX MOVIES HD,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/362076.ts
+AL JAZEERA ENGLISH,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/367793.ts
+AMC,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/367795.ts
+BBC FOUR,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/349462.ts
+BBC FOUR,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/367798.ts
+BBC NEWS,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/363846.ts
+BBC ONE CAMBRIDGE,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/367799.ts
+BBC ONE CHANNEL ISLANDS,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/305788.ts
+BBC ONE EAST YORKSHIRE,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/367800.ts
+BBC ONE LONDON,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/341305.ts
+BBC ONE NORTH EAST & CUMBRIA,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/305793.ts
+BBC ONE NORTH WEST,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/316740.ts
+BBC ONE NORTHERN IRELAND,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/363847.ts
+BBC ONE OXFORD,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/305796.ts
+BBC ONE SCOTLAND,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/367801.ts
+BBC ONE SCOTLAND,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/367802.ts
+BBC ONE SOUTH EAST,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/338745.ts
+BBC ONE SOUTH WEST,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/321495.ts
+BBC ONE SOUTH,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/321493.ts
+BBC ONE WALES,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/364698.ts
+BBC ONE WALES,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/367803.ts
+BBC ONE WEST MIDLANDS,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/321496.ts
+BBC ONE WEST,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/321497.ts
+BBC ONE YORKS,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/367804.ts
+BBC ONE,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/351395.ts
+BBC ONE,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/365849.ts
+BBC PARLIAMENT,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/314703.ts
+BBC SCOTLAND,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/358541.ts
+BBC SCOTLAND,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/367805.ts
+BBC TWO NORTHERN IRELAND,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/366811.ts
+BBC TWO WALES,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/365850.ts
+BBC TWO WALES,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/367806.ts
+BBC TWO,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/363851.ts
+BBC WORLD NEWS,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/367807.ts
+BEIN SPORTS 11 (ENGLISH),http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/311203.ts
+BEIN SPORTS ENGLISH 1,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/324853.ts
+BEIN SPORTS ENGLISH 2,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/324529.ts
+BEIN SPORTS ENGLISH 3,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/324530.ts
+BEIN SPORTS USA,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/345475.ts
+BLAZE,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/305804.ts
+BLOOMBERG TV EMEA,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/367808.ts
+BOOMERANG,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/259172.ts
+BOX HITS,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/266529.ts
+BOXNATION ,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/366813.ts
+BOXNATION,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/366814.ts
+CARTOON NETWORK,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/355245.ts
+CARTOONITO,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/366815.ts
+CBBC,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/359406.ts
+CBBC,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/367809.ts
+CBEEBIES,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/362726.ts
+CBS DRAMA,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/367810.ts
+CBS ELEVEN SPORTS NETWORK,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/363634.ts
+CBS JUSTICE,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/356232.ts
+CBS REALITY,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/366816.ts
+CBS SPORTS NETWORK,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/367781.ts
+CGTN DOCUMENTARY,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/365856.ts
+CHALLENGE,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/305826.ts
+CHANNEL 4,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/358548.ts
+CHANNEL 44,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/340066.ts
+CHANNEL 5 +1,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/358549.ts
+CHANNEL 5,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/366818.ts
+CHANNEL 5,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/367811.ts
+CHANNEL 5,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/367812.ts
+CINEBOX ACTION,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/359408.ts
+CINEBOX ANIMATION,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/367813.ts
+CINEBOX BLOCKBUSTER,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/367814.ts
+CINEBOX CLASSICS,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/367815.ts
+CINEBOX COMEDY,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/367816.ts
+CINEBOX CULT,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/367817.ts
+CINEBOX FAMILY,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/367818.ts
+CINEBOX GREATS,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/367819.ts
+CINEBOX MYSTERY,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/367820.ts
+CITV,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/367821.ts
+CLUBBING TV,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/362824.ts
+CLUBLAND TV,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/305846.ts
+CNBC EUROPE,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/346137.ts
+CNN INTERNATIONAL,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/366821.ts
+CNN,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/363855.ts
+COLORS,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/366822.ts
+COMEDY CENTRAL EXTRA,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/305852.ts
+COMEDY CENTRAL,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/366823.ts
+COMEDY CHANNEL,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/367822.ts
+COURT TV,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/344838.ts
+CREATE & CRAFT,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/321500.ts
+CRIME & INVESTIGATION,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/365862.ts
+DISCOVERY CHANNEL,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/363858.ts
+DISCOVERY HISTORY +1,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/305870.ts
+DISCOVERY HISTORY,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/365863.ts
+DISCOVERY HISTORY,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/367825.ts
+DISCOVERY SCIENCE,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/367826.ts
+DISCOVERY TURBO,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/305878.ts
+DMAX,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/305880.ts
+FILM4,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/305912.ts
+FILM4,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/305913.ts
+FILMSTREAMS,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/367835.ts
+HORROR CHANNEL +1,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/305945.ts
+HORROR CHANNEL,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/305946.ts
+IDEAL WORLD,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/305949.ts
+ITV 2,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/365871.ts
+ITV 3,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/305982.ts
+ITV 3,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/365872.ts
+ITV 4,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/259288.ts
+ITV BE,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/290766.ts
+ITV CENTRAL WEST +1,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/367843.ts
+ITV CENTRAL,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/367844.ts
+ITV LONDON,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/362843.ts
+ITV,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/367845.ts
+ITV,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/367846.ts
+NATIONAL GEOGRAPHIC,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306029.ts
+NDTV,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306032.ts
+NHK WORLD,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/367852.ts
+PARAMOUNT NETWORK,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/365882.ts
+PARAMOUNT NETWORK,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/367856.ts
+RED BULL TV,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306067.ts
+REVELATION TV,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306069.ts
+ROK TV,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/367864.ts
+RT NEWS,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/350572.ts
+RTE NEWS NOW,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/363868.ts
+RTE ONE,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/364714.ts
+RTE TWO,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/359545.ts
+S4C,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/367865.ts
+SKY ARTS,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/364728.ts
+SKY ATLANTIC,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/362854.ts
+SKY ATLANTIC,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/367866.ts
+SKY CINEMA ACTION,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/367867.ts
+SKY CINEMA ANIMATION,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/366840.ts
+SKY CINEMA COMEDY,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/367868.ts
+SKY CINEMA DRAMA,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/366841.ts
+SKY CINEMA FAMILY,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/367869.ts
+SKY CINEMA GREATS,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/257155.ts
+SKY CINEMA HITS,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/357285.ts
+SKY CINEMA PREMIERE,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/366842.ts
+SKY CINEMA SCI-FI & HORROR,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/364734.ts
+SKY CINEMA SELECT,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/366843.ts
+SKY CINEMA THRILLER,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/367870.ts
+SKY COMEDY,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/367871.ts
+SKY DOCUMENTARIES,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/287899.ts
+SKY HISTORY 2,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/367872.ts
+SKY HISTORY,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/365895.ts
+SKY MAX,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/367873.ts
+SKY MAX,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/367874.ts
+SKY NATURE,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/366848.ts
+SKY NEWS,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/363897.ts
+SKY NEWS,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/367875.ts
+SONY TV,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306121.ts
+STV WEST ,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/338765.ts
+STV,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/319243.ts
+SYFY,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/259267.ts
+TALK TV,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/359446.ts
+TALKING PICTURES,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/367879.ts
+TBN,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/289529.ts
+THE WORD NETWORK,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/349523.ts
+TRT WORLD,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/285764.ts
+UTV,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/362842.ts
+UTV,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/364745.ts
+
 
 
 港澳台,#genre#
-凤凰香港,https://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰香港,http://198.16.64.10:8278/hkphoenix_twn/playlist.m3u8?tid=MACA2858291128582911&ct=19225&tsum=0f01288bbaa6c0403d07e96b0a5db4ed
+凤凰香港,https://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv1.m3u8
 凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
-凤凰中文台,http://198.16.64.10:8278/phoenixtv_hd/playlist.m3u8?tid=MFBF2713938527139385&ct=19225&tsum=1c8ca0899277714ab83db57245220068
+凤凰中文,http://198.16.64.10:8278/phoenixtv_hd/playlist.m3u8?tid=MFBF2713938527139385&ct=19225&tsum=1c8ca0899277714ab83db57245220068
 凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8?zgangd
@@ -539,654 +698,317 @@ Sky News,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/435362
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8?zgangd
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8?zgangd
-有线新闻台,https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
-有线财经资讯台,https://uc6.i-cable.com/live_freedirect/freehd208_h.live/playlist.m3u8
-华语影院,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/hyyy8m/8000000/mnf.m3u8
-星光影院,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/xgyy8m/8000000/mnf.m3u8
-全球大片,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/qqdp8m/8000000/mnf.m3u8
-热门剧场,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/rmjc8m/8000000/mnf.m3u8
-谍战剧场,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/dzjc8m/8000000/mnf.m3u8
-青春动漫,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/qcdm8m/8000000/mnf.m3u8
-宝宝动画,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/bbdh8m/8000000/mnf.m3u8
-TVB新闻台,http://pull-l3-cny.douyincdn.com/live/c8eff4963f336b2f831780fb09a37fb4.m3u8
-TVB华丽台,http://pull-l3-cny.douyincdn.com/live/8f0f5b53f8ad921929fc9ac8771cbd82.m3u8
-TVB翡翠台,http://pull-l3-cny.douyincdn.com/live/1f41fa6570c0c2fe39fef0752f76de81.m3u8
-TVB明珠台,http://pull-l3-cny.douyincdn.com/live/81c6196a626a87b4bc7a81d032b0bf7f.m3u8
-TVB财经台,http://pull-l3-cny.douyincdn.com/live/beb24d452126196227a4c183337d6bfd.m3u8
-TVB星河台,http://pull-l3-cny.douyincdn.com/live/d40c919171cfc73cf4de67fc381cbc3e.m3u8
-now新闻台,http://pull-l3-cny.douyincdn.com/live/f49db49809a6d8e96047011ee9160bc8.m3u8
-now财经台,http://pull-l3-cny.douyincdn.com/live/60b4bda9cef7c62d547a8c2ca1ca9c2c.m3u8
-now直播台,http://pull-l3-cny.douyincdn.com/live/fc910419627cee83895e03d74029cbb4.m3u8
-有线财经台,http://pull-l3-cny.douyincdn.com/live/6cce73798021d977d916afacf1caba36.m3u8
-有线直播台,http://pull-l3-cny.douyincdn.com/live/1696778d64f00f3f9c0aefe3b2136ffe.m3u8
-有线新闻台,http://pull-l3-cny.douyincdn.com/live/3ce3ba86a40b1b2055eeda4f8cf6517e.m3u8
-中天新闻台,http://pull-l3-cny.douyincdn.com/live/7898d38d54c60879ba96a1fa42edbd53.m3u8
-中天综合台,http://pull-l3-cny.douyincdn.com/live/5f26752efeee9e0c53cf6b530640ce60.m3u8
-东森新闻台,http://pull-l3-cny.douyincdn.com/live/37e4951f0608d79a74ebed4ab2da462a.m3u8
-台视新闻台,http://pull-l3-cny.douyincdn.com/live/af25e1a3f0fff1e8ea22c55a0c9352f0.m3u8
-民视新闻台,http://pull-l3-cny.douyincdn.com/live/304b8e04a437299311112b7f4902c9dd.m3u8
-TVBS新闻台,http://pull-l3-cny.douyincdn.com/live/e6b6ef594c30eb3f3de0fa4ba0ce86e6.m3u8
-TVBS亚洲台,http://pull-l3-cny.douyincdn.com/live/9f6ea8b662a55d5fa562ebaeb2880bfc.m3u8
-RT英语新闻,http://pull-l3-cny.douyincdn.com/live/01a22d8d466a6ef38b80e2ce6cd323c0.m3u8
-寰宇新闻台,http://pull-l3-cny.douyincdn.com/live/a9e3982a798d13ba350075af6cff4119.m3u8
-星卫电影台,http://pull-l3-cny.douyincdn.com/live/80d54eadb8f343a8b837c22e336155d1.m3u8
-纬来戏剧台,http://pull-l3-cny.douyincdn.com/live/cf93b19e055f2800058541033c0c4355.m3u8
-莲花电影台,http://pull-l3-cny.douyincdn.com/live/f3caad21816e3bfe2210a692387ab040.m3u8
-BOO驚悚台,http://pull-l3-cny.douyincdn.com/live/6ea2b038f2ce633a65f0450895f6679e.m3u8
-纬来电影台,http://pull-l3-cny.douyincdn.com/live/6de7ee8878da79aaf393c0f63081cb0c.m3u8
-美亚电影台,http://pull-l3-cny.douyincdn.com/live/b16e0049bdda5f54e62d3c9b694d81ff.m3u8
-龙华洋片台,http://pull-l3-cny.douyincdn.com/live/7c4301f3ec1b9c970db0af9d1c07e66f.m3u8
-好莱坞电影,http://pull-l3-cny.douyincdn.com/live/06027cd7cadf310982fe67221578515b.m3u8
-湖南电影台,http://pull-l3-cny.douyincdn.com/live/34633761735b6c677356a7c551f896e9.m3u8
-高清电影台,http://pull-l3-cny.douyincdn.com/live/8ef14dc0eb0f812bfa0a1311d0134f8d.m3u8
-龙祥电影台,http://pull-l3-cny.douyincdn.com/live/c32278dece9f79334a2a878aaa730e95.m3u8
-天映电影台,http://pull-l3-cny.douyincdn.com/live/4480903e93e7bf6ddde637e903c423a0.m3u8
-东森洋片台,http://pull-l3-cny.douyincdn.com/live/ed503be0a61dc988e0a7d9e1f57a1885.m3u8
-东森电影台,http://pull-l3-cny.douyincdn.com/live/3d50d525417f450fdbc3fbbf5ac32960.m3u8
-PLAYY웰메이드,http://pull-l3-cny.douyincdn.com/live/eac374df3c06e8985d587224a056f483.m3u8
-PLAYY액션영화,http://pull-l3-cny.douyincdn.com/live/41f29bf461ffa99e595f70b9593c61aa.m3u8
-PLAYY힐링영화,http://pull-l3-cny.douyincdn.com/live/ea6907626f7d64aa61e5ebf88180e43d.m3u8
-Asia N,http://pull-l3-cny.douyincdn.com/live/2ce10c5078ec753f8f50f4c3897e8f76.m3u8
-THE MOVIE,http://pull-l3-cny.douyincdn.com/live/adb7cf254b46d42d58828f590a6137bf.m3u8
-Channel China,http://pull-l3-cny.douyincdn.com/live/05fadffbceabeb97bbf09061a165791b.m3u8
-Channel Seezn,http://pull-l3-cny.douyincdn.com/live/9dbd2556b180db11b62283739297981b.m3u8
-探索频道HD,http://pull-l3-cny.douyincdn.com/live/34633761735b6c677356a7c551f89888.m3u8
-HBO,http://pull-l3-cny.douyincdn.com/live/b2478a833f3e8b439b680048fcbf7786.m3u8
-HBO家庭影院,http://pull-l3-cny.douyincdn.com/live/1279e1fd458348b32fd60381b1017c09.m3u8
-HBO原创电影,http://pull-l3-cny.douyincdn.com/live/9bfb4b08fec367ed3850357a853250d5.m3u8
-HBO强档影院,http://pull-l3-cny.douyincdn.com/live/162f0111fdd134e929d72640e6c4ea56.m3u8
-美亚电影,https://pull-l3-cny.douyincdn.com/live/b16e0049bdda5f54e62d3c9b694d81ff.m3u8
-龙华电影,https://pull-l3-cny.douyincdn.com/live/7c4301f3ec1b9c970db0af9d1c07e66f.m3u8
-纬来电影,https://pull-l3-cny.douyincdn.com/live/6de7ee8878da79aaf393c0f63081cb0c.m3u8
-民视台湾台,http://www.336699.live:1935/blockfour/4gtv-4gtv001.stream/playlist.m3u8
-民视,http://www.336699.live:1935/blockfour/4gtv-4gtv002.stream/playlist.m3u8
-民视第一台,http://www.336699.live:1935/blockfour/4gtv-4gtv003.stream/playlist.m3u8
-民视综艺台,http://www.336699.live:1935/blockfour/4gtv-4gtv004.stream/playlist.m3u8
-智林体育台,http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/playlist.m3u8
-TVBS,http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
-中视新闻,http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8
 CHY电影台,http://www.336699.live:1935/blockfour/4gtv-4gtv076.stream/playlist.m3u8
-HITS,http://www.336699.live:1935/blockfour/4gtv-4gtv082.stream/playlist.m3u8
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+DW,http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 GinX,http://www.336699.live:1935/blockfour/4gtv-4gtv053.stream/playlist.m3u8
-华视新闻资讯,http://www.336699.live:1935/blockfour/4gtv-4gtv052.stream/playlist.m3u8
-好莱坞电影,https://pull-l3-cny.douyincdn.com/live/06027cd7cadf310982fe67221578515b.m3u8
-卫视卡式台,https://d1--cn-gotcha204.bilivideo.com/live-bvc/792068/live_372775317_46465575/index.m3u8
-民视频道,https://pull-l3-cny.douyincdn.com/live/b2478a833f3e8b439b680048fcbf7786.m3u8
-中视新闻台,https://pull-l3-cny.douyincdn.com/live/cf93b19e055f2800058541033c0c4355.m3u8
-寰宇新闻台,https://pull-l3-cny.douyincdn.com/live/a9e3982a798d13ba350075af6cff4119.m3u8
-好莱坞电影,https://pull-l3-cny.douyincdn.com/live/06027cd7cadf310982fe67221578515b.m3u8
-TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8 
-TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8 
-民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8 
-民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8 
-台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-卫视中文台,http://61.219.170.95:18522/hls/62/804/ch05.m3u8 
-卫视电影台,http://61.219.170.95:18529/hls/62/804/ch07.m3u8 
-星卫电影台,http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2 
-纬来戏剧,http://61.219.170.95:18557/http/192.168.1.9:8081/hls/69/811/ch33.m3u8 
-纬来戏剧,http://61.219.170.95:18557/hls/69/811/ch33.m3u8 
-东森超视,http://61.219.170.95:18555/hls/64/806/ch14.m3u8 
-年代MUCH,http://61.219.170.95:18558/hls/72/814/ch45.m3u8 
-中天娱乐,http://61.219.170.95:18521/hls/67/809/ch26.m3u8 
-台视,http://61.219.170.95:18543/hls/72/814/ch46.m3u8 
-大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8 
-八大综合台,http://61.219.170.95:18517/hls/66/808/ch21.m3u8 
-八大第1台,http://61.219.170.95:18539/hls/66/808/ch22.m3u8 
-纬来综合,http://61.219.170.95:18540/hls/68/810/ch32.m3u8 
-龙华戏剧,http://61.219.170.95:18507/hls/210/10010/cstv10.m3u8 
-龙华偶像,http://61.219.170.95:18573/hls/210/10012/cstv12.m3u8 
-龙华电影,http://61.219.170.95:18574/hls/210/10014/cstv14.m3u8 
-东森财经新闻,rtmp://59.124.75.150/sat/tv571 
-东森新闻,http://61.219.170.95:18512/.m3u8 
-中天新闻,http://61.219.170.95:18513/.m3u8 
-台视,http://61.219.170.95:18543/.m3u8
-台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8     
-TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8   AXN,http://61.219.170.95:18548/.m3u8
-周星驰-粤语,http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2777036638-10057-A-0-1.xs
-周星驰,http://txtest-xp2p.p2p.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1-imgplus.xs
-吴孟达,http://txtest-xp2p.p2p.huya.com/src/1388457235-1388457235-5963378416219586560-2777037926-10057-A-0-1.xs
-林正英,http://txtest-xp2p.p2p.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.xs
-沈腾,http://txtest-xp2p.p2p.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1.xs
-甄子丹,http://txtest-xp2p.p2p.huya.com/src/1423787820-1423787820-6115122123343134720-2847699096-10057-A-0-1.xs
-成龙,http://txtest-xp2p.p2p.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1.xs
-李连杰,http://txtest-xp2p.p2p.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1.xs
-电视剧,http://txtest-xp2p.p2p.huya.com/src/1394575538-1394575538-5989656327511605248-2789274532-10057-A-0-1.xs
-金庸,http://txtest-xp2p.p2p.huya.com/src/1394575562-1394575562-5989656430590820352-2789274580-10057-A-0-1.xs
 HBO HD,http://pull-l3-cny.douyincdn.com/live/b2478a833f3e8b439b680048fcbf7786.m3u8
 HBO家庭影院,http://pull-l3-cny.douyincdn.com/live/1279e1fd458348b32fd60381b1017c09.m3u8
 HBO强档影院,http://pull-l3-cny.douyincdn.com/live/162f0111fdd134e929d72640e6c4ea56.m3u8
+HBO原创电影,http://pull-l3-cny.douyincdn.com/live/9bfb4b08fec367ed3850357a853250d5.m3u8
+HITS,http://www.336699.live:1935/blockfour/4gtv-4gtv082.stream/playlist.m3u8
 HKC有線新聞台,https://api.leonardpark.dev/live/icable/109
 HKC有線直播新聞台,https://api.leonardpark.dev/live/icable/110
-凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
-凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
-莲花卫视,http://iptv.cooltv.top/tv/lotus.php
-无线新闻台,http://iptv.cooltv.top/tv/tvb.php?id=0
-有线新闻台,http://61.10.2.140/live_freedirect/freehd209_h.live/playlist.m3u8
-now新闻台,http://iptv.cooltv.top/tv/now.php?id=332
-now财经台,http://iptv.cooltv.top/tv/now.php?id=333
-now直播台,http://iptv.cooltv.top/tv/now.php?id=331
-香港国际财经台,http://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/playlist.m3u8
-有线财经资讯台,http://61.10.2.140/live_freedirect/freehd208_h.live/playlist.m3u8
-无线财经资讯台,http://iptv.cooltv.top/tv/tvb.php?id=2
-耀才财经台,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-RTHK31,http://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
-RTHK32,http://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
-翡翠台,https://cdn.hklive.tv/xxxx/81/index.m3u8
-ViU TV,https://cdn.hklive.tv/hls/99/index.m3u8
-ViU 6,https://cdn.hklive.tv/hls/96/index.m3u8
-V2BEAT,http://de1se01.v2beat.live/playlist.m3u8
-澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
-美国中文电视,https://jpts.sinovision.net/livestream.m3u8
-大爱1台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-大爱2台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-RT新闻,https://rt-rtd.rttv.com/live/rtnews/playlist.m3u8
-RT纪录,https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
-DW,http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-NHK World,http://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-J2,https://cdn.hklive.tv/xxxx/82/index.m3u8
-J2,https://cdn.hklive.tv:443/xxxx/82/index.m3u8
 J2,https://j3.lhlh.app/mv.m3u8
 J2,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 J2,https://p2.weizan.cn:443/1646497941/269664979080385265/live.m3u8
-KBS1 HD,http://pull-l3-cny.douyincdn.com/live/da1f0d9f19a7ad52a9675a58e08de24b.m3u8
-KBS2 HD,http://pull-l3-cny.douyincdn.com/live/9accc1d4ae7e4bfa7350249c05a0e3af.m3u8
-MBC HD,http://pull-l3-cny.douyincdn.com/live/4f444d2b71e8fbab0a8802b9fa23ea5b.m3u8
-Now新闻台,http://pull-l3-cny.douyincdn.com/live/f49db49809a6d8e96047011ee9160bc8.m3u8
-RTHK31,https://cdn.hklive.tv/xxxx/31/index.m3u8
+Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+NHK World,http://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+RTHK31,http://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 RTHK31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 RTHK32,http://50.7.220.74:8278/rhk32_twn/playlist.m3u8?tid=m941409fa5c86&ct=18336&tsum=af847919dbe19ba95dbe614c6cfe2a10
-RTHK32,https://cdn.hklive.tv/xxxx/32/index.m3u8
+RTHK32,http://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
-RTHK33,https://cdn.hklive.tv:443/xxxx/33/index.m3u8
-RTHK34,https://cdn.hklive.tv:443/xxxx/34/index.m3u8
-RT英语新闻,http://pull-l3-cny.douyincdn.com/live/01a22d8d466a6ef38b80e2ce6cd323c0.m3u8
-SBS HD,http://pull-l3-cny.douyincdn.com/live/d10b659225b3738937372b8835b94f1c.m3u8
+RT纪录,https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
+RT新闻,http://pull-l3-cny.douyincdn.com/live/01a22d8d466a6ef38b80e2ce6cd323c0.m3u8
+RT新闻,https://rt-rtd.rttv.com/live/rtnews/playlist.m3u8
+SBS,http://pull-l3-cny.douyincdn.com/live/d10b659225b3738937372b8835b94f1c.m3u8
 Sky News,http://198.16.64.10:8278/skynews_antik/playlist.m3u8?tid=MA7A8995522289955222&ct=19225&tsum=017cd1040a70d579955560a0c550c0f2
+TVBS,http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
 TVBSG,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-TVBS新闻,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
-TVBS新闻,https://epg.pm/stream/215ede58359c29ec190657d813abcc47baf7316e7ed87c97638c7bb733df304a.m3u8
-TVBS新闻,https://epg.pm/stream/472a4d7fa23f959fa1dcb24e36ec10d6ae18d6cb906e6d655991d3932f7e34d0.m3u8
-TVBS新闻,https://epg.pm/stream/b25d1fa77951f24d82b6f83f0a6eb8e9a9d4f22fc734ff47c86e3ac7a9d3e65a.m3u8
 TVBS新闻,http://pull-l3-cny.douyincdn.com/live/e6b6ef594c30eb3f3de0fa4ba0ce86e6.m3u8
+TVBS新闻,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+TVBS新闻,https://epg.pm/stream/472a4d7fa23f959fa1dcb24e36ec10d6ae18d6cb906e6d655991d3932f7e34d0.m3u8
 TVBS亚洲台,http://pull-l3-cny.douyincdn.com/live/9f6ea8b662a55d5fa562ebaeb2880bfc.m3u8
 TVB财经台,http://pull-l3-cny.douyincdn.com/live/beb24d452126196227a4c183337d6bfd.m3u8
+TVB翡翠台,http://pull-l3-cny.douyincdn.com/live/1f41fa6570c0c2fe39fef0752f76de81.m3u8
 TVB华丽台,http://23.237.10.66:16410
 TVB华丽台,http://pull-l3-cny.douyincdn.com/live/8f0f5b53f8ad921929fc9ac8771cbd82.m3u8
 TVB明珠台,http://pull-l3-cny.douyincdn.com/live/81c6196a626a87b4bc7a81d032b0bf7f.m3u8
 澳门Macau,http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8
 澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
 澳视澳门,http://61.244.22.5/ch1/ch1.live/playelist.m3u8
+澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
+大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 东森财经,http://50.7.220.74:8278/ettvcaijing_twn/playlist.m3u8?tid=m999b5a0f7fca17599138&ct=17874&tsum=345085d2d6d4401fdb3da968dfee5a54
 东森财经,http://seb.sason.top/sc/dscjxw_fhd.m3u8
 东森电影台,http://pull-l3-cny.douyincdn.com/live/3d50d525417f450fdbc3fbbf5ac32960.m3u8
 东森美洲卫视,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+东森新闻,http://pull-l3-cny.douyincdn.com/live/37e4951f0608d79a74ebed4ab2da462a.m3u8
 东森新闻,http://seb.sason.top/sc/dsxw_fhd.m3u8
 东森洋片台,http://pull-l3-cny.douyincdn.com/live/ed503be0a61dc988e0a7d9e1f57a1885.m3u8
-翡翠华丽,http://23.237.10.66:16410
-翡翠台,http://198.16.64.10:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
 翡翠台,http://23.237.10.66:16106
 高清电影台,http://pull-l3-cny.douyincdn.com/live/8ef14dc0eb0f812bfa0a1311d0134f8d.m3u8
-公视,http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=MD4D6839548568395485&ct=19193&tsum=56b3e3b150f4fcbc1877e081b313bcd4
 好莱坞电影,http://pull-l3-cny.douyincdn.com/live/06027cd7cadf310982fe67221578515b.m3u8
-黑莓电影,http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8
+好莱坞电影,https://pull-l3-cny.douyincdn.com/live/06027cd7cadf310982fe67221578515b.m3u8
 黑莓电影,http://39.135.138.58:18890/PLTV/88888888/224/3221225718/index.m3u8
 黑莓电影,http://39.135.138.58:18890/PLTV/88888888/224/3221225764/index.m3u8
 黑莓电影,http://39.135.138.58:18890/PLTV/88888888/224/3221225769/index.m3u8
 黑莓电影,http://39.135.138.59:18890/PLTV/88888910/224/3221225769/index.m3u8
+湖南电影台,http://pull-l3-cny.douyincdn.com/live/34633761735b6c677356a7c551f896e9.m3u8
 华视,http://50.7.220.74:8278/ctshd_twn/playlist.m3u8?tid=MD3D4860867448608674&ct=19193&tsum=773d4005ddbc68ed16154cc49ba1fc76
 华视新闻,http://seb.sason.top/sc/hsxw_fhd.m3u8
 华视新闻,http://stream.dsichannel.com/hls/cts-news.m3u8
-寰宇新闻台,http://pull-l3-cny.douyincdn.com/live/a9e3982a798d13ba350075af6cff4119.m3u8
+华视新闻,http://www.336699.live:1935/blockfour/4gtv-4gtv052.stream/playlist.m3u8
+寰宇新闻,http://pull-l3-cny.douyincdn.com/live/a9e3982a798d13ba350075af6cff4119.m3u8
+寰宇新闻,https://pull-l3-cny.douyincdn.com/live/a9e3982a798d13ba350075af6cff4119.m3u8
 莲花电影台,http://pull-l3-cny.douyincdn.com/live/f3caad21816e3bfe2210a692387ab040.m3u8
+莲花卫视,http://iptv.cooltv.top/tv/lotus.php
 龙华戏剧,http://198.16.64.10:8278/lunghuaxiju_twn/playlist.m3u8?tid=MBAB4709384347093843&ct=19226&tsum=a2a7258f8565588e10b8da2f26ba8039
 龙祥电影台,http://pull-l3-cny.douyincdn.com/live/c32278dece9f79334a2a878aaa730e95.m3u8
+美亚电影,https://pull-l3-cny.douyincdn.com/live/b16e0049bdda5f54e62d3c9b694d81ff.m3u8
 美亚电影台,http://pull-l3-cny.douyincdn.com/live/b16e0049bdda5f54e62d3c9b694d81ff.m3u8
+民视,http://www.336699.live:1935/blockfour/4gtv-4gtv002.stream/playlist.m3u8
+民视第一台,http://www.336699.live:1935/blockfour/4gtv-4gtv003.stream/playlist.m3u8
+民视台湾台,http://www.336699.live:1935/blockfour/4gtv-4gtv001.stream/playlist.m3u8
 民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 民视新闻,http://50.7.220.74:8278/ftvnew_taiwan/playlist.m3u8?tid=MA8A6605176766051767&ct=19193&tsum=37e8e3780b1b2bf198c95c2e6b3a9746
+民视新闻,http://pull-l3-cny.douyincdn.com/live/304b8e04a437299311112b7f4902c9dd.m3u8
 民视新闻,http://seb.sason.top/sc/msxw_fhd.m3u8
 民视新闻,https://epg.pm/stream/41a27760357d19c61969e35967cf5a18a3f850a75b00a1e2377ab2cc934a44d9.m3u8
 民视新闻,https://epg.pm/stream/9dbf5d5dd1d158c4dfd5622c86643d4d768447f4f75f505442254c076342e54d.m3u8
 民视新闻,https://epg.pm/stream/c4e4884645d94d0d2e76e47c691546493b7031348b663eb9a67769b0096f8b7e.m3u8
+民视综艺台,http://www.336699.live:1935/blockfour/4gtv-4gtv004.stream/playlist.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+台视新闻,http://pull-l3-cny.douyincdn.com/live/af25e1a3f0fff1e8ea22c55a0c9352f0.m3u8
 台视新闻,https://epg.pm/stream/dc6941ad1ea0592ef8189f4315353b7de9f8a1d5574caa04298de9f154c2f46d.m3u8
 天映电影台,http://pull-l3-cny.douyincdn.com/live/4480903e93e7bf6ddde637e903c423a0.m3u8
 天映经典,http://210.210.155.35/qwr9ew/s/s31/index.m3u8
 天映经典,http://210.210.155.37/qwr9ew/s/s31/index.m3u8
-天映频道,http://210.210.155.37/qwr9ew/s/s31/index.m3u8
-天映頻道,http://210.210.155.35:80/dr9445/h/h14/01.m3u8
-卫视卡式台,https://cn-sccd-ct-01-10.bilivideo.com/live-bvc/277260/live_372775317_46465575_1500/index.m3u8
-无线财经资讯台,https://cdn.hklive.tv/xxxx/85/index.m3u8
-无线新闻,https://cdn.hklive.tv/xxxx/83/index.m3u8
-无线新闻,https://cdn.hklive.tv:443/xxxx/83/index.m3u8
-香港有线财经资讯台,https://api.leonardpark.dev/live/icable/108
+纬来电影,http://pull-l3-cny.douyincdn.com/live/6de7ee8878da79aaf393c0f63081cb0c.m3u8
+纬来电影,https://pull-l3-cny.douyincdn.com/live/6de7ee8878da79aaf393c0f63081cb0c.m3u8
+纬来戏剧台,http://pull-l3-cny.douyincdn.com/live/cf93b19e055f2800058541033c0c4355.m3u8
+无线财经资讯台,http://iptv.cooltv.top/tv/tvb.php?id=2
+无线新闻,http://iptv.cooltv.top/tv/tvb.php?id=0
+香港国际财经台,http://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/playlist.m3u8
 香港有线财经资讯台,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
-新加坡CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-新加坡CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
-新加坡CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+香港有线财经资讯台,https://api.leonardpark.dev/live/icable/108
 耀才财经新闻,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 耀才财经新闻,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
-有线财经台,http://pull-l3-cny.douyincdn.com/live/6cce73798021d977d916afacf1caba36.m3u8
-有线新闻台,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
-有线新闻台,http://pull-l3-cny.douyincdn.com/live/3ce3ba86a40b1b2055eeda4f8cf6517e.m3u8
+有线财经资讯台,http://61.10.2.140/live_freedirect/freehd208_h.live/playlist.m3u8
+有线财经资讯台,https://uc6.i-cable.com/live_freedirect/freehd208_h.live/playlist.m3u8
+有线新闻,http://61.10.2.140/live_freedirect/freehd209_h.live/playlist.m3u8
+有线新闻,http://pull-l3-cny.douyincdn.com/live/3ce3ba86a40b1b2055eeda4f8cf6517e.m3u8
+有线新闻,https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
 有线直播台,http://pull-l3-cny.douyincdn.com/live/1696778d64f00f3f9c0aefe3b2136ffe.m3u8
+智林体育台,http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/playlist.m3u8
 中视,http://198.16.64.10:8278/zhongshihd_twn/playlist.m3u8?tid=MB8B7313326473133264&ct=19226&tsum=ae7506028e559f3a6e2a3519b2f6a91e
 中视新闻,http://198.16.64.10:8278/zhongshinews_twn/playlist.m3u8?tid=MD8D4836803548368035&ct=19226&tsum=a2f06c15a5e9c4dc67565c2b8598c8da
+中视新闻,http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8
 中视新闻,https://epg.pm/stream/3424fe5c5c950cf105fcff7c1e99bf9ab5ccbfa9da5f7fa7882416bcf619ac43.m3u8
-中天新闻,http://50.7.220.74:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
+中视新闻,https://pull-l3-cny.douyincdn.com/live/cf93b19e055f2800058541033c0c4355.m3u8
+中天新闻,http://pull-l3-cny.douyincdn.com/live/7898d38d54c60879ba96a1fa42edbd53.m3u8
 中天新闻,https://epg.pm/stream/5a2b674f6a795e7dfb7d6e8a3d6d31d2067e3c4080844938ebafaacc40bcc9d7.m3u8
-中天新闻台,http://pull-l3-cny.douyincdn.com/live/7898d38d54c60879ba96a1fa42edbd53.m3u8
 中天亚洲,http://50.7.220.74:8278/ctiasia_twn/playlist.m3u8?tid=MFFF9983745599837455&ct=19193&tsum=ee61e179a8c619a076c515514d68e24e
-中天娱乐台,http://pull-l3-cny.douyincdn.com/live/37e4951f0608d79a74ebed4ab2da462a.m3u8
 中天综合台,http://pull-l3-cny.douyincdn.com/live/5f26752efeee9e0c53cf6b530640ce60.m3u8
 
 
 体育,#genre#
-astro Supersport,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/485564
-astro Supersport 2,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/485565
-astro Supersport 3,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/485566
-astro Supersport 4,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/485567
-astro Supersport 5,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/485569
-Sky Sports Main Event,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428298
-Sky Sports Premier League,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428320
-Sky Sports Football,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428292
-Sky Sports Arena,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/431479
-Sky Sports Cricket,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/377942
-Sky Sports F1,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428289
-Sky Sports Golf,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/375845
-Sky Sports Mix,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428300
-Sky Sports News,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/483428
-Sky Sports Racing,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428306
-BT SPORT 1,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428237
-BT SPORT 2,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428240
-BT SPORT 3,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428243
-BT SPORT 4,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428246
-TSN 1,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418553
-TSN 2,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418554
-TSN 3,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418555
-TSN 4,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418534
-TSN 5,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418535
-Now Sports 4K,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425322
-Now Sports 1,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425329
-Now Sports 2,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425328
-Now Sports 3,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425327
-Now Sports 4,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425326
-Now Sports 5,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425325
-Now Sports 6,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425324
-Now Sports 7,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425323
-Now Premier Sports 1,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425332
-Now Premier Sports 2,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425333
-Now Premier Sports 3,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425334
-Now Premier Sports 4,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425335
-Now Premier Sports 5,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425336
-Now Premier Sports 6,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425337
-Now Premier Sports 7,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425331
-Now Premier Sports 8,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425330
+AR: BEIN SPORTS 3 HEVC,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/350624.ts
+AR: BEIN SPORTS 3 MAX HD,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/333789.ts
+AR: BEIN SPORTS 3 MAX HEVC,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/339575.ts
+AR: BEIN SPORTS 3 PREMIUM FHD,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/343322.ts
+AR: BEIN SPORTS 3 PREMIUM HD,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/333792.ts
+AR: BEIN SPORTS 3 PREMIUM HEVC,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/333791.ts
+AR: BEIN SPORTS 3 PREMIUM SD,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/358383.ts
+AR: BEIN SPORTS ENGLISH 1 FHD,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/342216.ts
+AR: BEIN SPORTS ENGLISH 1 HD,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/333809.ts
+AR: BEIN SPORTS ENGLISH 1 HEVC,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/352784.ts
+AR: BEIN SPORTS ENGLISH 1 SD,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/343323.ts
+AR: BEIN SPORTS ENGLISH 2 FHD,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/333810.ts
+AR: BEIN SPORTS ENGLISH 2 HD,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/333811.ts
+AR: BEIN SPORTS ENGLISH 2 SD,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/366371.ts
+AR: BEIN SPORTS ENGLISH 3 FHD,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/339581.ts
+AR: BEIN SPORTS ENGLISH 3 HD,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/343068.ts
+AR: BEIN SPORTS ENGLISH 3 HEVC,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/333812.ts
+BT SPORT 1,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/269144.ts
+BT SPORT 1,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306386.ts
+BT SPORT 1,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306387.ts
+BT SPORT 1,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306389.ts
+BT SPORT 1,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/324180.ts
+BT SPORT 1,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/337491.ts
+BT SPORT 1,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/337492.ts
+BT SPORT 1,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/341209.ts
+BT SPORT 1,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/341210.ts
+BT SPORT 1,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/341398.ts
+BT SPORT 2,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/267281.ts
+BT SPORT 2,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306390.ts
+BT SPORT 2,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306391.ts
+BT SPORT 2,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306392.ts
+BT SPORT 2,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/324181.ts
+BT SPORT 2,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/324182.ts
+BT SPORT 2,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/337493.ts
+BT SPORT 2,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/337494.ts
+BT SPORT 2,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/350678.ts
+BT SPORT 3,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/267282.ts
+BT SPORT 3,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306394.ts
+BT SPORT 3,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306396.ts
+BT SPORT 3,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/320276.ts
+BT SPORT 3,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/324183.ts
+BT SPORT 3,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/341399.ts
+BT SPORT 3,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/342425.ts
+BT SPORT 3,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/347772.ts
+BT SPORT 3,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/360520.ts
+BT SPORT 4,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/329296.ts
+BT SPORT 4,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/329297.ts
+BT SPORT 5,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/329298.ts
+BT SPORT 6,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/329299.ts
+BT SPORT 7,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/329300.ts
+BT SPORT BOX OFFICE PPV (LIVE DURING EVENTS ONLY),http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/320201.ts
+BT SPORT ESPN,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/290608.ts
+BT SPORT ESPN,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306397.ts
+BT SPORT ESPN,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306398.ts
+BT SPORT ESPN,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306400.ts
+BT SPORT ESPN,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/324184.ts
+BT SPORT ESPN,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/337497.ts
+BT SPORT ESPN,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/337498.ts
+EDGE SPORT,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306405.ts
+EDGE SPORT,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/337502.ts
+EIR SPORT 1,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306406.ts
+EIR SPORT 1,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306416.ts
+EIR SPORT 1,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/318543.ts
+EIR SPORT 1,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/318544.ts
+EIR SPORT 2,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306407.ts
+EIR SPORT 2,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/317104.ts
+EIR SPORT 2,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/341400.ts
+EIR SPORT 2,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/347560.ts
+EIR SPORT 2,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/352953.ts
+ELEVEN SPORTS,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/361244.ts
+EMAN CHANNEL,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/305907.ts
+EURO NEWS LIVE,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/367832.ts
+EUROSPORT 1,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306408.ts
+EUROSPORT 1,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306409.ts
+EUROSPORT 1,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/337503.ts
+EUROSPORT 1,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/341211.ts
+EUROSPORT 2,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/215868.ts
+EUROSPORT 2,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306411.ts
+EUROSPORT 2,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/311205.ts
+EUROSPORT 2,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/337504.ts
+EUROSPORT 2,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/367778.ts
+EUROSPORTS 1,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/324189.ts
+EUROSPORTS 2,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/324190.ts
+FOX SPORT 2,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/367782.ts
+FOX SPORTS 1,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/364674.ts
+FOX SPORTS 2,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/365830.ts
+FOX SPORTS ARIZONA,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/363835.ts
+FOX SPORTS DETROIT,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/337535.ts
+FOX SPORTS FLORIDA,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/355362.ts
+FOX SPORTS MIDWEST,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/331705.ts
+FOX SPORTS NORTH,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/357400.ts
+FOX SPORTS OHIO,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/365831.ts
+FOX SPORTS OKLAHOMA,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/337538.ts
+FOX SPORTS ONE,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/357401.ts
+FOX SPORTS PRIME TICKET,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/357402.ts
+FOX SPORTS SAN DIEGO,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/357403.ts
+FOX SPORTS SOUTH,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/355363.ts
+FOX SPORTS SPORTSTIME OHIO,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/352999.ts
+FOX SPORTS SUN,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/357404.ts
+FOX SPORTS WEST,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/342849.ts
+FOX SPORTS WEST,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/343851.ts
+FOX SPORTS WISCONSIN,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/357399.ts
+FREESPORTS,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/329301.ts
+FREESPORTS,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/257098.ts
+FREESPORTS,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306413.ts
+FREESPORTS,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306414.ts
+FREESPORTS,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/337507.ts
+PREMIER SPORT 1,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/324192.ts
+PREMIER SPORT 2,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306424.ts
+PREMIER SPORT 2,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/324193.ts
+PREMIER SPORT,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/314008.ts
+PREMIER SPORTS 1,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306417.ts
+PREMIER SPORTS 1,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306418.ts
+PREMIER SPORTS 1,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306425.ts
+PREMIER SPORTS 1,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/314007.ts
+PREMIER SPORTS 1,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/324195.ts
+PREMIER SPORTS 1,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/324197.ts
+PREMIER SPORTS 1,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/329303.ts
+PREMIER SPORTS 2 UK,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/324194.ts
+PREMIER SPORTS 2,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306426.ts
+PREMIER SPORTS 2,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306420.ts
+PREMIER SPORTS 2,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306421.ts
+PREMIER SPORTS 2,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/324196.ts
+PREMIER SPORTS 2,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/324198.ts
+PREMIER SPORTS 2,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/329304.ts
+PREMIER SPORTS 2,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/329305.ts
+PREMIER SPORTS 2,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/341212.ts
+SKY SPORTS ACTION,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/267309.ts
+SKY SPORTS ACTION,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/318545.ts
+SKY SPORTS ACTION,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/324199.ts
+SKY SPORTS ACTION,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/324374.ts
+SKY SPORTS ACTION,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/337509.ts
+SKY SPORTS ACTION,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/341401.ts
+SKY SPORTS ACTION,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/346253.ts
+SKY SPORTS FOOTBALL,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306442.ts
+SKY SPORTS FOOTBALL,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/314010.ts
+SKY SPORTS FOOTBALL,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/314011.ts
+SKY SPORTS FOOTBALL,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/337515.ts
+SKY SPORTS FOOTBALL,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/346254.ts
+SKY SPORTS MAIN EVENT ,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306447.ts
+SKY SPORTS MAIN EVENT ,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/337517.ts
+SKY SPORTS MAIN EVENT ,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/343444.ts
+SKY SPORTS MAIN EVENT ,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/344292.ts
+SKY SPORTS MAIN EVENT,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/257175.ts
+SKY SPORTS MAIN EVENT,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306448.ts
+SKY SPORTS MAIN EVENT,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/324200.ts
+SKY SPORTS MAIN EVENT,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/337518.ts
+SKY SPORTS MAIN EVENT,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/341214.ts
+SKY SPORTS MAIN EVENT,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/341402.ts
+SKY SPORTS MAIN EVENT,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/353847.ts
+SKY SPORTS MIX,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/216040.ts
+SKY SPORTS MIX,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306451.ts
+SKY SPORTS MIX,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/337519.ts
+SKY SPORTS MIX,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/341403.ts
+SKY SPORTS MIX,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/342426.ts
+SKY SPORTS NEWS ,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306453.ts
+SKY SPORTS NEWS ,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/342427.ts
+SKY SPORTS NEWS,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/257177.ts
+SKY SPORTS NEWS,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306456.ts
+SKY SPORTS NEWS,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/318546.ts
+SKY SPORTS NEWS,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/337521.ts
+SKY SPORTS NEWS,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/341404.ts
+SKY SPORTS NEWS,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/347561.ts
+SKY SPORTS NFL,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306457.ts
+SKY SPORTS NFL,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306458.ts
+SKY SPORTS NFL,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/342428.ts
+SKY SPORTS NFL,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/363633.ts
+SKY SPORTS NFL/ACTION,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/324201.ts
+SKY SPORTS PREMIER LEAGUE ,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/314012.ts
+SKY SPORTS PREMIER LEAGUE ,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/337523.ts
+SKY SPORTS PREMIER LEAGUE ,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/341215.ts
+SKY SPORTS PREMIER LEAGUE ,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/366603.ts
+SKY SPORTS PREMIER LEAGUE,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/301744.ts
+SKY SPORTS PREMIER LEAGUE,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306461.ts
+SKY SPORTS PREMIER LEAGUE,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/324203.ts
+SKY SPORTS PREMIER LEAGUE,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/324375.ts
+SKY SPORTS PREMIER LEAGUE,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/337524.ts
+SKY SPORTS PREMIER LEAGUE,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/341216.ts
+SKY SPORTS RACING,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/286153.ts
+SKY SPORTS RACING,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306462.ts
+SKY SPORTS RACING,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/324204.ts
+SKY SPORTS RACING,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/341217.ts
+SKY SPORTS RACING,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/341405.ts
+SKY SPORTS RACING,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/367779.ts
+SKY STORE 1,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/364739.ts
+SKY STORE 4,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/366850.ts
+SKY WITNESS,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/367876.ts
 
-Abu Dhabi SPORT,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/2256/index.m3u8?checkedby:ahlakid.com
-Abu Dhabi SPORT,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6832/index.m3u8?checkedby:ahlakid.com
-Abu Dhabi SPORTS 1,http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_SPORTS1&checkedby:ahlakid.com
-Abu Dhabi SPORTS 2,http://admdn5.cdn.mangomolo.com/adSPORTS2/smil:adSPORTS2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8?checkedby:ahlakid.com
-Abu Dhabi SPORTS 3,http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_SPORTS3&checkedby:ahlakid.com
-Abu Dhabi SPORTS 4,http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_SPORTS4&checkedby:ahlakid.com
-Abu Dhabi SPORTS,http://www.elahmad.com/tv/m3u8/adtv.m3u8?checkedby:ahlakid.com
-ALL SPORTS,http://168.205.87.198:8555/live/1221/123456/148.TS?checkedby:ahlakid.com
-ALL SPORTS,http://168.205.87.198:8555/live/1431/123456/148.TS?checkedby:ahlakid.com
-ALL SPORTS,http://168.205.87.198:8555/live/5803/123456/148.TS?checkedby:ahlakid.com
-ALL SPORTS,http://168.205.87.198:8555/live/JOSEE/123456/148.TS?checkedby:ahlakid.com
-ALL SPORTS,http://168.205.87.198:8555/live/michele/123456/148.TS?checkedby:ahlakid.com
-ALL SPORTS,http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh.smil/chunklist_b307200_slFa.m3u8?checkedby:ahlakid.com
-ALL SPORTS,http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh.smil/playlist.m3u8?checkedby:ahlakid.com
-ARENA SPORT 1,http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SD5YeVHnWEm7dfRkporL1dU/TS?checkedby:ahlakid.com
-ARENA SPORT 1,http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SPRGQQZtI1IjWzaisLc5c8g/TS?checkedby:ahlakid.com
-ARENA SPORT 1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/2550/index.m3u8?checkedby:ahlakid.com
-ARENA SPORT 1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7263/index.m3u8?checkedby:ahlakid.com
-ARENA SPORT 1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7329/index.m3u8?checkedby:ahlakid.com
-ARENA SPORT 2,http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SC3coHRuanEjN2irkPwGsBU/TS?checkedby:ahlakid.com
-ARENA SPORT 2,http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SEkTkMDsONtdUNwE2gZIW2s/TS?checkedby:ahlakid.com
-ARENA SPORT 2,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7264/index.m3u8?checkedby:ahlakid.com
-ARENA SPORT 2,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7330/index.m3u8?checkedby:ahlakid.com
-ARENA SPORT 3,http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SBVHeXZiLggUBN6UVXbPrec/TS?checkedby:ahlakid.com
-ARENA SPORT 3,http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SLkWvBuGE1yOFvt-nrIXnkY/TS?checkedby:ahlakid.com
-ARENA SPORT 3,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7265/index.m3u8?checkedby:ahlakid.com
-ARENA SPORT 3,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7331/index.m3u8?checkedby:ahlakid.com
-ARENA SPORT 4,http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SA9RRzz6ecIHpHGFvxjclUA/TS?checkedby:ahlakid.com
-ARENA SPORT 4,http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SFHrUm0v1AE1etzsLTBTePo/TS?checkedby:ahlakid.com
-ARENA SPORT 4,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7266/index.m3u8?checkedby:ahlakid.com
-ARENA SPORT 4,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7332/index.m3u8?checkedby:ahlakid.com
-ARENA SPORT 5,http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SG2AHCruMR2fW3wKTS3gJDE/TS?checkedby:ahlakid.com
-ARENA SPORT 5,http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SPVsDoRitrsvSxvt1J7Ec2E/TS?checkedby:ahlakid.com
-ARENA SPORT 5,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7267/index.m3u8?checkedby:ahlakid.com
-ARENA SPORT 5,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7333/index.m3u8?checkedby:ahlakid.com
-ARENA SPORT 6,http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2383.m3u8?checkedby:ahlakid.com
-ARENA SPORT 6,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7268/index.m3u8?checkedby:ahlakid.com
-ARENA SPORT 6,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7334/index.m3u8?checkedby:ahlakid.com
-BEIN SPORTS 1 Premium,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6131/index.m3u8?checkedby:ahlakid.com
-BEIN SPORTS 1,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/2?checkedby:ahlakid.com
-BEIN SPORTS 1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/2499/index.m3u8?checkedby:ahlakid.com
-BEIN SPORTS 1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6123/index.m3u8?checkedby:ahlakid.com
-BEIN SPORTS 1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6781/index.m3u8?checkedby:ahlakid.com
-BEIN SPORTS 1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6817/index.m3u8?checkedby:ahlakid.com
-BEIN SPORTS 1+,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/5104?checkedby:ahlakid.com
-BEIN SPORTS 2 EN,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6133/index.m3u8?checkedby:ahlakid.com
-BEIN SPORTS 2,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/1684?checkedby:ahlakid.com
-BEIN SPORTS 2,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/4?checkedby:ahlakid.com
-BEIN SPORTS 2,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/2500/index.m3u8?checkedby:ahlakid.com
-BEIN SPORTS 2,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6818/index.m3u8?checkedby:ahlakid.com
-BEIN SPORTS 2,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6819/index.m3u8?checkedby:ahlakid.com
-BEIN SPORTS 3,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/1803?checkedby:ahlakid.com
-BEIN SPORTS 3,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/5?checkedby:ahlakid.com
-BEIN SPORTS 3,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/2501/index.m3u8?checkedby:ahlakid.com
-BEIN SPORTS 3,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6124/index.m3u8?checkedby:ahlakid.com
-BEIN SPORTS 3,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6820/index.m3u8?checkedby:ahlakid.com
-BEIN SPORTS 3,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6821/index.m3u8?checkedby:ahlakid.com
-BEIN SPORTS 4,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/1398?checkedby:ahlakid.com
-BEIN SPORTS 4,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/1804?checkedby:ahlakid.com
-BEIN SPORTS 4,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6125/index.m3u8?checkedby:ahlakid.com
-BEIN SPORTS 4,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6822/index.m3u8?checkedby:ahlakid.com
-BEIN SPORTS 4,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6823/index.m3u8?checkedby:ahlakid.com
-BEIN SPORTS 5,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6126/index.m3u8?checkedby:ahlakid.com
-BEIN SPORTS 6,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6127/index.m3u8?checkedby:ahlakid.com
-BEIN SPORTS 7,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6128/index.m3u8?checkedby:ahlakid.com
-BEIN SPORTS Max 1 ,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/19062/index.m3u8?checkedby:ahlakid.com
-BEIN SPORTS Max 1 ,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19062/index.m3u8?checkedby:ahlakid.com
-BEIN SPORTS Max 1,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/19065/index.m3u8?checkedby:ahlakid.com
-BEIN SPORTS Max 1,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/4196?checkedby:ahlakid.com
-BEIN SPORTS Max 1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19065/index.m3u8?checkedby:ahlakid.com
-BEIN SPORTS Max 1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6824/index.m3u8?checkedby:ahlakid.com
-BEIN SPORTS Max 2 ,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/19063/index.m3u8?checkedby:ahlakid.com
-BEIN SPORTS Max 2 ,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19063/index.m3u8?checkedby:ahlakid.com
-BEIN SPORTS Max 2,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/19066/index.m3u8?checkedby:ahlakid.com
-BEIN SPORTS Max 2,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/4197?checkedby:ahlakid.com
-BEIN SPORTS Max 2,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19066/index.m3u8?checkedby:ahlakid.com
-BEIN SPORTS PREMIUM 1,http://7b30f9aa.tvclub.xyz/iptv/SGME6W4L2A6MNZ/6131/index.m3u8?checkedby:ahlakid.com
-BEIN SPORTS,http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SAK1RwPLDfDa4ef8_84d1zk/TS?checkedby:ahlakid.com
-BEIN SPORTS,http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SHVRmvqStYiAZb5NRAl1rj0/TS?checkedby:ahlakid.com
-Best4SPORT 2,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/18015/index.m3u8?checkedby:ahlakid.com
-Best4SPORT 2,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/18015/index.m3u8?checkedby:ahlakid.com
-Best4SPORT,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/18016/index.m3u8?checkedby:ahlakid.com
-Best4SPORT,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/18016/index.m3u8?checkedby:ahlakid.com
-BT SPORT 1,http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SDq0bk4bbCg_rXw6Syt6tvE/TS?checkedby:ahlakid.com
-BT SPORT 1,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/95052?checkedby:ahlakid.com
-BT SPORT 1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/2505/index.m3u8?checkedby:ahlakid.com
-BT SPORT 1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6566/index.m3u8?checkedby:ahlakid.com
-BT SPORT 2,http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2307.m3u8?checkedby:ahlakid.com
-BT SPORT 2,http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SIkek_o452ChjDsjRaPeSuA/TS?checkedby:ahlakid.com
-BT SPORT 2,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/95053?checkedby:ahlakid.com
-BT SPORT 2,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/2506/index.m3u8?checkedby:ahlakid.com
-BT SPORT 2,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6565/index.m3u8?checkedby:ahlakid.com
-BT SPORT 3,http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SLgccH1t-8UXPvXwVqviD9M/TS?checkedby:ahlakid.com
-BT SPORT 3,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/95055?checkedby:ahlakid.com
-BT SPORT 3,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6564/index.m3u8?checkedby:ahlakid.com
-BT SPORT ESPN,http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SM65rqfomBQnbe-ZHVvEtZA/TS?checkedby:ahlakid.com
-BT SPORT ESPN,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6563/index.m3u8?checkedby:ahlakid.com
-BT SPORT Extra 3,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/94869?checkedby:ahlakid.com
-BT SPORTS 1,http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SO8KG21vvlujW4BzdbjwU0o/TS?checkedby:ahlakid.com
-BT SPORTS 2,http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SBP8IcIFQjkd_4CiXkvhKnU/TS?checkedby:ahlakid.com
-BT SPORTS 3,http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SNfyk9pqZv-bBzvb_hxeHnc/TS?checkedby:ahlakid.com
-CBC SPORT,http://mfe.cliptv.az/dash/CBC_SPORT_HD.ism/playlist.mpd?checkedby:ahlakid.com
-CBC SPORT,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/2193/index.m3u8?checkedby:ahlakid.com
-CBS SPORTS NETWORK ,http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2407.m3u8?checkedby:ahlakid.com
-CBS SPORTS NETWORK ,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7324/index.m3u8?checkedby:ahlakid.com
-DD SPORTS,http://103.199.161.254/Content/ddSPORTS/Live/Channel(DDSPORTS)/index.m3u8
-DD SPORTS,http://103.199.161.254/Content/ddSPORTS/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
-DIGI SPORT 1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/2523/index.m3u8?checkedby:ahlakid.com
-DIGI SPORT 2,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/2522/index.m3u8?checkedby:ahlakid.com
-DIGI SPORT 3,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/2524/index.m3u8?checkedby:ahlakid.com
-DIGI SPORT 4,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/2538/index.m3u8?checkedby:ahlakid.com
-DUBAI SPORTS 1,http://dmitnthvll.cdn.mangomolo.com/DUBAISPORTS/smil:DUBAISPORTS.smil/chunklist_b1600000.m3u8?checkedby:ahlakid.com
-DUBAI SPORTS 1,http://dmitnthvll.cdn.mangomolo.com/DUBAISPORTS/smil:DUBAISPORTS/chunklist.m3u8?checkedby:ahlakid.com
-DUBAI SPORTS 1,http://dmitnthvll.cdn.mangomolo.com/DUBAISPORTS/smil:DUBAISPORTS/chunklist_b2000000.m3u8?checkedby:ahlakid.com
-DUBAI SPORTS 2,http://dmitwlvvll.cdn.mangomolo.com/DUBAISPORTShd/smil:DUBAISPORTShd.smil/chunklist_b1600000.m3u8?2957056943&checkedby:ahlakid.com
-DUBAI SPORTS 3,http://dmitwlvvll.cdn.mangomolo.com/DUBAISPORTShd5/smil:DUBAISPORTShd5.smil/chunklist.m3u8?checkedby:ahlakid.com
-DUBAI SPORTS 3,http://dmitwlvvll.cdn.mangomolo.com/DUBAISPORTShd5/smil:DUBAISPORTShd5.smil/chunklist_b1300000.m3u8?checkedby:ahlakid.com
-EDGE SPORT,http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/856.m3u8?checkedby:ahlakid.com
-EDGE SPORT,https://EDGESPORT-samsung.amagi.tv/playlist.m3u8?checkedby:ahlakid.com
-EDGE SPORT,https://EDGESPORTS-plex.amagi.tv/playlist.m3u8?checkedby:ahlakid.com
-EDGE SPORTS,https://imgEDGE.akamaized.net/amagi_hls_data_imgAAA2AA-EDGESPORTS/CDN/playlist.m3u8
-EDGESPORT,https://EDGESPORT-rakuten-samsung.amagi.tv/playlist.m3u8?checkedby:ahlakid.com
-EDGESPORTS rest of the world,https://EDGESPORTS-row-rakuten.amagi.tv/playlist.m3u8?checkedby:ahlakid.com
-ELEVEN SPORT 2,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/135980?checkedby:ahlakid.com
-ELEVEN SPORT1,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/19158/index.m3u8?checkedby:ahlakid.com
-ELEVEN SPORT1,http://cineapp.org:8000/Fernando/Fernando/28550?checkedby:ahlakid.com
-ELEVEN SPORT1,http://cineapp.org:8000/Fernando/Fernando/7451?checkedby:ahlakid.com
-ELEVEN SPORT1,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159576?checkedby:ahlakid.com
-ELEVEN SPORT1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19158/index.m3u8?checkedby:ahlakid.com
-ELEVEN SPORT1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/2518/index.m3u8?checkedby:ahlakid.com
-ELEVEN SPORT1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/2531/index.m3u8?checkedby:ahlakid.com
-ELEVEN SPORT1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6083/index.m3u8?checkedby:ahlakid.com
-ELEVEN SPORT2,http://cineapp.org:8000/Fernando/Fernando/7452?checkedby:ahlakid.com
-ELEVEN SPORT2,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/135976?checkedby:ahlakid.com
-ELEVEN SPORT2,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159577?checkedby:ahlakid.com
-ELEVEN SPORT2,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/2517/index.m3u8?checkedby:ahlakid.com
-ELEVEN SPORT2,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/2532/index.m3u8?checkedby:ahlakid.com
-ELEVEN SPORT2,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6082/index.m3u8?checkedby:ahlakid.com
-ELEVEN SPORT3,http://cineapp.org:8000/Fernando/Fernando/7453?checkedby:ahlakid.com
-ELEVEN SPORT3,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159578?checkedby:ahlakid.com
-ELEVEN SPORT3,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/2533/index.m3u8?checkedby:ahlakid.com
-ELEVEN SPORT3,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7062/index.m3u8?checkedby:ahlakid.com
-ELEVEN SPORT4,http://cineapp.org:8000/Fernando/Fernando/7454?checkedby:ahlakid.com
-ELEVEN SPORT4,http://cineapp.org:8000/Fernando/Fernando/79443?checkedby:ahlakid.com
-ELEVEN SPORT4,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159579?checkedby:ahlakid.com
-ELEVEN SPORT4,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/2534/index.m3u8?checkedby:ahlakid.com
-ELEVEN SPORT4,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7063/index.m3u8?checkedby:ahlakid.com
-ELEVEN SPORT5,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159580?checkedby:ahlakid.com
-ELEVEN SPORT5,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/2535/index.m3u8?checkedby:ahlakid.com
-ELEVEN SPORT6,http://cineapp.org:8000/Fernando/Fernando/7456?checkedby:ahlakid.com
-ELEVEN SPORT6,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159581?checkedby:ahlakid.com
-ELEVEN SPORT6,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/2536/index.m3u8?checkedby:ahlakid.com
-ELEVEN SPORT6,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7064/index.m3u8?checkedby:ahlakid.com
-ESPN 1,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/19201/index.m3u8?checkedby:ahlakid.com
-ESPN 1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19201/index.m3u8?checkedby:ahlakid.com
-ESPN 2 A,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/19155/index.m3u8?checkedby:ahlakid.com
-ESPN 2 A,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19155/index.m3u8?checkedby:ahlakid.com
-ESPN 2,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/19202/index.m3u8?checkedby:ahlakid.com
-ESPN 2,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159598?checkedby:ahlakid.com
-ESPN 2,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19202/index.m3u8?checkedby:ahlakid.com
-ESPN 3,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/19203/index.m3u8?checkedby:ahlakid.com
-ESPN 3,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159599?checkedby:ahlakid.com
-ESPN 3,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19203/index.m3u8?checkedby:ahlakid.com
-ESPN 4,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/19204/index.m3u8?checkedby:ahlakid.com
-ESPN 4,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19204/index.m3u8?checkedby:ahlakid.com
-ESPN A,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/19156/index.m3u8?checkedby:ahlakid.com
-ESPN A,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19156/index.m3u8?checkedby:ahlakid.com
-Espn News A,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/19154/index.m3u8?checkedby:ahlakid.com
-Espn News A,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19154/index.m3u8?checkedby:ahlakid.com
-EuroSPORT 1http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/5075/index.m3u8?checkedby:ahlakid.com
-EuroSPORT 1,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/9247/index.m3u8?checkedby:ahlakid.com
-EuroSPORT 1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/5075/index.m3u8?checkedby:ahlakid.com
-EuroSPORT 1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/9247/index.m3u8?checkedby:ahlakid.com
-EuroSPORT 1,http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SPp3fCVAuYo-5VxUyTSShq4TBjACgC9jeer_bttFPU7D/TS?checkedby:ahlakid.com
-EuroSPORT 1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/12047/index.m3u8?checkedby:ahlakid.com
-EuroSPORT 1,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/141/index.m3u8?checkedby:ahlakid.com
-EuroSPORT 1,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/228/index.m3u8?checkedby:ahlakid.com
-EuroSPORT 1,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/4004/index.m3u8?checkedby:ahlakid.com
-EuroSPORT 1,http://cineapp.org:8000/Fernando/Fernando/79437?checkedby:ahlakid.com
-EuroSPORT 1,http://cineapp.org:8000/Fernando/Fernando/79438?checkedby:ahlakid.com
-EuroSPORT 1,http://myott.top/stream/DT6QU63K5VX/176.m3u8?checkedby:ahlakid.com
-EuroSPORT 1,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159559?checkedby:ahlakid.com
-EuroSPORT 1,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159591?checkedby:ahlakid.com
-EuroSPORT 1,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/71185?checkedby:ahlakid.com
-EuroSPORT 1,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/94908?checkedby:ahlakid.com
-EuroSPORT 1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/141/index.m3u8?checkedby:ahlakid.com
-EuroSPORT 1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/14193/index.m3u8?checkedby:ahlakid.com
-EuroSPORT 1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/228/index.m3u8?checkedby:ahlakid.com
-EuroSPORT 1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6829/index.m3u8?checkedby:ahlakid.com
-EuroSPORT 1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6992/index.m3u8?checkedby:ahlakid.com
-EuroSPORT 2,http://cineapp.org:8000/Fernando/Fernando/79439?checkedby:ahlakid.com
-EuroSPORT 2,http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SAFSPB1aJTVPogcnPkP6WEw/TS?checkedby:ahlakid.com
-EuroSPORT 2,http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SGR20xyLQTRdSIz3vbl9-xOPzn0SnQ8KOixTq0qb8HPl/TS?checkedby:ahlakid.com
-EuroSPORT 2,http://myott.top/stream/DT6QU63K5VX/192.m3u8?checkedby:ahlakid.com
-EuroSPORT 2,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159560?checkedby:ahlakid.com
-EuroSPORT 2,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159590?checkedby:ahlakid.com
-EuroSPORT 2,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/71186?checkedby:ahlakid.com
-EuroSPORT 2,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/14194/index.m3u8?checkedby:ahlakid.com
-EuroSPORT 2,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6556/index.m3u8?checkedby:ahlakid.com
-EuroSPORT 2,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6830/index.m3u8?checkedby:ahlakid.com
-EuroSPORT 2,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7203/index.m3u8?checkedby:ahlakid.com
-EuroSPORT 2,https://sc.id-tv.kz/EuroSPORT_2HD_34_35.m3u8?checkedby:ahlakid.com
-EuroSPORT 3,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/14180/index.m3u8?checkedby:ahlakid.com
-EuroSPORT 3,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/14181/index.m3u8?checkedby:ahlakid.com
-EuroSPORT 3,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/14195/index.m3u8?checkedby:ahlakid.com
-EuroSPORT 3,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/14201/index.m3u8?checkedby:ahlakid.com
-EuroSPORT 4,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/14182/index.m3u8?checkedby:ahlakid.com
-EuroSPORT 4,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/14183/index.m3u8?checkedby:ahlakid.com
-EuroSPORT 4,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/14196/index.m3u8?checkedby:ahlakid.com
-EuroSPORT 4,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/14202/index.m3u8?checkedby:ahlakid.com
-EuroSPORT 5,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/14184/index.m3u8?checkedby:ahlakid.com
-EuroSPORT 5,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/14185/index.m3u8?checkedby:ahlakid.com
-EuroSPORT 5,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/14197/index.m3u8?checkedby:ahlakid.com
-EuroSPORT 5,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/14203/index.m3u8?checkedby:ahlakid.com
-EuroSPORT 6,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/14186/index.m3u8?checkedby:ahlakid.com
-EuroSPORT 6,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/14187/index.m3u8?checkedby:ahlakid.com
-EuroSPORT 6,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/14198/index.m3u8?checkedby:ahlakid.com
-EuroSPORT 6,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/14204/index.m3u8?checkedby:ahlakid.com
-EuroSPORT 7,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/14188/index.m3u8?checkedby:ahlakid.com
-EuroSPORT 7,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/14189/index.m3u8?checkedby:ahlakid.com
-EuroSPORT 7,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/14199/index.m3u8?checkedby:ahlakid.com
-EuroSPORT 7,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/14205/index.m3u8?checkedby:ahlakid.com
-EuroSPORT 8,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/14190/index.m3u8?checkedby:ahlakid.com
-EuroSPORT 8,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/14191/index.m3u8?checkedby:ahlakid.com
-EuroSPORT 8,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/14200/index.m3u8?checkedby:ahlakid.com
-EuroSPORT 8,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/14206/index.m3u8?checkedby:ahlakid.com
-EuroSPORT 9,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/14192/index.m3u8?checkedby:ahlakid.com
-EuroSPORT 9,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/14207/index.m3u8?checkedby:ahlakid.com
-EuroSPORT,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/18098/index.m3u8?checkedby:ahlakid.com
-EuroSPORT,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/15179/index.m3u8?checkedby:ahlakid.com
-EuroSPORT,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/18098/index.m3u8?checkedby:ahlakid.com
-EuroSPORT_Gold,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/15167/index.m3u8?checkedby:ahlakid.com
-EuroSPORT1,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159609?checkedby:ahlakid.com
-EuroSPORT2,http://cineapp.org:8000/Fernando/Fernando/5598?checkedby:ahlakid.com
-Extreme SPORT,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6964/index.m3u8?checkedby:ahlakid.com
-Extreme SPORTS,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/9160/index.m3u8?checkedby:ahlakid.com
-Extreme SPORTS,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/9160/index.m3u8?checkedby:ahlakid.com
-Extreme SPORTS,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/144/index.m3u8?checkedby:ahlakid.com
-Extreme SPORTS,http://cineapp.org:8000/Fernando/Fernando/79450?checkedby:ahlakid.com
-Extreme SPORTS,http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2287.m3u8?checkedby:ahlakid.com
-Extreme SPORTS,http://myott.top/stream/DT6QU63K5VX/148.m3u8?checkedby:ahlakid.com
-Extreme SPORTS,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/144/index.m3u8?checkedby:ahlakid.com
-Extreme SPORTS,https://sc.id-tv.kz/ExtremeSPORTSHD_34_35.m3u8?checkedby:ahlakid.com
-FOX SPORT 1,https://atchannel-live.akamaized.net/hls/live/2002736/atchannel-SPORT/master.m3u8
-FOX SPORTS 1 ,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7322/index.m3u8?checkedby:ahlakid.com
-FOX SPORTS 1,http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SFwfDA8mG-j_5D0fFreI79Q/TS?checkedby:ahlakid.com
-FOX SPORTS 2 ,http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2406.m3u8?checkedby:ahlakid.com
-FOX SPORTS 2 ,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7323/index.m3u8?checkedby:ahlakid.com
-FOX SPORTS 2,http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SBPs4ao6uxmTHJLUCZAarhU/TS?checkedby:ahlakid.com
-FOX SPORTS 2,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159602?checkedby:ahlakid.com
-FOX SPORTS 2,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/71218?checkedby:ahlakid.com
-FOX SPORTS 3,http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SMb9SW5iaZfFFg9gZsQ3r2w/TS?checkedby:ahlakid.com
-FOX SPORTS 3,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/71221?checkedby:ahlakid.com
-FOX SPORTS 4,http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SGaInzgzxdfqKtZ7mHDW8tU/TS?checkedby:ahlakid.com
-FOX SPORTS 4,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/71224?checkedby:ahlakid.com
-FOX SPORTS 5,http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SMkdFqWKvchcp_2ZENl_gss/TS?checkedby:ahlakid.com
-FOX SPORTS 6,http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SFxrrAAyHsNl32LQDcmHrD8/TS?checkedby:ahlakid.com
-FOX SPORTS News,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6119/index.m3u8?checkedby:ahlakid.com
-FOX SPORTS News,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6121/index.m3u8?checkedby:ahlakid.com
-NBA TV ,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7226/index.m3u8?checkedby:ahlakid.com
-NBA TV Canada CA,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6491/index.m3u8?checkedby:ahlakid.com
-NBA TV,http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SFQN5tY6WMSXnn2StDN7LTE/TS?checkedby:ahlakid.com
-NBA TV,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6838/index.m3u8?checkedby:ahlakid.com
-NBA TV+,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/6693?checkedby:ahlakid.com
-Red Bull TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8&checkedby:ahlakid.com
-Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?checkedby:ahlakid.com
-Red Bull TV,https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
-Red Bull TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-Red Bull TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8?checkedby:ahlakid.com
-Red Bull TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?checkedby:ahlakid.com
-Red Bull TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?checkedby:ahlakid.com
-Red Bull TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8?checkedby:ahlakid.com
-SKY SPORT 1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19027/index.m3u8?checkedby:ahlakid.com
-SKY SPORT 1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19028/index.m3u8?checkedby:ahlakid.com
-SKY SPORT 1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/2478/index.m3u8?checkedby:ahlakid.com
-SKY SPORT 10,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19037/index.m3u8?checkedby:ahlakid.com
-SKY SPORT 2,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19029/index.m3u8?checkedby:ahlakid.com
-SKY SPORT 2,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/2479/index.m3u8?checkedby:ahlakid.com
-SKY SPORT 24,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/19127/index.m3u8?checkedby:ahlakid.com
-SKY SPORT 24,http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13042?checkedby:ahlakid.com
-SKY SPORT 24,http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13793?checkedby:ahlakid.com
-SKY SPORT 24,http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/226?checkedby:ahlakid.com
-SKY SPORT 24,http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/70?checkedby:ahlakid.com
-SKY SPORT 24,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159565?checkedby:ahlakid.com
-SKY SPORT 24,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19127/index.m3u8?checkedby:ahlakid.com
-SKY SPORT 25,http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13801?checkedby:ahlakid.com
-SKY SPORT 3,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19030/index.m3u8?checkedby:ahlakid.com
-SKY SPORT 4,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19031/index.m3u8?checkedby:ahlakid.com
-SKY SPORT 5,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19032/index.m3u8?checkedby:ahlakid.com
-SKY SPORT 6,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19033/index.m3u8?checkedby:ahlakid.com
-SKY SPORT 7,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19034/index.m3u8?checkedby:ahlakid.com
-SKY SPORT 8,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19035/index.m3u8?checkedby:ahlakid.com
-SKY SPORT 9,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19036/index.m3u8?checkedby:ahlakid.com
-SKY SPORT ARENA,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/19128/index.m3u8?checkedby:ahlakid.com
-SKY SPORT ARENA,http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13044?checkedby:ahlakid.com
-SKY SPORT ARENA,http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13797?checkedby:ahlakid.com
-SKY SPORT ARENA,http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/9273?checkedby:ahlakid.com
-SKY SPORT ARENA,http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/9274?checkedby:ahlakid.com
-SKY SPORT ARENA,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/94997?checkedby:ahlakid.com
-SKY SPORT ARENA,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19128/index.m3u8?checkedby:ahlakid.com
-SKY SPORT Football,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/19131/index.m3u8?checkedby:ahlakid.com
-SKY SPORT Football,http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13045?checkedby:ahlakid.com
-SKY SPORT Football,http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13800?checkedby:ahlakid.com
-SKY SPORT Football,http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/228?checkedby:ahlakid.com
-SKY SPORT Football,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/95002?checkedby:ahlakid.com
-SKY SPORT Football,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19131/index.m3u8?checkedby:ahlakid.com
-SKY SPORT NBA,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/19134/index.m3u8?checkedby:ahlakid.com
-SKY SPORT NBA,http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13047?checkedby:ahlakid.com
-SKY SPORT NBA,http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13798?checkedby:ahlakid.com
-SKY SPORT NBA,http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/9276?checkedby:ahlakid.com
-SKY SPORT NBA,http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/9277?checkedby:ahlakid.com
-SKY SPORT NBA,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19134/index.m3u8?checkedby:ahlakid.com
-SKY SPORT News,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/95007?checkedby:ahlakid.com
-SKY SPORT News,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/2477/index.m3u8?checkedby:ahlakid.com
-SKY SPORT PREMIER LEAGUE,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/95009?checkedby:ahlakid.com
-SKY SPORT UNO,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/19135/index.m3u8?checkedby:ahlakid.com
-SKY SPORT UNO,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/19137/index.m3u8?checkedby:ahlakid.com
-SKY SPORT UNO,http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13043?checkedby:ahlakid.com
-SKY SPORT UNO,http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13794?checkedby:ahlakid.com
-SKY SPORT UNO,http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/71?checkedby:ahlakid.com
-SKY SPORT UNO,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159572?checkedby:ahlakid.com
-SKY SPORT UNO,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19135/index.m3u8?checkedby:ahlakid.com
-SKY SPORT UNO,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19137/index.m3u8?checkedby:ahlakid.com
-SKY SPORT,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19041/index.m3u8?checkedby:ahlakid.com
-SKY SPORT,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19044/index.m3u8?checkedby:ahlakid.com
-SKY SPORTS Main Event,http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SBW8lP8m2EgPyKzmlGsq39E/TS?checkedby:ahlakid.com
-SKY SPORTS Main Event,http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SKp8acESP4wXEf-M9YgodB0/TS?checkedby:ahlakid.com
-SKY SPORTS MIX,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7339/index.m3u8?checkedby:ahlakid.com
-SKY SPORTS NEWS,http://cineapp.org:8000/Fernando/Fernando/271?checkedby:ahlakid.com
-SKY SPORTS PREMIER LEAGUE,http://cineapp.org:8000/Fernando/Fernando/777?checkedby:ahlakid.com
-SKY SPORTS PREMIER LEAGUE,http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SJ-r5aJ37OTm_JngWDQ6IZg/TS?checkedby:ahlakid.com
-SKY SPORTS PREMIER LEAGUE,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7335/index.m3u8?checkedby:ahlakid.com
-SPORT TV + ,http://cineapp.org:8000/Fernando/Fernando/77351?checkedby:ahlakid.com
-SPORT TV +,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/2530/index.m3u8?checkedby:ahlakid.com
-SPORT TV 1 4K,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/19161/index.m3u8?checkedby:ahlakid.com
-SPORT TV 1 4K,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19161/index.m3u8?checkedby:ahlakid.com
-SPORT TV 1,http://cineapp.org:8000/Fernando/Fernando/28538?checkedby:ahlakid.com
-SPORT TV 1,http://cineapp.org:8000/Fernando/Fernando/5151?checkedby:ahlakid.com
-SPORT TV 1,http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/2323.m3u8?checkedby:ahlakid.com
-SPORT TV 1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/2525/index.m3u8?checkedby:ahlakid.com
-SPORT TV 2,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159583?checkedby:ahlakid.com
-SPORT TV 2,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/2526/index.m3u8?checkedby:ahlakid.com
-SPORT TV 3,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159584?checkedby:ahlakid.com
-SPORT TV 3,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/2527/index.m3u8?checkedby:ahlakid.com
-SPORT TV 4,http://cineapp.org:8000/Fernando/Fernando/28542?checkedby:ahlakid.com
-SPORT TV 4,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159585?checkedby:ahlakid.com
-SPORT TV 4,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/2528/index.m3u8?checkedby:ahlakid.com
-SPORT TV 5,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159586?checkedby:ahlakid.com
-SPORT TV 5,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/2529/index.m3u8?checkedby:ahlakid.com
-TNT SPORTS 1,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/19051/index.m3u8?checkedby:ahlakid.com
-TNT SPORTS 1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19051/index.m3u8?checkedby:ahlakid.com
-TNT SPORTS 2,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/19052/index.m3u8?checkedby:ahlakid.com
-TNT SPORTS 2,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19052/index.m3u8?checkedby:ahlakid.com
-TNT SPORTS 3,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/19053/index.m3u8?checkedby:ahlakid.com
-TNT SPORTS 3,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19053/index.m3u8?checkedby:ahlakid.com
-TNT SPORTS 4,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/19054/index.m3u8?checkedby:ahlakid.com
-TNT SPORTS 4,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19054/index.m3u8?checkedby:ahlakid.com
-TNT SPORTS 6,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/19055/index.m3u8?checkedby:ahlakid.com
-TNT SPORTS 6,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19055/index.m3u8?checkedby:ahlakid.com
+
 

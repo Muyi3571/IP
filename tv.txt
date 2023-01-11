@@ -703,7 +703,38 @@ CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 DW,http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
-GinX,http://www.336699.live:1935/blockfour/4gtv-4gtv053.stream/playlist.m3u8
+星空卫视,http://120.84.96.89:808/hls/79/index.m3u8
+星空卫视,http://120.84.96.96:808/hls/79/index.m3u8
+星空卫视,http://120.84.96.108:808/hls/79/index.m3u8
+星空卫视,http://120.84.96.113:808/hls/79/index.m3u8
+星空卫视,http://120.84.96.126:808/hls/79/index.m3u8
+星空卫视,http://120.84.96.133:808/hls/79/index.m3u8
+翡翠台,http://radius.8866.org:800/hls/80/index.m3u8
+翡翠台,http://r.jdshipin.com/n90gt
+翡翠台,http://r.jdshipin.com/62WM7
+华丽台,https://pull-l3-cny.douyincdn.com/live/8f0f5b53f8ad921929fc9ac8771cbd82.m3u8
+J2,http://baidu.douyincdn.freetvtv.com/j2/index.m3u8?blog.ntnas.top
+J2,http://baidu.douyincdn.freetvtv.com/j2/index.m3u8
+J2,http://radius.8866.org:800/hls/81/index.m3u8
+J2,http://r.jdshipin.com/Nr5jq
+华丽台,http://23.237.10.66:16410
+明珠台,http://pull-l3-cny.douyincdn.com/live/81c6196a626a87b4bc7a81d032b0bf7f.m3u8
+台视,http://23.237.10.66:16344
+台视,http://107.151.203.111:2209/135/us50.php?id=tsk
+中视,http://www.336699.live:1935/blockfour/4gtv-4gtv040.stream/playlist.m3u8
+中视,http://www.336699.live:1935/blockfour/4gtv-4gtv040.stream/.m3u8
+华视,http://www.336699.live:1935/blockfour/4gtv-4gtv041.stream/playlist.m3u8
+民视,http://www.336699.live:1935/blockfour/4gtv-4gtv002.stream/playlist.m3u8
+民视,http://23.237.10.66:16334
+民视,http://107.151.203.111:2209/135/us50.php?id=msk
+中视新闻,http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8
+台视新闻,http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
+民视新闻,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
+民视新闻,https://pull-l3-cny.douyincdn.com/live/304b8e04a437299311112b7f4902c9dd.m3u8
+中天新闻,http://www.336699.live:1935/blockfour/4gtv-4gtv009.stream/playlist.m3u8
+中天新闻,https://pull-l3-cny.douyincdn.com/live/7898d38d54c60879ba96a1fa42edbd53.m3u8
+寰宇新闻台,https://pull-l3-cny.douyincdn.com/live/a9e3982a798d13ba350075af6cff4119.m3u8
+寰宇新闻台,http://158.101.151.82:9000/jmsytb.m3u8?c=14
 HBO HD,http://pull-l3-cny.douyincdn.com/live/b2478a833f3e8b439b680048fcbf7786.m3u8
 HBO家庭影院,http://pull-l3-cny.douyincdn.com/live/1279e1fd458348b32fd60381b1017c09.m3u8
 HBO强档影院,http://pull-l3-cny.douyincdn.com/live/162f0111fdd134e929d72640e6c4ea56.m3u8
@@ -822,192 +853,6 @@ TVB明珠台,http://pull-l3-cny.douyincdn.com/live/81c6196a626a87b4bc7a81d032b0b
 
 
 体育,#genre#
-AR: BEIN SPORTS 3 HEVC,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/350624.ts
-AR: BEIN SPORTS 3 MAX HD,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/333789.ts
-AR: BEIN SPORTS 3 MAX HEVC,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/339575.ts
-AR: BEIN SPORTS 3 PREMIUM FHD,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/343322.ts
-AR: BEIN SPORTS 3 PREMIUM HD,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/333792.ts
-AR: BEIN SPORTS 3 PREMIUM HEVC,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/333791.ts
-AR: BEIN SPORTS 3 PREMIUM SD,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/358383.ts
-AR: BEIN SPORTS ENGLISH 1 FHD,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/342216.ts
-AR: BEIN SPORTS ENGLISH 1 HD,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/333809.ts
-AR: BEIN SPORTS ENGLISH 1 HEVC,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/352784.ts
-AR: BEIN SPORTS ENGLISH 1 SD,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/343323.ts
-AR: BEIN SPORTS ENGLISH 2 FHD,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/333810.ts
-AR: BEIN SPORTS ENGLISH 2 HD,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/333811.ts
-AR: BEIN SPORTS ENGLISH 2 SD,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/366371.ts
-AR: BEIN SPORTS ENGLISH 3 FHD,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/339581.ts
-AR: BEIN SPORTS ENGLISH 3 HD,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/343068.ts
-AR: BEIN SPORTS ENGLISH 3 HEVC,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/333812.ts
-BT SPORT 1,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/269144.ts
-BT SPORT 1,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306386.ts
-BT SPORT 1,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306387.ts
-BT SPORT 1,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306389.ts
-BT SPORT 1,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/324180.ts
-BT SPORT 1,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/337491.ts
-BT SPORT 1,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/337492.ts
-BT SPORT 1,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/341209.ts
-BT SPORT 1,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/341210.ts
-BT SPORT 1,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/341398.ts
-BT SPORT 2,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/267281.ts
-BT SPORT 2,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306390.ts
-BT SPORT 2,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306391.ts
-BT SPORT 2,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306392.ts
-BT SPORT 2,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/324181.ts
-BT SPORT 2,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/324182.ts
-BT SPORT 2,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/337493.ts
-BT SPORT 2,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/337494.ts
-BT SPORT 2,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/350678.ts
-BT SPORT 3,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/267282.ts
-BT SPORT 3,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306394.ts
-BT SPORT 3,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306396.ts
-BT SPORT 3,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/320276.ts
-BT SPORT 3,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/324183.ts
-BT SPORT 3,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/341399.ts
-BT SPORT 3,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/342425.ts
-BT SPORT 3,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/347772.ts
-BT SPORT 3,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/360520.ts
-BT SPORT 4,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/329296.ts
-BT SPORT 4,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/329297.ts
-BT SPORT 5,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/329298.ts
-BT SPORT 6,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/329299.ts
-BT SPORT 7,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/329300.ts
-BT SPORT BOX OFFICE PPV (LIVE DURING EVENTS ONLY),http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/320201.ts
-BT SPORT ESPN,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/290608.ts
-BT SPORT ESPN,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306397.ts
-BT SPORT ESPN,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306398.ts
-BT SPORT ESPN,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306400.ts
-BT SPORT ESPN,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/324184.ts
-BT SPORT ESPN,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/337497.ts
-BT SPORT ESPN,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/337498.ts
-EDGE SPORT,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306405.ts
-EDGE SPORT,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/337502.ts
-EIR SPORT 1,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306406.ts
-EIR SPORT 1,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306416.ts
-EIR SPORT 1,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/318543.ts
-EIR SPORT 1,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/318544.ts
-EIR SPORT 2,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306407.ts
-EIR SPORT 2,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/317104.ts
-EIR SPORT 2,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/341400.ts
-EIR SPORT 2,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/347560.ts
-EIR SPORT 2,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/352953.ts
-ELEVEN SPORTS,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/361244.ts
-EMAN CHANNEL,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/305907.ts
-EURO NEWS LIVE,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/367832.ts
-EUROSPORT 1,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306408.ts
-EUROSPORT 1,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306409.ts
-EUROSPORT 1,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/337503.ts
-EUROSPORT 1,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/341211.ts
-EUROSPORT 2,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/215868.ts
-EUROSPORT 2,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306411.ts
-EUROSPORT 2,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/311205.ts
-EUROSPORT 2,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/337504.ts
-EUROSPORT 2,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/367778.ts
-EUROSPORTS 1,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/324189.ts
-EUROSPORTS 2,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/324190.ts
-FOX SPORT 2,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/367782.ts
-FOX SPORTS 1,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/364674.ts
-FOX SPORTS 2,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/365830.ts
-FOX SPORTS ARIZONA,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/363835.ts
-FOX SPORTS DETROIT,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/337535.ts
-FOX SPORTS FLORIDA,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/355362.ts
-FOX SPORTS MIDWEST,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/331705.ts
-FOX SPORTS NORTH,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/357400.ts
-FOX SPORTS OHIO,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/365831.ts
-FOX SPORTS OKLAHOMA,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/337538.ts
-FOX SPORTS ONE,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/357401.ts
-FOX SPORTS PRIME TICKET,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/357402.ts
-FOX SPORTS SAN DIEGO,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/357403.ts
-FOX SPORTS SOUTH,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/355363.ts
-FOX SPORTS SPORTSTIME OHIO,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/352999.ts
-FOX SPORTS SUN,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/357404.ts
-FOX SPORTS WEST,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/342849.ts
-FOX SPORTS WEST,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/343851.ts
-FOX SPORTS WISCONSIN,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/357399.ts
-FREESPORTS,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/329301.ts
-FREESPORTS,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/257098.ts
-FREESPORTS,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306413.ts
-FREESPORTS,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306414.ts
-FREESPORTS,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/337507.ts
-PREMIER SPORT 1,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/324192.ts
-PREMIER SPORT 2,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306424.ts
-PREMIER SPORT 2,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/324193.ts
-PREMIER SPORT,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/314008.ts
-PREMIER SPORTS 1,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306417.ts
-PREMIER SPORTS 1,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306418.ts
-PREMIER SPORTS 1,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306425.ts
-PREMIER SPORTS 1,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/314007.ts
-PREMIER SPORTS 1,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/324195.ts
-PREMIER SPORTS 1,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/324197.ts
-PREMIER SPORTS 1,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/329303.ts
-PREMIER SPORTS 2 UK,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/324194.ts
-PREMIER SPORTS 2,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306426.ts
-PREMIER SPORTS 2,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306420.ts
-PREMIER SPORTS 2,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306421.ts
-PREMIER SPORTS 2,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/324196.ts
-PREMIER SPORTS 2,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/324198.ts
-PREMIER SPORTS 2,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/329304.ts
-PREMIER SPORTS 2,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/329305.ts
-PREMIER SPORTS 2,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/341212.ts
-SKY SPORTS ACTION,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/267309.ts
-SKY SPORTS ACTION,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/318545.ts
-SKY SPORTS ACTION,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/324199.ts
-SKY SPORTS ACTION,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/324374.ts
-SKY SPORTS ACTION,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/337509.ts
-SKY SPORTS ACTION,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/341401.ts
-SKY SPORTS ACTION,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/346253.ts
-SKY SPORTS FOOTBALL,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306442.ts
-SKY SPORTS FOOTBALL,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/314010.ts
-SKY SPORTS FOOTBALL,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/314011.ts
-SKY SPORTS FOOTBALL,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/337515.ts
-SKY SPORTS FOOTBALL,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/346254.ts
-SKY SPORTS MAIN EVENT ,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306447.ts
-SKY SPORTS MAIN EVENT ,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/337517.ts
-SKY SPORTS MAIN EVENT ,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/343444.ts
-SKY SPORTS MAIN EVENT ,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/344292.ts
-SKY SPORTS MAIN EVENT,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/257175.ts
-SKY SPORTS MAIN EVENT,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306448.ts
-SKY SPORTS MAIN EVENT,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/324200.ts
-SKY SPORTS MAIN EVENT,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/337518.ts
-SKY SPORTS MAIN EVENT,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/341214.ts
-SKY SPORTS MAIN EVENT,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/341402.ts
-SKY SPORTS MAIN EVENT,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/353847.ts
-SKY SPORTS MIX,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/216040.ts
-SKY SPORTS MIX,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306451.ts
-SKY SPORTS MIX,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/337519.ts
-SKY SPORTS MIX,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/341403.ts
-SKY SPORTS MIX,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/342426.ts
-SKY SPORTS NEWS ,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306453.ts
-SKY SPORTS NEWS ,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/342427.ts
-SKY SPORTS NEWS,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/257177.ts
-SKY SPORTS NEWS,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306456.ts
-SKY SPORTS NEWS,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/318546.ts
-SKY SPORTS NEWS,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/337521.ts
-SKY SPORTS NEWS,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/341404.ts
-SKY SPORTS NEWS,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/347561.ts
-SKY SPORTS NFL,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306457.ts
-SKY SPORTS NFL,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306458.ts
-SKY SPORTS NFL,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/342428.ts
-SKY SPORTS NFL,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/363633.ts
-SKY SPORTS NFL/ACTION,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/324201.ts
-SKY SPORTS PREMIER LEAGUE ,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/314012.ts
-SKY SPORTS PREMIER LEAGUE ,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/337523.ts
-SKY SPORTS PREMIER LEAGUE ,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/341215.ts
-SKY SPORTS PREMIER LEAGUE ,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/366603.ts
-SKY SPORTS PREMIER LEAGUE,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/301744.ts
-SKY SPORTS PREMIER LEAGUE,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306461.ts
-SKY SPORTS PREMIER LEAGUE,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/324203.ts
-SKY SPORTS PREMIER LEAGUE,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/324375.ts
-SKY SPORTS PREMIER LEAGUE,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/337524.ts
-SKY SPORTS PREMIER LEAGUE,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/341216.ts
-SKY SPORTS RACING,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/286153.ts
-SKY SPORTS RACING,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/306462.ts
-SKY SPORTS RACING,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/324204.ts
-SKY SPORTS RACING,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/341217.ts
-SKY SPORTS RACING,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/341405.ts
-SKY SPORTS RACING,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/367779.ts
-SKY STORE 1,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/364739.ts
-SKY STORE 4,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/366850.ts
 SKY WITNESS,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/367876.ts
 
 

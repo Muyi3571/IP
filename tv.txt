@@ -903,7 +903,16 @@ TVB明珠台,http://pull-l3-cny.douyincdn.com/live/81c6196a626a87b4bc7a81d032b0b
 
 
 体育,#genre#
-SKY WITNESS,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/367876.ts
+ELEVEN體育1台,http://198.16.64.10:8278/bs181_japan/playlist.m3u8?tid=MEBE3981057839810578&ct=19225&tsum=d6fa49cd7b45b3bea924647730100283
+ELEVEN體育1台,http://50.7.220.74:8278/golfchannel_twn/playlist.m3u8?tid=MFBF2798068027980680&ct=18393&tsum=d8204023f67120512c75a8882f121120
+ELEVEN體育2台,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
+ELEVEN體育2台,http://198.16.64.10:8278/bsfuji_japan/playlist.m3u8?tid=MEFE1641904216419042&ct=19225&tsum=e49ffeb9a6df295150be1cd8f9b0ea30
+ELTA体育1台,https://elta.irtblztjwzxz000041.xyz/elta/download/11/index.m3u8
+ELTA体育2台,https://elta.irtblztjwzxz000041.xyz/elta/download/22/index.m3u8
+ELTA体育3台,https://elta.irtblztjwzxz000041.xyz/elta/download/33/index.m3u8
+CCTV5-高清,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
+CCTV5-高清,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
+连续剧4K,http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
 
 
 

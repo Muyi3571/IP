@@ -914,4 +914,31 @@ CCTV5-高清,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32
 连续剧4K,http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
 
 
+Other,#genre#
+五星体育,http://[2409:8c3c:1300:806:74::b]/liveplay-五星体育,kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+五星体育,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
+五星体育,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+ELEVEN1,http://61.221.81.93:8078/hls/25/80/esport.m3u8
+ELEVEN2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
+智林体育,http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/playlist.m3u8
+翡翠台,http://v1.qiantutv.com/stream/66e6630861b902afb75c5ee4f394233b/index.m3u8
+翡翠台,http://v1.qiantutv.com/stream/719c558c7bbe96c4dc5f404a8c6094b3/index.m3u8
+翡翠台,http://fyld.eatuo.com:9901/tsfile/live/1009_1.m3u8
+有线新闻台,https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
+有线财经资讯台,https://uc6.i-cable.com/live_freedirect/freehd208_h.live/playlist.m3u8
+香港开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist1.m3u8
+民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
+民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+IPTV高清院线,http://119.39.128.18:88/hls/34/index.m3u8
+IPTV抗战剧场,http://119.39.128.18:88/hls/35/index.m3u8
+IPTV古装剧场,http://119.39.128.18:88/hls/36/index.m3u8
+IPTV经典剧场,http://119.39.128.18:88/hls/37/index.m3u8
 

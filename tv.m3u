@@ -7,78 +7,158 @@ http://60.221.226.232:808/hls/55/index.m3u8
 http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1668336154&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
 #EXTINF:-1 group-title="IPTV6,#genre#",凤凰中文
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1
+#EXTINF:-1 group-title="IPTV6,#genre#",凤凰中文
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1
+#EXTINF:-1 group-title="IPTV6,#genre#",凤凰中文
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 group-title="IPTV6,#genre#",凤凰资讯
 http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1668336354&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
 #EXTINF:-1 group-title="IPTV6,#genre#",凤凰资讯
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1
+#EXTINF:-1 group-title="IPTV6,#genre#",凤凰资讯
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1
+#EXTINF:-1 group-title="IPTV6,#genre#",凤凰资讯
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+#EXTINF:-1 group-title="IPTV6,#genre#",CCTV-1
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225829/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 group-title="IPTV6,#genre#",CCTV-1
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225501/2/index.m3u8
 #EXTINF:-1 group-title="IPTV6,#genre#",CCTV-1
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225642/index.m3u8
+#EXTINF:-1 group-title="IPTV6,#genre#",CCTV-1
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225642/index.m3u8
+#EXTINF:-1 group-title="IPTV6,#genre#",CCTV-2
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225800/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 group-title="IPTV6,#genre#",CCTV-2
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225500/2/index.m3u8
 #EXTINF:-1 group-title="IPTV6,#genre#",CCTV-2
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225643/index.m3u8
+#EXTINF:-1 group-title="IPTV6,#genre#",CCTV-2
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225643/index.m3u8
+#EXTINF:-1 group-title="IPTV6,#genre#",CCTV-3
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227256/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 group-title="IPTV6,#genre#",CCTV-3
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225634/2/index.m3u8
 #EXTINF:-1 group-title="IPTV6,#genre#",CCTV-3
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225634/index.m3u8
+#EXTINF:-1 group-title="IPTV6,#genre#",CCTV-3
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225634/index.m3u8
+#EXTINF:-1 group-title="IPTV6,#genre#",CCTV-4
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225802/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 group-title="IPTV6,#genre#",CCTV-4
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225621/2/index.m3u8
 #EXTINF:-1 group-title="IPTV6,#genre#",CCTV-4
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225621/index.m3u8
-#EXTINF:-1 group-title="IPTV6,#genre#",cctv-4k
+#EXTINF:-1 group-title="IPTV6,#genre#",CCTV-4
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225621/index.m3u8
+#EXTINF:-1 group-title="IPTV6,#genre#",CCTV-4K
 http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw4259108076_496521789/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8?icpid=3&RTS=1658389916&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
+#EXTINF:-1 group-title="IPTV6,#genre#",CCTV-4K
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+#EXTINF:-1 group-title="IPTV6,#genre#",CCTV-4K
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178&type=IPv6
+#EXTINF:-1 group-title="IPTV6,#genre#",CCTV-5
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227170/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 group-title="IPTV6,#genre#",CCTV-5
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225633/2/index.m3u8
 #EXTINF:-1 group-title="IPTV6,#genre#",CCTV-5
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225633/index.m3u8
+#EXTINF:-1 group-title="IPTV6,#genre#",CCTV-5
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225633/index.m3u8
+#EXTINF:-1 group-title="IPTV6,#genre#",CCTV-5+
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225821/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 group-title="IPTV6,#genre#",CCTV-5+
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225649/2/index.m3u8
 #EXTINF:-1 group-title="IPTV6,#genre#",CCTV-5+
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225706/index.m3u8
 #EXTINF:-1 group-title="IPTV6,#genre#",CCTV-6
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227260/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+#EXTINF:-1 group-title="IPTV6,#genre#",CCTV-6
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225632/2/index.m3u8
 #EXTINF:-1 group-title="IPTV6,#genre#",CCTV-6
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225632/index.m3u8
+#EXTINF:-1 group-title="IPTV6,#genre#",CCTV-6
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225632/index.m3u8
+#EXTINF:-1 group-title="IPTV6,#genre#",CCTV-7
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225805/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 group-title="IPTV6,#genre#",CCTV-7
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225499/2/index.m3u8
 #EXTINF:-1 group-title="IPTV6,#genre#",CCTV-7
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225624/index.m3u8
+#EXTINF:-1 group-title="IPTV6,#genre#",CCTV-7
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225624/index.m3u8
+#EXTINF:-1 group-title="IPTV6,#genre#",CCTV-8
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227174/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 group-title="IPTV6,#genre#",CCTV-8
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225631/2/index.m3u8
 #EXTINF:-1 group-title="IPTV6,#genre#",CCTV-8
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225631/index.m3u8
+#EXTINF:-1 group-title="IPTV6,#genre#",CCTV-8
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225631/index.m3u8
+#EXTINF:-1 group-title="IPTV6,#genre#",CCTV-9
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225820/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 group-title="IPTV6,#genre#",CCTV-9
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225626/2/index.m3u8
 #EXTINF:-1 group-title="IPTV6,#genre#",CCTV-9
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225646/index.m3u8
+#EXTINF:-1 group-title="IPTV6,#genre#",CCTV-9
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225646/index.m3u8
+#EXTINF:-1 group-title="IPTV6,#genre#",CCTV-10
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225814/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 group-title="IPTV6,#genre#",CCTV-10
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225496/2/index.m3u8
 #EXTINF:-1 group-title="IPTV6,#genre#",CCTV-10
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225636/index.m3u8
+#EXTINF:-1 group-title="IPTV6,#genre#",CCTV-10
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225636/index.m3u8
+#EXTINF:-1 group-title="IPTV6,#genre#",CCTV-11
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225815/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 group-title="IPTV6,#genre#",CCTV-11
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225628/2/index.m3u8
 #EXTINF:-1 group-title="IPTV6,#genre#",CCTV-11
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225628/index.m3u8
+#EXTINF:-1 group-title="IPTV6,#genre#",CCTV-11
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225628/index.m3u8
+#EXTINF:-1 group-title="IPTV6,#genre#",CCTV-12
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225816/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 group-title="IPTV6,#genre#",CCTV-12
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225495/2/index.m3u8
 #EXTINF:-1 group-title="IPTV6,#genre#",CCTV-12
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225637/index.m3u8
+#EXTINF:-1 group-title="IPTV6,#genre#",CCTV-12
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225637/index.m3u8
+#EXTINF:-1 group-title="IPTV6,#genre#",CCTV-13
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225817/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 group-title="IPTV6,#genre#",CCTV-13
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225638/2/index.m3u8
 #EXTINF:-1 group-title="IPTV6,#genre#",CCTV-13
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225638/index.m3u8
+#EXTINF:-1 group-title="IPTV6,#genre#",CCTV-13
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225638/index.m3u8
+#EXTINF:-1 group-title="IPTV6,#genre#",CCTV-14
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225819/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 group-title="IPTV6,#genre#",CCTV-14
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225494/2/index.m3u8
 #EXTINF:-1 group-title="IPTV6,#genre#",CCTV-14
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225640/index.m3u8
+#EXTINF:-1 group-title="IPTV6,#genre#",CCTV-14
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225640/index.m3u8
+#EXTINF:-1 group-title="IPTV6,#genre#",CCTV-15
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225818/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 group-title="IPTV6,#genre#",CCTV-15
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225641/2/index.m3u8
 #EXTINF:-1 group-title="IPTV6,#genre#",CCTV-15
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225641/index.m3u8
+#EXTINF:-1 group-title="IPTV6,#genre#",CCTV-15
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225641/index.m3u8
 #EXTINF:-1 group-title="IPTV6,#genre#",CCTV-16
 http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
+#EXTINF:-1 group-title="IPTV6,#genre#",CCTV-16
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227162/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+#EXTINF:-1 group-title="IPTV6,#genre#",CCTV-16
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226230/index.m3u8
+#EXTINF:-1 group-title="IPTV6,#genre#",CCTV-17
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226990/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 group-title="IPTV6,#genre#",CCTV-17
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225907/2/index.m3u8
 #EXTINF:-1 group-title="IPTV6,#genre#",CCTV-17
@@ -91,30 +171,36 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225917/index.m3
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225937/2/index.m3u8
 #EXTINF:-1 group-title="IPTV6,#genre#",CETV-4
 http://[2409:8087:5011:1020::15]/180000001001/00000001000000001017000000440665/index.m3u8
+#EXTINF:-1 group-title="IPTV6,#genre#",CGTN
+http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000002000000028019/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="IPTV6,#genre#",CGTN记录
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225508/2/index.m3u8
 #EXTINF:-1 group-title="IPTV6,#genre#",CGTN记录
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225645/2/index.m3u8
+#EXTINF:-1 group-title="IPTV6,#genre#",CGTN纪录
+http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000002000000028012/main.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 group-title="IPTV6,#genre#",CGTN纪实
 http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000002000000028012/main.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 group-title="IPTV6,#genre#",CGTN新闻
 http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000002000000028019/main.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 group-title="IPTV6,#genre#",CGTN英语
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225747/2/index.m3u8
-#EXTINF:-1 group-title="IPTV6,#genre#",CNA新闻
-http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 group-title="IPTV6,#genre#",CNC英文
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225693/2/index.m3u8
-#EXTINF:-1 group-title="IPTV6,#genre#",CNC中文
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225694/2/index.m3u8
-#EXTINF:-1 group-title="IPTV6,#genre#",NHK世界
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-#EXTINF:-1 group-title="IPTV6,#genre#",半岛新闻
-http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 group-title="IPTV6,#genre#",CHC动作电影
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="IPTV6,#genre#",CHC高清电影
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="IPTV6,#genre#",CHC家庭影院
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="IPTV6,#genre#",安徽卫视
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227178/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 group-title="IPTV6,#genre#",安徽卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225691/2/index.m3u8
 #EXTINF:-1 group-title="IPTV6,#genre#",安徽卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225691/index.m3u8
 #EXTINF:-1 group-title="IPTV6,#genre#",北京财经
 http://111.31.106.45/downlive.brtvcloud.com/brtv8kapptv/brtv8kappcaijing.m3u8
+#EXTINF:-1 group-title="IPTV6,#genre#",北京纪实科教
+http://111.62.156.15/down.brtvcloud.com/brtv8kapptv/brtv8kapp8ktv.m3u8
 #EXTINF:-1 group-title="IPTV6,#genre#",北京卡酷
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225677/2/index.m3u8
 #EXTINF:-1 group-title="IPTV6,#genre#",北京青年
@@ -123,6 +209,8 @@ http://111.31.106.45/downlive.brtvcloud.com/brtv8kapptv/brtv8kappqingnian.m3u8
 http://111.31.106.45/downlive.brtvcloud.com/brtv8kapptv/brtv8kappshenghuo.m3u8
 #EXTINF:-1 group-title="IPTV6,#genre#",北京体育
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225675/2/index.m3u8
+#EXTINF:-1 group-title="IPTV6,#genre#",北京卫视
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225826/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 group-title="IPTV6,#genre#",北京卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225600/2/index.m3u8
 #EXTINF:-1 group-title="IPTV6,#genre#",北京卫视
@@ -147,14 +235,26 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225622/2/index.
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225620/2/index.m3u8
 #EXTINF:-1 group-title="IPTV6,#genre#",潮妈辣婆
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225708/2/index.m3u8
+#EXTINF:-1 group-title="IPTV6,#genre#",纯享超清
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225786/index.m3u8
+#EXTINF:-1 group-title="IPTV6,#genre#",第一财经
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226966/index.m3u8
+#EXTINF:-1 group-title="IPTV6,#genre#",第一财经
+http://[2409:8c20:9c71:120::34]/keonline.shanghai.liveplay.qq.com/live/program/live/dycjhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="IPTV6,#genre#",第一剧场
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
 #EXTINF:-1 group-title="IPTV6,#genre#",电视指南
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
 #EXTINF:-1 group-title="IPTV6,#genre#",东方卫视
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225828/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+#EXTINF:-1 group-title="IPTV6,#genre#",东方卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225489/2/index.m3u8
 #EXTINF:-1 group-title="IPTV6,#genre#",东方卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225659/index.m3u8
+#EXTINF:-1 group-title="IPTV6,#genre#",东方影视
+http://[2409:8c20:9c71:120::34]/keonline.shanghai.liveplay.qq.com/live/program/live/dsjpdhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="IPTV6,#genre#",东南卫视
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227156/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 group-title="IPTV6,#genre#",东南卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225585/2/index.m3u8
 #EXTINF:-1 group-title="IPTV6,#genre#",东南卫视
@@ -167,6 +267,8 @@ http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227071/index.m3u
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="IPTV6,#genre#",都市剧场
 http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227204/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+#EXTINF:-1 group-title="IPTV6,#genre#",都市剧场
+http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226694/index.m3u8
 #EXTINF:-1 group-title="IPTV6,#genre#",法治天地
 http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226655/index.m3u8
 #EXTINF:-1 group-title="IPTV6,#genre#",风云剧场
@@ -184,6 +286,8 @@ http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227079/index.m3u
 #EXTINF:-1 group-title="IPTV6,#genre#",福建文体
 http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227188/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="IPTV6,#genre#",甘肃卫视
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227262/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+#EXTINF:-1 group-title="IPTV6,#genre#",甘肃卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225724/2/index.m3u8
 #EXTINF:-1 group-title="IPTV6,#genre#",甘肃卫视
 http://[2409:8087:5050:20::3023]/180000001001/00000001000000000045000000287932/main.m3u8?IASHttpSessionId=OTT
@@ -192,11 +296,17 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3
 #EXTINF:-1 group-title="IPTV6,#genre#",古装剧场
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225678/2/index.m3u8
 #EXTINF:-1 group-title="IPTV6,#genre#",广东卫视
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225824/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+#EXTINF:-1 group-title="IPTV6,#genre#",广东卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225701/index.m3u8
+#EXTINF:-1 group-title="IPTV6,#genre#",广西卫视
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227250/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 group-title="IPTV6,#genre#",广西卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225731/2/index.m3u8
 #EXTINF:-1 group-title="IPTV6,#genre#",广西卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226211/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="IPTV6,#genre#",贵州卫视
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227201/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 group-title="IPTV6,#genre#",贵州卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225483/2/index.m3u8
 #EXTINF:-1 group-title="IPTV6,#genre#",贵州卫视
@@ -207,10 +317,14 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225483/index.m3
 http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226629/index.m3u8
 #EXTINF:-1 group-title="IPTV6,#genre#",哈哈炫动
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225720/2/index.m3u8
+#EXTINF:-1 group-title="IPTV6,#genre#",哈哈炫动
+http://[2409:8c20:9c71:120::34]/keonline.shanghai.liveplay.qq.com/live/program/live/hhxdhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="IPTV6,#genre#",海南公共
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000382/index.m3u8?IAS
 #EXTINF:-1 group-title="IPTV6,#genre#",海南少儿
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?IAS
+#EXTINF:-1 group-title="IPTV6,#genre#",海南卫视
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227216/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 group-title="IPTV6,#genre#",海南卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225722/2/index.m3u8
 #EXTINF:-1 group-title="IPTV6,#genre#",海南卫视
@@ -222,35 +336,55 @@ http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000320/ind
 #EXTINF:-1 group-title="IPTV6,#genre#",海峡卫视
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227198/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 group-title="IPTV6,#genre#",河北卫视
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227063/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+#EXTINF:-1 group-title="IPTV6,#genre#",河北卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225610/2/index.m3u8
 #EXTINF:-1 group-title="IPTV6,#genre#",河北卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225610/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="IPTV6,#genre#",河南卫视
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225842/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+#EXTINF:-1 group-title="IPTV6,#genre#",河南卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225611/2/index.m3u8
 #EXTINF:-1 group-title="IPTV6,#genre#",河南卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225611/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="IPTV6,#genre#",贺州综合
+http://zhz.gxhzxw.com:2935/live/HZXW-HD/playlist.m3u8
+#EXTINF:-1 group-title="IPTV6,#genre#",黑龙江卫视
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225862/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 group-title="IPTV6,#genre#",黑龙江卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225586/2/index.m3u8
+#EXTINF:-1 group-title="IPTV6,#genre#",黑龙江卫视
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225690/index.m3u8
 #EXTINF:-1 group-title="IPTV6,#genre#",黑莓电影
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225718/2/index.m3u8
 #EXTINF:-1 group-title="IPTV6,#genre#",黑莓动画
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225672/2/index.m3u8
+#EXTINF:-1 group-title="IPTV6,#genre#",湖北卫视
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225840/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 group-title="IPTV6,#genre#",湖北卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225596/2/index.m3u8
 #EXTINF:-1 group-title="IPTV6,#genre#",湖北卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225699/index.m3u8
 #EXTINF:-1 group-title="IPTV6,#genre#",湖南爱晚
 http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000044/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="IPTV6,#genre#",湖南电视剧
+http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000037/main.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 group-title="IPTV6,#genre#",湖南电影
 http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000038/main.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 group-title="IPTV6,#genre#",湖南都市
 http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000041/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="IPTV6,#genre#",湖南公共
+http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000044/main.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 group-title="IPTV6,#genre#",湖南国际
 http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000045/main.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 group-title="IPTV6,#genre#",湖南教育
 http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001016000000368716/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="IPTV6,#genre#",湖南经视
+http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000002000000027983/main.m3u8
 #EXTINF:-1 group-title="IPTV6,#genre#",湖南视剧
 http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000037/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="IPTV6,#genre#",湖南卫视
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227232/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 group-title="IPTV6,#genre#",湖南卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225490/2/index.m3u8
 #EXTINF:-1 group-title="IPTV6,#genre#",湖南卫视
@@ -259,6 +393,16 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225704/index.m3
 http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000040/main.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 group-title="IPTV6,#genre#",怀旧剧场
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
+#EXTINF:-1 group-title="IPTV6,#genre#",欢笑剧场
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="IPTV6,#genre#",欢笑剧场
+https://live.v1.mk/api/bestv.php?id=hxjc4k/15000000
+#EXTINF:-1 group-title="IPTV6,#genre#",环球纪实
+http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000002000000028012/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="IPTV6,#genre#",环球新闻
+http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000002000000028019/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="IPTV6,#genre#",吉林卫视
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227099/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 group-title="IPTV6,#genre#",吉林卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225680/2/index.m3u8
 #EXTINF:-1 group-title="IPTV6,#genre#",吉林卫视
@@ -274,11 +418,15 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225713/2/index.
 #EXTINF:-1 group-title="IPTV6,#genre#",家庭影院
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="IPTV6,#genre#",江苏卫视
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225847/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+#EXTINF:-1 group-title="IPTV6,#genre#",江苏卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225488/2/index.m3u8
 #EXTINF:-1 group-title="IPTV6,#genre#",江苏卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225702/index.m3u8
 #EXTINF:-1 group-title="IPTV6,#genre#",江西少儿
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226194/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="IPTV6,#genre#",江西卫视
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227209/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 group-title="IPTV6,#genre#",江西卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225492/2/index.m3u8
 #EXTINF:-1 group-title="IPTV6,#genre#",江西卫视
@@ -295,6 +443,8 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225595/2/index.
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225595/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="IPTV6,#genre#",金鹰卡通
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225721/2/index.m3u8
+#EXTINF:-1 group-title="IPTV6,#genre#",金鹰卡通
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225730/2/index.m3u8
 #EXTINF:-1 group-title="IPTV6,#genre#",金鹰卡通
 http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000039/main.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 group-title="IPTV6,#genre#",精品大剧
@@ -316,11 +466,15 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002157/index.m3
 #EXTINF:-1 group-title="IPTV6,#genre#",梨园频道
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225581/2/index.m3u8
 #EXTINF:-1 group-title="IPTV6,#genre#",辽宁卫视
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227141/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+#EXTINF:-1 group-title="IPTV6,#genre#",辽宁卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225601/2/index.m3u8
 #EXTINF:-1 group-title="IPTV6,#genre#",辽宁卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225601/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="IPTV6,#genre#",龙江卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225690/index.m3u8
+#EXTINF:-1 group-title="IPTV6,#genre#",龙江卫视
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225690/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="IPTV6,#genre#",芒果独播
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226692/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="IPTV6,#genre#",芒果华语
@@ -337,6 +491,8 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225727/2/index.
 http://[2409:8087:4402:20:1:1216:401:41]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226118/index.m3u8
 #EXTINF:-1 group-title="IPTV6,#genre#",求索纪录
 http://[2409:8087:4402:20:1:1216:401:38]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226114/index.m3u8
+#EXTINF:-1 group-title="IPTV6,#genre#",求索纪录
+http://[2409:8087:4402:20:1:1216:401:38]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226114/index.m3u8
 #EXTINF:-1 group-title="IPTV6,#genre#",求索科学
 http://[2409:8087:4402:20:1:1216:401:46]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226115/index.m3u8
 #EXTINF:-1 group-title="IPTV6,#genre#",求索生活
@@ -348,6 +504,8 @@ http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226781/index.m3u
 #EXTINF:-1 group-title="IPTV6,#genre#",山东教育
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225719/2/index.m3u8
 #EXTINF:-1 group-title="IPTV6,#genre#",山东卫视
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227236/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+#EXTINF:-1 group-title="IPTV6,#genre#",山东卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225484/2/index.m3u8
 #EXTINF:-1 group-title="IPTV6,#genre#",山东卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225484/index.m3u8?fmt=ts2hls
@@ -357,6 +515,12 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225730/2/index.
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225729/2/index.m3u8
 #EXTINF:-1 group-title="IPTV6,#genre#",陕西卫视
 http://[2409:8087:5011:1020::2b]/180000001002/00000001000000000090000000215607/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="IPTV6,#genre#",上海都市
+http://[2409:8c20:9c71:120::34]/keonline.shanghai.liveplay.qq.com/live/program/live/ylpdhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="IPTV6,#genre#",上海外语
+http://[2409:8c20:9c71:120::34]/keonline.shanghai.liveplay.qq.com/live/program/live/wypdhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="IPTV6,#genre#",上海新闻
+http://[2409:8c20:9c71:120::34]/keonline.shanghai.liveplay.qq.com/live/program/live/xwzhhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="IPTV6,#genre#",深圳卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225598/2/index.m3u8
 #EXTINF:-1 group-title="IPTV6,#genre#",深圳卫视
@@ -366,17 +530,31 @@ http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/
 #EXTINF:-1 group-title="IPTV6,#genre#",世界地理
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
 #EXTINF:-1 group-title="IPTV6,#genre#",四川卫视
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225835/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+#EXTINF:-1 group-title="IPTV6,#genre#",四川卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225487/2/index.m3u8
 #EXTINF:-1 group-title="IPTV6,#genre#",四川卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225487/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="IPTV6,#genre#",体育赛事
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225706/index.m3u8
+#EXTINF:-1 group-title="IPTV6,#genre#",体育赛事
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225706/index.m3u8
 #EXTINF:-1 group-title="IPTV6,#genre#",体育休闲
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="IPTV6,#genre#",体育休闲
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="IPTV6,#genre#",天津卫视
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227205/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 group-title="IPTV6,#genre#",天津卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225485/2/index.m3u8
 #EXTINF:-1 group-title="IPTV6,#genre#",天津卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225698/index.m3u8
 #EXTINF:-1 group-title="IPTV6,#genre#",文化精品
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
+#EXTINF:-1 group-title="IPTV6,#genre#",五星体育
+http://[2409:8c20:9c71:120::34]/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
+#EXTINF:-1 group-title="IPTV6,#genre#",五星体育
+http://[2409:8c3c:1300:806:74::b]/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="IPTV6,#genre#",武博世界
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225656/2/index.m3u8
 #EXTINF:-1 group-title="IPTV6,#genre#",武术世界
@@ -396,295 +574,35 @@ http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3
 #EXTINF:-1 group-title="IPTV6,#genre#",云南卫视
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227181/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 group-title="IPTV6,#genre#",浙江卫视
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227193/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+#EXTINF:-1 group-title="IPTV6,#genre#",浙江卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225491/2/index.m3u8
 #EXTINF:-1 group-title="IPTV6,#genre#",浙江卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225703/index.m3u8
+#EXTINF:-1 group-title="IPTV6,#genre#",职教频道
+http://[2409:8087:5011:1020::15]/180000001001/00000001000000001017000000440665/index.m3u8
 #EXTINF:-1 group-title="IPTV6,#genre#",中国功夫
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225660/2/index.m3u8
+#EXTINF:-1 group-title="IPTV6,#genre#",中国教育
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225917/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="IPTV6,#genre#",中华美食
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225924/2/index.m3u8
+#EXTINF:-1 group-title="IPTV6,#genre#",重庆卫视
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227240/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 group-title="IPTV6,#genre#",重庆卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225612/2/index.m3u8
 #EXTINF:-1 group-title="IPTV6,#genre#",重庆卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225612/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="IPTV6,#genre#",CCTV-1
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225829/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1 group-title="IPTV6,#genre#",CCTV-2
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225800/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1 group-title="IPTV6,#genre#",CCTV-3
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227256/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1 group-title="IPTV6,#genre#",CCTV-4
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225802/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1 group-title="IPTV6,#genre#",CCTV-5
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227170/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1 group-title="IPTV6,#genre#",CCTV-5+
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225821/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1 group-title="IPTV6,#genre#",CCTV-6
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227260/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1 group-title="IPTV6,#genre#",CCTV-7
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225805/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1 group-title="IPTV6,#genre#",CCTV-8
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227174/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1 group-title="IPTV6,#genre#",CCTV-9
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225820/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1 group-title="IPTV6,#genre#",CCTV-10
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225814/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1 group-title="IPTV6,#genre#",CCTV-11
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225815/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1 group-title="IPTV6,#genre#",CCTV-12
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225816/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1 group-title="IPTV6,#genre#",CCTV-13
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225817/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1 group-title="IPTV6,#genre#",CCTV-14
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225819/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1 group-title="IPTV6,#genre#",CCTV-15
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225818/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1 group-title="IPTV6,#genre#",CCTV-16
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227162/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1 group-title="IPTV6,#genre#",CCTV-17
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226990/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1 group-title="IPTV6,#genre#",CCTV-4K
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1 group-title="IPTV6,#genre#",北京卫视
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225826/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1 group-title="IPTV6,#genre#",东方卫视
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225828/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1 group-title="IPTV6,#genre#",黑龙江卫视
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225862/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1 group-title="IPTV6,#genre#",吉林卫视
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227099/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1 group-title="IPTV6,#genre#",辽宁卫视
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227141/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1 group-title="IPTV6,#genre#",浙江卫视
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227193/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1 group-title="IPTV6,#genre#",天津卫视
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227205/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1 group-title="IPTV6,#genre#",湖南卫视
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227232/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1 group-title="IPTV6,#genre#",河北卫视
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227063/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1 group-title="IPTV6,#genre#",山西卫视
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225730/2/index.m3u8
-#EXTINF:-1 group-title="IPTV6,#genre#",山东卫视
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227236/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1 group-title="IPTV6,#genre#",江苏卫视
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225847/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1 group-title="IPTV6,#genre#",安徽卫视
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227178/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1 group-title="IPTV6,#genre#",河南卫视
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225842/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1 group-title="IPTV6,#genre#",湖北卫视
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225840/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1 group-title="IPTV6,#genre#",江西卫视
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227209/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1 group-title="IPTV6,#genre#",广东卫视
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225824/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1 group-title="IPTV6,#genre#",东南卫视
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227156/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1 group-title="IPTV6,#genre#",广西卫视
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227250/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1 group-title="IPTV6,#genre#",海南卫视
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227216/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1 group-title="IPTV6,#genre#",四川卫视
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225835/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1 group-title="IPTV6,#genre#",重庆卫视
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227240/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1 group-title="IPTV6,#genre#",云南卫视
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227181/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1 group-title="IPTV6,#genre#",贵州卫视
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227201/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1 group-title="IPTV6,#genre#",甘肃卫视
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227262/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1 group-title="IPTV6,#genre#",北京纪实科教
-http://111.62.156.15/down.brtvcloud.com/brtv8kapptv/brtv8kapp8ktv.m3u8
-#EXTINF:-1 group-title="IPTV6,#genre#",凤凰中文
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1 group-title="IPTV6,#genre#",凤凰资讯
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1 group-title="IPTV6,#genre#",CCTV-1
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225642/index.m3u8
-#EXTINF:-1 group-title="IPTV6,#genre#",CCTV-2
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225643/index.m3u8
-#EXTINF:-1 group-title="IPTV6,#genre#",CCTV-3
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225634/index.m3u8
-#EXTINF:-1 group-title="IPTV6,#genre#",CCTV-4
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225621/index.m3u8
-#EXTINF:-1 group-title="IPTV6,#genre#",CCTV-4K
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178&type=IPv6
-#EXTINF:-1 group-title="IPTV6,#genre#",CCTV-5
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225633/index.m3u8
-#EXTINF:-1 group-title="IPTV6,#genre#",CCTV-6
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225632/index.m3u8
-#EXTINF:-1 group-title="IPTV6,#genre#",CCTV-7
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225624/index.m3u8
-#EXTINF:-1 group-title="IPTV6,#genre#",CCTV-8
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225631/index.m3u8
-#EXTINF:-1 group-title="IPTV6,#genre#",CCTV-9
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225646/index.m3u8
-#EXTINF:-1 group-title="IPTV6,#genre#",CCTV-10
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225636/index.m3u8
-#EXTINF:-1 group-title="IPTV6,#genre#",CCTV-11
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225628/index.m3u8
-#EXTINF:-1 group-title="IPTV6,#genre#",CCTV-12
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225637/index.m3u8
-#EXTINF:-1 group-title="IPTV6,#genre#",CCTV-13
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225638/index.m3u8
-#EXTINF:-1 group-title="IPTV6,#genre#",CCTV-14
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225640/index.m3u8
-#EXTINF:-1 group-title="IPTV6,#genre#",CCTV-15
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225641/index.m3u8
-#EXTINF:-1 group-title="IPTV6,#genre#",CCTV-16
-http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
-#EXTINF:-1 group-title="IPTV6,#genre#",CCTV-17
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225909/index.m3u8
-#EXTINF:-1 group-title="IPTV6,#genre#",CGTN
-http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000002000000028019/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 group-title="IPTV6,#genre#",CGTN纪录
-http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000002000000028012/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 group-title="IPTV6,#genre#",湖南卫视
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225704/index.m3u8
-#EXTINF:-1 group-title="IPTV6,#genre#",东方卫视
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225659/index.m3u8
-#EXTINF:-1 group-title="IPTV6,#genre#",江苏卫视
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225702/index.m3u8
-#EXTINF:-1 group-title="IPTV6,#genre#",浙江卫视
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225703/index.m3u8
-#EXTINF:-1 group-title="IPTV6,#genre#",北京卫视
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225674/index.m3u8
-#EXTINF:-1 group-title="IPTV6,#genre#",深圳卫视
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225598/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="IPTV6,#genre#",山东卫视
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225484/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="IPTV6,#genre#",东南卫视
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225585/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="IPTV6,#genre#",安徽卫视
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225691/index.m3u8
-#EXTINF:-1 group-title="IPTV6,#genre#",重庆卫视
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225612/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="IPTV6,#genre#",中国教育
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225917/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="IPTV6,#genre#",甘肃卫视
-http://[2409:8087:5050:20::3023]/180000001001/00000001000000000045000000287932/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 group-title="IPTV6,#genre#",广东卫视
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225701/index.m3u8
-#EXTINF:-1 group-title="IPTV6,#genre#",广西卫视
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226211/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="IPTV6,#genre#",贵州卫视
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225483/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="IPTV6,#genre#",海南卫视
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226212/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="IPTV6,#genre#",河北卫视
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225610/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="IPTV6,#genre#",河南卫视
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225611/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="IPTV6,#genre#",湖北卫视
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225699/index.m3u8
-#EXTINF:-1 group-title="IPTV6,#genre#",吉林卫视
-http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226684/index.m3u8
-#EXTINF:-1 group-title="IPTV6,#genre#",江西卫视
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225492/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="IPTV6,#genre#",辽宁卫视
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225601/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="IPTV6,#genre#",黑龙江卫视
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225690/index.m3u8
-#EXTINF:-1 group-title="IPTV6,#genre#",青海卫视
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225727/2/index.m3u8
-#EXTINF:-1 group-title="IPTV6,#genre#",三沙卫视
-http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
-#EXTINF:-1 group-title="IPTV6,#genre#",厦门卫视
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226781/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="IPTV6,#genre#",陕西卫视
-http://[2409:8087:5011:1020::2b]/180000001002/00000001000000000090000000215607/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 group-title="IPTV6,#genre#",四川卫视
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225487/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="IPTV6,#genre#",天津卫视
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225698/index.m3u8
-#EXTINF:-1 group-title="IPTV6,#genre#",云南卫视
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227181/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1 group-title="IPTV6,#genre#",纪实人文
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225655/index.m3u8
-#EXTINF:-1 group-title="IPTV6,#genre#",金鹰纪实
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225595/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="IPTV6,#genre#",金鹰卡通
-http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000039/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 group-title="IPTV6,#genre#",第一财经
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226966/index.m3u8
-#EXTINF:-1 group-title="IPTV6,#genre#",湖南电影
-http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000038/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 group-title="IPTV6,#genre#",湖南都市
-http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000041/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 group-title="IPTV6,#genre#",湖南公共
-http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000044/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 group-title="IPTV6,#genre#",湖南国际
-http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000045/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 group-title="IPTV6,#genre#",湖南教育
-http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001016000000368716/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 group-title="IPTV6,#genre#",湖南电视剧
-http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000037/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 group-title="IPTV6,#genre#",湖南娱乐
-http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000040/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 group-title="IPTV6,#genre#",求索动物
-http://[2409:8087:4402:20:1:1216:401:41]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226118/index.m3u8
-#EXTINF:-1 group-title="IPTV6,#genre#",求索科学
-http://[2409:8087:4402:20:1:1216:401:46]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226115/index.m3u8
-#EXTINF:-1 group-title="IPTV6,#genre#",求索生活
-http://[2409:8087:4402:20:1:1216:401:43]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226116/index.m3u8
-#EXTINF:-1 group-title="IPTV6,#genre#",乐游频道
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002157/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="IPTV6,#genre#",第一剧场
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
-#EXTINF:-1 group-title="IPTV6,#genre#",风云剧场
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
-#EXTINF:-1 group-title="IPTV6,#genre#",怀旧剧场
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
-#EXTINF:-1 group-title="IPTV6,#genre#",欢笑剧场
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="IPTV6,#genre#",电视指南
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
-#EXTINF:-1 group-title="IPTV6,#genre#",风云音乐
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
-#EXTINF:-1 group-title="IPTV6,#genre#",风云足球
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
-#EXTINF:-1 group-title="IPTV6,#genre#",CHC动作电影
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="IPTV6,#genre#",CHC家庭影院
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="IPTV6,#genre#",CHC高清电影
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="IPTV6,#genre#",世界地理
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
-#EXTINF:-1 group-title="IPTV6,#genre#",文化精品
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
-#EXTINF:-1 group-title="IPTV6,#genre#",快乐垂钓
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002264/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="IPTV6,#genre#",梨园频道
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225581/2/index.m3u8
-#EXTINF:-1 group-title="IPTV6,#genre#",女性时尚
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
-#EXTINF:-1 group-title="IPTV6,#genre#",生活时尚
-http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226570/index.m3u8
-#EXTINF:-1 group-title="IPTV6,#genre#",国学频道
-http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226629/index.m3u8
-#EXTINF:-1 group-title="IPTV6,#genre#",职教频道
-http://[2409:8087:5011:1020::15]/180000001001/00000001000000001017000000440665/index.m3u8
-#EXTINF:-1 group-title="IPTV6,#genre#",体育赛事
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225706/index.m3u8
-#EXTINF:-1 group-title="IPTV6,#genre#",央视高网
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
-#EXTINF:-1 group-title="IPTV6,#genre#",央视台球
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
-#EXTINF:-1 group-title="IPTV6,#genre#",武术世界
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225508/2/index.m3u8
-#EXTINF:-1 group-title="IPTV6,#genre#",兵器科技
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
-#EXTINF:-1 group-title="IPTV6,#genre#",茶友频道
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225781/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="IPTV6,#genre#",纯享超清
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225786/index.m3u8
-#EXTINF:-1 group-title="IPTV6,#genre#",凤凰中文
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="IPTV6,#genre#",凤凰资讯
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="卡酷少儿，http://[2409:8087:5011:1020::2b]/180000001002/00000001000000000090000000215608/main.m3u8?IASHttpSessionId=OTT",贺州综合
-http://zhz.gxhzxw.com:2935/live/HZXW-HD/playlist.m3u8
+#EXTINF:-1 group-title="IPTV6,#genre#",NHK世界
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+#EXTINF:-1 group-title="IPTV6,#genre#",CNA新闻
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 group-title="IPTV6,#genre#",CNC英文
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225693/2/index.m3u8
+#EXTINF:-1 group-title="IPTV6,#genre#",CNC中文
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225694/2/index.m3u8
+#EXTINF:-1 group-title="IPTV6,#genre#",半岛新闻
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 group-title="英文,#genre#",CGTN (China)
 https://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 group-title="英文,#genre#",CinemaWorld

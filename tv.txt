@@ -644,8 +644,8 @@ BEIN SPORTS 1,http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/124099.ts
 BEIN SPORTS 1,http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/32146.ts
 BEIN SPORTS 1,http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/9131.ts
 BEIN SPORTS 1,http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/9153.ts
-BEIN SPORTS 1http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/32015.ts
-BEIN SPORTS 2 ,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6818/index.m3u8
+BEIN SPORTS 1,http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/32015.ts
+BEIN SPORTS 2,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6818/index.m3u8
 BEIN SPORTS 2,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/2500/index.m3u8
 BEIN SPORTS 2,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6133/index.m3u8
 BEIN SPORTS 2,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6819/index.m3u8

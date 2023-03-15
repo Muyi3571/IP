@@ -296,15 +296,21 @@ CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 重庆卫视,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227240/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 重庆卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225612/2/index.m3u8
 重庆卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225612/index.m3u8?fmt=ts2hls
-NHK世界,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-CNA新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-CNC英文,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225693/2/index.m3u8
-CNC中文,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225694/2/index.m3u8
-半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 五星体育,http://[2409:8c3c:1300:806:74::b]/liveplay-五星体育,kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
 
 
 英文,#genre#
+NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+NHK World,http://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+CNC英文,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225693/2/index.m3u8
+CNC中文,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225694/2/index.m3u8
+半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+DW,http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 AL JAZEERA ENGLISH,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/367793.ts
 AMC,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/367795.ts
 AR: FOX MOVIES ACTION HD,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/362074.ts
@@ -502,10 +508,6 @@ UTV,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/364745.ts
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8?zgangd
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8?zgangd
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-DW,http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 星空卫视,http://120.84.96.89:808/hls/79/index.m3u8
 星空卫视,http://120.84.96.108:808/hls/79/index.m3u8
 星空卫视,http://120.84.96.113:808/hls/79/index.m3u8
@@ -553,8 +555,6 @@ HKC有線直播新聞台,https://api.leonardpark.dev/live/icable/110
 J2,https://j3.lhlh.app/mv.m3u8
 J2,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 J2,https://p2.weizan.cn:443/1646497941/269664979080385265/live.m3u8
-Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-NHK World,http://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 RTHK32,http://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 RT纪录,https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8

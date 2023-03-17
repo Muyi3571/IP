@@ -92,9 +92,6 @@ CGTN纪录,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000002000
 CGTN纪实,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000002000000028012/main.m3u8?IASHttpSessionId=OTT
 CGTN新闻,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000002000000028019/main.m3u8?IASHttpSessionId=OTT
 CGTN英语,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225747/2/index.m3u8
-CHC动作电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 安徽卫视,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227178/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 安徽卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225691/2/index.m3u8
 安徽卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225691/index.m3u8
@@ -103,18 +100,14 @@ CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 北京卡酷,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225677/2/index.m3u8
 北京青年,http://111.31.106.45/downlive.brtvcloud.com/brtv8kapptv/brtv8kappqingnian.m3u8
 北京生活,http://111.31.106.45/downlive.brtvcloud.com/brtv8kapptv/brtv8kappshenghuo.m3u8
-北京体育,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225675/2/index.m3u8
 北京卫视,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225826/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 北京卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225600/2/index.m3u8
 北京卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225674/index.m3u8
 北京文艺,http://111.31.106.45/downlive.brtvcloud.com/brtv8kapptv/brtv8kappwenyi.m3u8
 北京新闻,http://111.31.106.45/downlive.brtvcloud.com/brtv8kapptv/brtv8kappxinwen.m3u8
-北京影视,http://111.31.106.45/downlive.brtvcloud.com/brtv8kapptv/brtv8kappyingshi.m3u8
 兵器科技,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
 茶友频道,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225781/index.m3u8?fmt=ts2hls
 超级电视剧,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225625/2/index.m3u8
-超级电影,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225623/2/index.m3u8
-超级体育,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225622/2/index.m3u8
 超级综艺,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225620/2/index.m3u8
 潮妈辣婆,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225708/2/index.m3u8
 纯享超清,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225786/index.m3u8
@@ -131,13 +124,11 @@ CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 东南卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225585/index.m3u8?fmt=ts2hls
 动画,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225716/2/index.m3u8
 动漫秀场,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227071/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-动作电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 都市剧场,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227204/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 都市剧场,http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226694/index.m3u8
 法治天地,http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226655/index.m3u8
 风云剧场,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
 风云音乐,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
-风云足球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
 福建旅游,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227190/index.m3u8?servicetype=1
 福建少儿,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227194/index.m3u8?servicetype=1
 福建视剧,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227079/index.m3u8?servicetype=1
@@ -173,7 +164,6 @@ CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 河南卫视,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225842/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 河南卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225611/2/index.m3u8
 河南卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225611/index.m3u8?fmt=ts2hls
-贺州综合,http://zhz.gxhzxw.com:2935/live/HZXW-HD/playlist.m3u8
 黑龙江卫视,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225862/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 黑龙江卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225586/2/index.m3u8
 黑龙江卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225690/index.m3u8
@@ -184,7 +174,6 @@ CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 湖北卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225699/index.m3u8
 湖南爱晚,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000044/main.m3u8?IASHttpSessionId=OTT
 湖南电视剧,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000037/main.m3u8?IASHttpSessionId=OTT
-湖南电影,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000038/main.m3u8?IASHttpSessionId=OTT
 湖南都市,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000041/main.m3u8?IASHttpSessionId=OTT
 湖南公共,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000044/main.m3u8?IASHttpSessionId=OTT
 湖南国际,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000045/main.m3u8?IASHttpSessionId=OTT
@@ -206,8 +195,6 @@ CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 纪实科教,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225675/2/index.m3u8
 纪实人文,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225609/2/index.m3u8
 纪实人文,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225655/index.m3u8
-家庭剧场,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225713/2/index.m3u8
-家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 江苏卫视,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225847/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 江苏卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225488/2/index.m3u8
 江苏卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225702/index.m3u8
@@ -225,7 +212,6 @@ CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 金鹰卡通,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000039/main.m3u8?IASHttpSessionId=OTT
 精品大剧,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225714/2/index.m3u8
 精品记录,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225710/2/index.m3u8
-精品体育,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225709/2/index.m3u8
 军旅剧场,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225669/2/index.m3u8
 军事评论,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225757/2/index.m3u8
 卡酷少儿,http://[2409:8087:5011:1020::2b]/180000001002/00000001000000000090000000215608/main.m3u8?IASHttpSessionId=OTT
@@ -237,9 +223,6 @@ CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 辽宁卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225601/index.m3u8?fmt=ts2hls
 龙江卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225690/index.m3u8
 龙江卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225690/index.m3u8?fmt=ts2hls
-芒果独播,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226692/index.m3u8?servicetype=1
-芒果华语,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226708/index.m3u8?servicetype=1
-芒果欧美,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226712/index.m3u8?servicetype=1
 宁夏卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225726/2/index.m3u8
 女性时尚,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
 青海卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225727/2/index.m3u8
@@ -267,24 +250,16 @@ CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 四川卫视,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225835/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 四川卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225487/2/index.m3u8
 四川卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225487/index.m3u8?fmt=ts2hls
-体育赛事,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225706/index.m3u8
-体育赛事,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225706/index.m3u8 
-体育休闲,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-体育休闲,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com 
 天津卫视,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227205/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 天津卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225485/2/index.m3u8
 天津卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225698/index.m3u8
 文化精品,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
-五星体育,http://[2409:8c20:9c71:120::34]/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8 
-五星体育,http://[2409:8c3c:1300:806:74::b]/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
 武博世界,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225656/2/index.m3u8
 武术世界,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225508/2/index.m3u8
 西藏卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225723/2/index.m3u8
 新疆卫视,http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw993550557_162751766/ott.mobaibox.com/PLTV/3/224/3221228290/index.m3u8
 新疆卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225725/2/index.m3u8
 炫舞未来,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225707/2/index.m3u8
-央视高网,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
-央视台球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
 云南卫视,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227181/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 浙江卫视,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227193/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 浙江卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225491/2/index.m3u8
@@ -296,21 +271,63 @@ CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 重庆卫视,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227240/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 重庆卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225612/2/index.m3u8
 重庆卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225612/index.m3u8?fmt=ts2hls
+贺州综合,http://zhz.gxhzxw.com:2935/live/HZXW-HD/playlist.m3u8
+
+影视,#genre#
+CHC动作电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+芒果独播,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226692/index.m3u8?servicetype=1
+芒果华语,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226708/index.m3u8?servicetype=1
+芒果欧美,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226712/index.m3u8?servicetype=1
+家庭剧场,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225713/2/index.m3u8
+家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+湖南电影,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000038/main.m3u8?IASHttpSessionId=OTT
+动作电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+超级电影,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225623/2/index.m3u8
+北京影视,http://111.31.106.45/downlive.brtvcloud.com/brtv8kapptv/brtv8kappyingshi.m3u8
+
+体育,#genre#
+五星体育,http://[2409:8c20:9c71:120::34]/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
+五星体育,http://[2409:8c3c:1300:806:74::b]/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
 五星体育,http://[2409:8c3c:1300:806:74::b]/liveplay-五星体育,kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+五星体育,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
+五星体育,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+ELEVEN1,http://61.221.81.93:8078/hls/25/80/esport.m3u8
+ELEVEN2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
+CCTV-5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
+CCTV-5,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
+智林体育,http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/playlist.m3u8
+体育赛事,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225706/index.m3u8
+体育赛事,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225706/index.m3u8 
+体育休闲,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+体育休闲,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com 
+精品体育,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225709/2/index.m3u8
+风云足球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
+北京体育,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225675/2/index.m3u8
+央视高网,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
+央视台球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
+超级体育,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225622/2/index.m3u8
 
 
 英文,#genre#
 NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-NHK World,http://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-CNC英文,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225693/2/index.m3u8
-CNC中文,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225694/2/index.m3u8
-半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
+CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8?zshijd
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 DW,http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+CNC英文,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225693/2/index.m3u8
+CNC中文,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225694/2/index.m3u8
+半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 AL JAZEERA ENGLISH,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/367793.ts
 AMC,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/367795.ts
 AR: FOX MOVIES ACTION HD,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/362074.ts
@@ -371,13 +388,6 @@ CBS REALITY,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/36681
 CBS SPORTS NETWORK,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/367781.ts
 CGTN (China),https://live.cgtn.com/1000/prog_index.m3u8
 CGTN DOCUMENTARY,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/365856.ts
-CHALLENGE,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/305826.ts
-CHANNEL 4,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/358548.ts
-CHANNEL 44,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/340066.ts
-CHANNEL 5 +1,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/358549.ts
-CHANNEL 5,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/366818.ts
-CHANNEL 5,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/367811.ts
-CHANNEL 5,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/367812.ts
 CINEBOX ACTION,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/359408.ts
 CINEBOX ANIMATION,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/367813.ts
 CINEBOX BLOCKBUSTER,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/367814.ts
@@ -391,13 +401,6 @@ CinemaWorld,http://210.210.155.35/dr9445/h/h04/index.m3u8
 CITV,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/367821.ts
 CLUBBING TV,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/362824.ts
 CLUBLAND TV,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/305846.ts
-CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
-CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8?zshijd
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 CNBC EUROPE,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/346137.ts
 CNBC,http://live.cgtn.com/500/prog_index.m3u8
 CNN INTERNATIONAL,http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/366821.ts
@@ -606,412 +609,4 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-IPTV高清院线,http://119.39.128.18:88/hls/34/index.m3u8
-IPTV抗战剧场,http://119.39.128.18:88/hls/35/index.m3u8
-IPTV古装剧场,http://119.39.128.18:88/hls/36/index.m3u8
-IPTV经典剧场,http://119.39.128.18:88/hls/37/index.m3u8
 
-
-体育,#genre#
-ELEVEN體育2台,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
-CCTV5-高清,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
-CCTV5-高清,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
-连续剧4K,http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
-五星体育,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
-五星体育,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
-ELEVEN1,http://61.221.81.93:8078/hls/25/80/esport.m3u8
-智林体育,http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/playlist.m3u8
-ARENA SPORT 1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/2550/index.m3u8
-ARENA SPORT 1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7263/index.m3u8
-ARENA SPORT 1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7329/index.m3u8
-ARENA SPORT 2,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7264/index.m3u8
-ARENA SPORT 2,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7330/index.m3u8
-ARENA SPORT 3,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7265/index.m3u8
-ARENA SPORT 3,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7331/index.m3u8
-ARENA SPORT 4,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7266/index.m3u8
-ARENA SPORT 4,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7332/index.m3u8
-ARENA SPORT 5,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7267/index.m3u8
-ARENA SPORT 5,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7333/index.m3u8
-ARENA SPORT 6,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7268/index.m3u8
-ARENA SPORT 6,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7334/index.m3u8
-BEIN SPORTS 1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6781/index.m3u8
-BEIN SPORTS 1 Premium,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6131/index.m3u8
-BEIN SPORTS 1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/2499/index.m3u8
-BEIN SPORTS 1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6123/index.m3u8
-BEIN SPORTS 1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6817/index.m3u8
-BEIN SPORTS 1,http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/119957.ts
-BEIN SPORTS 1,http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/124099.ts
-BEIN SPORTS 1,http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/32146.ts
-BEIN SPORTS 1,http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/9131.ts
-BEIN SPORTS 1,http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/9153.ts
-BEIN SPORTS 1,http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/32015.ts
-BEIN SPORTS 2,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6818/index.m3u8
-BEIN SPORTS 2,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/2500/index.m3u8
-BEIN SPORTS 2,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6133/index.m3u8
-BEIN SPORTS 2,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6819/index.m3u8
-BEIN SPORTS 2,http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/124097.ts
-BEIN SPORTS 3,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/2501/index.m3u8
-BEIN SPORTS 3,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6124/index.m3u8
-BEIN SPORTS 3,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6820/index.m3u8
-BEIN SPORTS 3,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6821/index.m3u8
-BEIN SPORTS 3,http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/124098.ts
-BEIN SPORTS 3,http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/28267.ts
-BEIN SPORTS 3,http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/30752.ts
-BEIN SPORTS 3,http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/9136.ts
-BEIN SPORTS 3,http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/9137.ts
-BEIN SPORTS 4,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6125/index.m3u8
-BEIN SPORTS 4,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6822/index.m3u8
-BEIN SPORTS 4,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6823/index.m3u8
-BEIN SPORTS 4,http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/28268.ts
-BEIN SPORTS 4,http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/30755.ts
-BEIN SPORTS 4,http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/32012.ts
-BEIN SPORTS 4,http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/9138.ts
-BEIN SPORTS 5,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6126/index.m3u8
-BEIN SPORTS 5,http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/32011.ts
-BEIN SPORTS 5,http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/9140.ts
-BEIN SPORTS 6,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6127/index.m3u8
-BEIN SPORTS 6,http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/9142.ts
-BEIN SPORTS 7,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6128/index.m3u8
-BEIN SPORTS 7,http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/32009.ts
-BEIN SPORTS GLOBAL,http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/30750.ts
-BEIN SPORTS GLOBAL,http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/9156.ts
-BEIN SPORTS GLOBAL,http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/92511.ts
-BEIN SPORTS Max 1,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/19062/index.m3u8
-BEIN SPORTS Max 1,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/19065/index.m3u8
-BEIN SPORTS Max 1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19062/index.m3u8
-BEIN SPORTS Max 1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19065/index.m3u8
-BEIN SPORTS Max 1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6824/index.m3u8
-BEIN SPORTS Max 2,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/19063/index.m3u8
-BEIN SPORTS Max 2,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/19066/index.m3u8
-BEIN SPORTS Max 2,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19063/index.m3u8
-BEIN SPORTS Max 2,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19066/index.m3u8
-BEIN SPORTS NEWS,http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/9152.ts
-BEIN SPORTS NEWS,http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/92512.ts
-BEIN SPORTS PREMIUM 1,http://7b30f9aa.tvclub.xyz/iptv/SGME6W4L2A6MNZ/6131/index.m3u8
-BEIN SPORTS PREMIUM 1,http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/30756.ts
-BEIN SPORTS PREMIUM 1,http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/32008.ts
-BEIN SPORTS PREMIUM 1,http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/39224.ts
-BEIN SPORTS PREMIUM 1,http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/9146.ts
-BEIN SPORTS PREMIUM 1,http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/9147.ts
-BEIN SPORTS PREMIUM 2,http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/30757.ts
-BEIN SPORTS PREMIUM 2,http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/32007.ts
-BEIN SPORTS PREMIUM 2,http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/39225.ts
-BEIN SPORTS PREMIUM 2,http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/9148.ts
-BEIN SPORTS PREMIUM 2,http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/9149.ts
-BEIN SPORTS PREMIUM 3,http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/30758.ts
-BEIN SPORTS PREMIUM 3,http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/32006.ts
-BEIN SPORTS PREMIUM 3,http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/39226.ts
-BEIN SPORTS PREMIUM 3,http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/9150.ts
-BEIN SPORTS PREMIUM 3,http://x.v-iptv.com:25443/live/V19pnoo5Gaw0m/jf5PxkR490/9151.ts
-BEIN SPORTS,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/2322/index.m3u8
-BEIN SPORTS,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/2323/index.m3u8
-Best4SPORT 2,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/18015/index.m3u8
-Best4SPORT 2,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/18015/index.m3u8
-Best4Sport,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/18016/index.m3u8
-Best4Sport,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/18016/index.m3u8
-BT SPORT 1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/2505/index.m3u8
-BT SPORT 1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6566/index.m3u8
-BT SPORT 2,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/2506/index.m3u8
-BT SPORT 2,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6565/index.m3u8
-BT SPORT 3,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6564/index.m3u8
-BT SPORT ESPN,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6563/index.m3u8
-Dhabi SPORTS 1,http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_SPORTS1&checkedby:ahlakid.com
-Dhabi SPORTS 2,http://admdn5.cdn.mangomolo.com/adSPORTS2/smil:adSPORTS2.seam.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-Dhabi SPORTS 3,http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_SPORTS3&checkedby:ahlakid.com
-Dhabi SPORTS 4,http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_SPORTS4&checkedby:ahlakid.com
-Dhabi SPORTS,http://www.elahmad.com/tv/m3u8/adtv.m3u8
-Dubai SPORTS 1,http://dmitnthvll.cdn.mangomolo.com/dubaiSPORTS/smil:dubaiSPORTS.smil/chunklist_b1600000.m3u8
-Dubai SPORTS 1,http://dmitnthvll.cdn.mangomolo.com/dubaiSPORTS/smil:dubaiSPORTS/chunklist_b2000000.m3u8
-Dubai SPORTS 2,http://dmitwlvvll.cdn.mangomolo.com/dubaiSPORTShd/smil:dubaiSPORTShd.smil/chunklist_b1600000.m3u8?2957056943&checkedby:ahlakid.com
-Dubai SPORTS 3,http://dmitwlvvll.cdn.mangomolo.com/dubaiSPORTShd5/smil:dubaiSPORTShd5.smil/chunklist_b1300000.m3u8
-Dubai SPORTS 3,http://dmitwlvvll.cdn.mangomolo.com/dubaiSPORTShd5/smil:dubaiSPORTShd5.smil/index.m3u8
-Dubai SPORTS,http://dmitnthvll.cdn.mangomolo.com/dubaiSPORTS/smil:dubaiSPORTS.smil/chunklist.m3u8
-Edge Sport,https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
-Edge Sport,https://edgesport-samsungus.amagi.tv/playlist.m3u8
-Edge Sport,https://edgeSPORTS-plex.amagi.tv/playlist.m3u8
-ELEVEN SPORTS 1,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/19158/index.m3u8
-ELEVEN SPORTS 1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19158/index.m3u8
-Eleven SPORTS 1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/2518/index.m3u8
-Eleven SPORTS 1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/2531/index.m3u8
-Eleven SPORTS 1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6083/index.m3u8
-Eleven SPORTS 2,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/2517/index.m3u8
-Eleven SPORTS 2,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/2532/index.m3u8
-Eleven SPORTS 2,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6082/index.m3u8
-Eleven SPORTS 3,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/2533/index.m3u8
-Eleven SPORTS 3,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7062/index.m3u8
-Eleven SPORTS 4,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/2534/index.m3u8
-Eleven SPORTS 4,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7063/index.m3u8
-Eleven SPORTS 5,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/2535/index.m3u8
-Eleven SPORTS 6,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/2536/index.m3u8
-Eleven SPORTS 6,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7064/index.m3u8
-ESPN 1 NL,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/19201/index.m3u8
-ESPN 1 NL,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19201/index.m3u8
-ESPN 2 NL,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/19202/index.m3u8
-ESPN 2 NL,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19202/index.m3u8
-ESPN 2A,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/19155/index.m3u8
-ESPN 2A,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19155/index.m3u8
-ESPN 3 NL,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/19203/index.m3u8
-ESPN 3 NL,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19203/index.m3u8
-ESPN 4 NL,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/19204/index.m3u8
-ESPN 4 NL,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19204/index.m3u8
-ESPN BR,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19056/index.m3u8
-ESPN BR,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19061/index.m3u8
-Espn NewsA,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/19154/index.m3u8
-Espn NewsA,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19154/index.m3u8
-ESPN2 BR,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19058/index.m3u8
-ESPNA,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/19156/index.m3u8
-ESPNA,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19156/index.m3u8
-ESPNPORTES ES,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19166/index.m3u8
-EUROSPORT 1 SE,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/12047/index.m3u8
-EUROSPORT 1,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/141/index.m3u8
-EUROSPORT 1,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/228/index.m3u8
-EUROSPORT 1,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/4004/index.m3u8
-EUROSPORT 1,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/5075/index.m3u8
-EUROSPORT 1,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/9247/index.m3u8
-EUROSPORT 1,http://myott.top/seam/DT6QU63K5VX/176.m3u8
-EUROSPORT 1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/141/index.m3u8
-EUROSPORT 1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/14193/index.m3u8
-EUROSPORT 1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19039/index.m3u8
-EUROSPORT 1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/228/index.m3u8
-EUROSPORT 1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/5075/index.m3u8
-EUROSPORT 1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6829/index.m3u8
-EUROSPORT 1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6992/index.m3u8
-EUROSPORT 1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/9247/index.m3u8
-EUROSPORT 2 ,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6830/index.m3u8
-EUROSPORT 2 North-East orig,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/5076/index.m3u8
-EUROSPORT 2 North-East orig,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/5076/index.m3u8
-EUROSPORT 2 North-East,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/234/index.m3u8
-EUROSPORT 2 North-East,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/234/index.m3u8
-EUROSPORT 2,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/18099/index.m3u8
-EUROSPORT 2,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/18100/index.m3u8
-EUROSPORT 2,http://myott.top/seam/DT6QU63K5VX/192.m3u8
-EUROSPORT 2,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/12048/index.m3u8
-EUROSPORT 2,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/14194/index.m3u8
-EUROSPORT 2,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/18099/index.m3u8
-EUROSPORT 2,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/18100/index.m3u8
-EUROSPORT 2,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19040/index.m3u8
-EUROSPORT 2,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6556/index.m3u8
-EUROSPORT 2,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7203/index.m3u8
-EUROSPORT 3,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/14180/index.m3u8
-EUROSPORT 3,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/14181/index.m3u8
-EUROSPORT 3,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/14195/index.m3u8
-EUROSPORT 3,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/14201/index.m3u8
-EUROSPORT 4,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/14182/index.m3u8
-EUROSPORT 4,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/14183/index.m3u8
-EUROSPORT 4,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/14196/index.m3u8
-EUROSPORT 4,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/14202/index.m3u8
-EUROSPORT 5,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/14184/index.m3u8
-EUROSPORT 5,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/14185/index.m3u8
-EUROSPORT 5,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/14197/index.m3u8
-EUROSPORT 5,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/14203/index.m3u8
-EUROSPORT 6,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/14186/index.m3u8
-EUROSPORT 6,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/14187/index.m3u8
-EUROSPORT 6,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/14198/index.m3u8
-EUROSPORT 6,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/14204/index.m3u8
-EUROSPORT 7,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/14188/index.m3u8
-EUROSPORT 7,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/14189/index.m3u8
-EUROSPORT 7,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/14199/index.m3u8
-EUROSPORT 7,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/14205/index.m3u8
-EUROSPORT 8,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/14190/index.m3u8
-EUROSPORT 8,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/14191/index.m3u8
-EUROSPORT 8,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/14200/index.m3u8
-EUROSPORT 8,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/14206/index.m3u8
-EUROSPORT 9,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/14192/index.m3u8
-EUROSPORT 9,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/14207/index.m3u8
-EUROSPORT,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/18098/index.m3u8
-EUROSPORT,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/15167/index.m3u8
-EUROSPORT,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/15179/index.m3u8
-EUROSPORT,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/18098/index.m3u8
-Exeme SPORTS orig,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/9160/index.m3u8
-Exeme SPORTS orig,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/9160/index.m3u8
-Exeme SPORTS,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/144/index.m3u8
-Exeme SPORTS,http://myott.top/seam/DT6QU63K5VX/148.m3u8
-Exeme SPORTS,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/144/index.m3u8
-Exeme SPORTS,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6964/index.m3u8
-Exeme SPORTS,https://sc.id-tv.kz/ExemeSPORTSHD_34_35.m3u8
-FC Bayern TV,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19024/index.m3u8
-FOX SPORTS 1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7322/index.m3u8
-FOX SPORTS 2,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7323/index.m3u8
-FOX SPORTS ARIZONA,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/19139/index.m3u8
-FOX SPORTS ARIZONA,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19139/index.m3u8
-FOX SPORTS FLORIDA,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/19140/index.m3u8
-FOX SPORTS FLORIDA,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19140/index.m3u8
-FOX SPORTS HOUSTON,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/19141/index.m3u8
-FOX SPORTS HOUSTON,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19141/index.m3u8
-Fox SPORTS News,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6119/index.m3u8
-Fox SPORTS News,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6121/index.m3u8
-FOX SPORTS OKLAHOMA,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/19146/index.m3u8
-FOX SPORTS OKLAHOMA,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19146/index.m3u8
-Fox SPORTS South,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/19138/index.m3u8
-Fox SPORTS South,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19138/index.m3u8
-FOX SPORTS SOUTHWESTUS,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/19143/index.m3u8
-FOX SPORTS SOUTHWESTUS,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19143/index.m3u8
-FOX SPORTS SPORTSTIME OHIO,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/19144/index.m3u8
-FOX SPORTS SPORTSTIME OHIO,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19144/index.m3u8
-FOX SPORTS SUN,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/19145/index.m3u8
-FOX SPORTS SUN,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19145/index.m3u8
-NBA TV ,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6838/index.m3u8
-NBA TV,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6491/index.m3u8
-NBA TV,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7226/index.m3u8
-NBC SPORTS NETWORK,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7327/index.m3u8
-POLSAT SPORT EXA,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7310/index.m3u8
-POLSAT SPORT FIGHT,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7311/index.m3u8
-POLSAT SPORT NEWS,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7303/index.m3u8
-POLSAT SPORT PREMIUM 1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7304/index.m3u8
-POLSAT SPORT PREMIUM 2,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7305/index.m3u8
-POLSAT SPORT PREMIUM 3 PPV,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7306/index.m3u8
-POLSAT SPORT PREMIUM 4 PPV,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7307/index.m3u8
-POLSAT SPORT PREMIUM 5 PPV,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7308/index.m3u8
-POLSAT SPORT PREMIUM 6 PPV,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7309/index.m3u8
-Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-Red Bull TV,https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
-Red Bull TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-Red Bull TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-Red Bull TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8&checkedby:ahlakid.com
-Red Bull TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
-RMC SPORT 1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/2545/index.m3u8
-RMC SPORT 2,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/2546/index.m3u8
-RMC SPORT 3,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/2547/index.m3u8
-RMC SPORT 4,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/19200/index.m3u8
-RMC SPORT 4,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19200/index.m3u8
-S SPORT +US 1,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/19070/index.m3u8
-S SPORT +US 1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19070/index.m3u8
-S SPORT +US 2,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/19071/index.m3u8
-S SPORT +US 2,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19071/index.m3u8
-Setanta SPORTS ,http://myott.top/seam/DT6QU63K5VX/313.m3u8
-Setanta SPORTS 1 Baltic,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/5069/index.m3u8
-Setanta SPORTS 1,http://myott.top/seam/DT6QU63K5VX/234.m3u8
-Setanta SPORTS 2 Belarus,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/5070/index.m3u8
-Setanta SPORTS 2 orig,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/5070/index.m3u8
-Setanta SPORTS 2,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/270/index.m3u8
-Setanta SPORTS,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/271/index.m3u8
-Setanta SPORTS,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/5069/index.m3u8
-SKY SPORT 1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19027/index.m3u8
-SKY SPORT 1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19028/index.m3u8
-SKY SPORT 1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/2478/index.m3u8
-SKY SPORT 10,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19037/index.m3u8
-SKY SPORT 2,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19029/index.m3u8
-SKY SPORT 2,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/2479/index.m3u8
-SKY SPORT 24,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/19127/index.m3u8
-SKY SPORT 24,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19127/index.m3u8
-SKY SPORT 3,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19030/index.m3u8
-SKY SPORT 4,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19031/index.m3u8
-SKY SPORT 5,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19032/index.m3u8
-SKY SPORT 6,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19033/index.m3u8
-SKY SPORT 7,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19034/index.m3u8
-SKY SPORT 8,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19035/index.m3u8
-SKY SPORT 9,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19036/index.m3u8
-SKY SPORT ARENA,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/19128/index.m3u8
-SKY SPORT ARENA,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19128/index.m3u8
-SKY SPORT Ausia 1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/2492/index.m3u8
-SKY SPORT Ausia 2,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6113/index.m3u8
-SKY SPORT Bundesliga 1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/2480/index.m3u8
-SKY SPORT Bundesliga 2,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7234/index.m3u8
-SKY SPORT Bundesliga 3,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7235/index.m3u8
-SKY SPORT Bundesliga 3,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7237/index.m3u8
-SKY SPORT Bundesliga 4,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7236/index.m3u8
-SKY SPORT Bundesliga 6,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7238/index.m3u8
-SKY SPORT Bundesliga 7,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7239/index.m3u8
-SKY SPORT Bundesliga 8,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7240/index.m3u8
-SKY SPORT Bundesliga 9,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6097/index.m3u8
-SKY SPORT Bundesliga 9,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7241/index.m3u8
-SKY SPORT CALCIO,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/19129/index.m3u8
-SKY SPORT CALCIO,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19129/index.m3u8
-SKY SPORT COLLECTION,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/19130/index.m3u8
-SKY SPORT COLLECTION,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19130/index.m3u8
-SKY SPORT F1,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/10079/index.m3u8
-SKY SPORT F1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/10079/index.m3u8
-SKY SPORT FOOTBALL,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/19131/index.m3u8
-SKY SPORT FOOTBALL,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19131/index.m3u8
-SKY SPORT GOLF,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/19132/index.m3u8
-SKY SPORT GOLF,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19132/index.m3u8
-SKY SPORT MOTOGP,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/19133/index.m3u8
-SKY SPORT MOTOGP,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19133/index.m3u8
-SKY SPORT NBA,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/19134/index.m3u8
-SKY SPORT NBA,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19134/index.m3u8
-SKY SPORT News,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/2477/index.m3u8
-SKY SPORT UNO,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/19135/index.m3u8
-SKY SPORT UNO,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/19137/index.m3u8
-SKY SPORT UNO,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19135/index.m3u8
-SKY SPORT UNO,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19137/index.m3u8
-SKY SPORT,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19041/index.m3u8
-SKY SPORT,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19044/index.m3u8
-SKY SPORTS Action,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7340/index.m3u8
-SKY SPORTS Action,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7345/index.m3u8
-SKY SPORTS ARENA,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7338/index.m3u8
-SKY SPORTS CRICKET,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7343/index.m3u8
-SKY SPORTS F1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7342/index.m3u8
-SKY SPORTS FOOTBALL,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7336/index.m3u8
-SKY SPORTS GOLF,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7344/index.m3u8
-SKY SPORTS MAIN EVENT,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7337/index.m3u8
-SKY SPORTS MIX,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7339/index.m3u8
-SKY SPORTS PREMIER LEAGUE,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7335/index.m3u8
-SPORT 1,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/2548/index.m3u8
-SPORT 1,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/2549/index.m3u8
-SPORT 1,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/6366/index.m3u8
-SPORT 1,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/6367/index.m3u8
-SPORT 1,http://myott.top/seam/DT6QU63K5VX/391.m3u8
-SPORT 1,http://myott.top/seam/DT6QU63K5VX/393.m3u8
-SPORT 1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/12249/index.m3u8
-SPORT 1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/2353/index.m3u8
-SPORT 1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/2503/index.m3u8
-SPORT 1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/2548/index.m3u8
-SPORT 1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/2549/index.m3u8
-SPORT 1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6366/index.m3u8
-SPORT 1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6367/index.m3u8
-SPORT 2,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/15236/index.m3u8
-SPORT 2,http://myott.top/seam/DT6QU63K5VX/392.m3u8
-SPORT 2,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/12250/index.m3u8
-SPORT 2,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/15236/index.m3u8
-SPORT 2,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/2352/index.m3u8
-SPORT 2,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/2557/index.m3u8
-SPORT 3,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/12251/index.m3u8
-SPORT 3,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/2388/index.m3u8
-SPORT 4,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/12252/index.m3u8
-SPORT 4,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/2389/index.m3u8
-SPORT 5,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/12253/index.m3u8
-SPORT 5,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/12256/index.m3u8
-SPORT 5,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/2341/index.m3u8
-SPORT 5,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/2391/index.m3u8
-SPORT 5,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/2558/index.m3u8
-Sport Klub 1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7269/index.m3u8
-Sport Klub 2,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7270/index.m3u8
-Sport Klub 3,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7271/index.m3u8
-Sport Klub 4,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7272/index.m3u8
-Sport Klub 5,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7273/index.m3u8
-Sport Klub 6,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7274/index.m3u8
-Sport Klub 7,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7275/index.m3u8
-Sport Klub 8,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7276/index.m3u8
-SPORT TV +,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/2530/index.m3u8
-SPORT TV 1,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/19161/index.m3u8
-SPORT TV 1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19161/index.m3u8
-SPORT TV 1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/2525/index.m3u8
-SPORT TV 2,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/2526/index.m3u8
-SPORT TV 3,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/2527/index.m3u8
-SPORT TV 4,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/2528/index.m3u8
-SPORT TV 5,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/2529/index.m3u8
-TNT SPORTS 1,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/19051/index.m3u8
-TNT SPORTS 1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19051/index.m3u8
-TNT SPORTS 2,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/19052/index.m3u8
-TNT SPORTS 2,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19052/index.m3u8
-TNT SPORTS 3,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/19053/index.m3u8
-TNT SPORTS 3,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19053/index.m3u8
-TNT SPORTS 4,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/19054/index.m3u8
-TNT SPORTS 4,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19054/index.m3u8
-TNT SPORTS 6,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/19055/index.m3u8
-TNT SPORTS 6,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19055/index.m3u8
-UK Premier SPORTS 1 IE,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/12284/index.m3u8
-Viasat Sport,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/160/index.m3u8
-Viasat Sport,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/2007/index.m3u8
-Viasat Sport,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/9249/index.m3u8
-Viasat Sport,http://myott.top/seam/DT6QU63K5VX/333.m3u8
-Viasat Sport,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/160/index.m3u8
-Viasat Sport,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/2007/index.m3u8
-X Sportus,http://myott.top/seam/DT6QU63K5VX/332.m3u8
-XSPORT,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/6309/index.m3u8
-XSPORT,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/6331/index.m3u8
-XSPORT,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/996/index.m3u8
-XSPORT,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6309/index.m3u8
-XSPORT,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6331/index.m3u8
-XSPORT,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/996/index.m3u8

@@ -273,19 +273,6 @@ CGTN英语,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/32212257
 重庆卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225612/index.m3u8?fmt=ts2hls
 贺州综合,http://zhz.gxhzxw.com:2935/live/HZXW-HD/playlist.m3u8
 
-影视,#genre#
-CHC动作电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-芒果独播,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226692/index.m3u8?servicetype=1
-芒果华语,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226708/index.m3u8?servicetype=1
-芒果欧美,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226712/index.m3u8?servicetype=1
-家庭剧场,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225713/2/index.m3u8
-家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-湖南电影,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000038/main.m3u8?IASHttpSessionId=OTT
-动作电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-超级电影,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225623/2/index.m3u8
-北京影视,http://111.31.106.45/downlive.brtvcloud.com/brtv8kapptv/brtv8kappyingshi.m3u8
 
 体育,#genre#
 五星体育,http://[2409:8c20:9c71:120::34]/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
@@ -320,6 +307,7 @@ CCTV-5,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212263
 纬来体育,https://epg.pw/stream/4ce7c6990af846b7be2a3ea7d27e9b7e73cc9d4793d187b39197197251848fa5.m3u8
 纬来体育,https://epg.pw/stream/78cfd983e3c1d2b280209fa4ee3b9f3a2e4959a1c1c865e341556b0e6fae33ca.m3u8
 纬来体育,https://pull-l3-cny.douyincdn.com/live/0c69fc47dd742ec549be7fd729cbb43d.m3u8
+
 
 英文,#genre#
 ABC 7,https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
@@ -489,9 +477,6 @@ VIUTV6,http://shazui.8866.org:800/hls/85/index.m3u8
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 东森财经,http://seb.sason.top/sc/dscjxw_fhd.m3u8
-东森电影,http://120.84.96.108:808/hls/32/index.m3u8
-东森电影,http://120.84.96.113:808/hls/32/index.m3u8
-东森电影,http://120.84.96.89:808/hls/32/index.m3u8
 东森美洲卫视,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 东森新闻,http://seb.sason.top/sc/dsxw_fhd.m3u8
 东森洋片,http://120.84.96.108:808/hls/33/index.m3u8
@@ -501,10 +486,6 @@ VIUTV6,http://shazui.8866.org:800/hls/85/index.m3u8
 翡翠台,http://radius.8866.org:800/hls/80/index.m3u8
 翡翠台,http://v1.qiantutv.com/stream/66e6630861b902afb75c5ee4f394233b/index.m3u8
 翡翠台,http://v1.qiantutv.com/stream/719c558c7bbe96c4dc5f404a8c6094b3/index.m3u8
-黑莓电影,http://39.135.138.58:18890/PLTV/88888888/224/3221225718/index.m3u8
-黑莓电影,http://39.135.138.58:18890/PLTV/88888888/224/3221225764/index.m3u8
-黑莓电影,http://39.135.138.58:18890/PLTV/88888888/224/3221225769/index.m3u8
-黑莓电影,http://39.135.138.59:18890/PLTV/88888910/224/3221225769/index.m3u8
 华丽台,http://23.237.10.66:16410
 华视新闻,http://seb.sason.top/sc/hsxw_fhd.m3u8
 华视新闻,http://stream.dsichannel.com/hls/cts-news.m3u8
@@ -518,7 +499,6 @@ VIUTV6,http://shazui.8866.org:800/hls/85/index.m3u8
 华视新闻,https://epg.pw/stream/be02f811be54fe060f2ac4cb88282efd19df2b9f8f121f5757f66a0976465c52.m3u8
 华视新闻,https://epg.pw/stream/f9e431741cb4630d697392f3b649276f9d9cf157a07980bbc202abca3029a6ad.m3u8
 镜新闻,http://61.10.2.141/live_freedirect/free209_h.live/playlist.m3u8
-龙祥电影,http://120.84.96.108:808/hls/35/index.m3u8
 美国中文电视,https://jpts.sinovision.net/livestream.m3u8
 民视,http://107.151.203.111:2209/135/us50.php?id=msk
 民视,http://23.237.10.66:16334
@@ -552,8 +532,6 @@ VIUTV6,http://shazui.8866.org:800/hls/85/index.m3u8
 台视新闻,http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-天映经典,http://210.210.155.35/qwr9ew/s/s31/index.m3u8
-天映经典,http://210.210.155.37/qwr9ew/s/s31/index.m3u8
 纬来综合,http://123.51.230.108:18540/.m3u8
 纬來日本,http://baidu.douyincdn.freetvtv.com/wlrb/m2.m3u8
 无线财经,http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt
@@ -584,4 +562,120 @@ VIUTV6,http://shazui.8866.org:800/hls/85/index.m3u8
 中天综合,http://107.151.203.111:2209/135/us50.php?id=ztz
 中天综合,http://23.237.10.66:16372
 
-
+影视,#genre#
+CHC动作电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+芒果独播,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226692/index.m3u8?servicetype=1
+芒果华语,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226708/index.m3u8?servicetype=1
+芒果欧美,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226712/index.m3u8?servicetype=1
+家庭剧场,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225713/2/index.m3u8
+家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+湖南电影,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000038/main.m3u8?IASHttpSessionId=OTT
+动作电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+超级电影,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225623/2/index.m3u8
+北京影视,http://111.31.106.45/downlive.brtvcloud.com/brtv8kapptv/brtv8kappyingshi.m3u8
+黑莓电影,http://39.135.138.58:18890/PLTV/88888888/224/3221225718/index.m3u8
+黑莓电影,http://39.135.138.58:18890/PLTV/88888888/224/3221225764/index.m3u8
+黑莓电影,http://39.135.138.58:18890/PLTV/88888888/224/3221225769/index.m3u8
+黑莓电影,http://39.135.138.59:18890/PLTV/88888910/224/3221225769/index.m3u8
+东森电影,http://120.84.96.108:808/hls/32/index.m3u8
+东森电影,http://120.84.96.113:808/hls/32/index.m3u8
+东森电影,http://120.84.96.89:808/hls/32/index.m3u8
+龙祥电影,http://120.84.96.108:808/hls/35/index.m3u8
+天映经典,http://210.210.155.35/qwr9ew/s/s31/index.m3u8
+天映经典,http://210.210.155.37/qwr9ew/s/s31/index.m3u8
+24 Hour Free Movies,https://d15690s323oesy.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/071bbef1-9eb7-4ce8-ad6a-5f8cdb43600a/1.m3u8
+24 Hour Free Movies,https://d15690s323oesy.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/071bbef1-9eb7-4ce8-ad6a-5f8cdb43600a/2.m3u8
+24 Hour Free Movies,https://d15690s323oesy.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/071bbef1-9eb7-4ce8-ad6a-5f8cdb43600a/3.m3u8
+24 Hour Free Movies,https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8
+AMC Plus,https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/1280x720_5000000/index.m3u8
+AMC Plus,https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/256x144_230000/index.m3u8
+AMC Plus,https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
+贝爷MAX厅,http://epg.112114.xyz/douyu/4332
+贝爷影院1,http://epg.112114.xyz/douyu/252802
+贝爷影院2,http://epg.112114.xyz/douyu/36337
+避风港影院,http://epg.112114.xyz/douyu/9826611
+采昌影剧台,http://www.336699.live:1935/blockfour/4gtv-4gtv049.stream/playlist.m3u8
+靖天国际台,http://www.336699.live:1935/blockfour/4gtv-4gtv063.stream/playlist.m3u8
+靖天欢乐台,http://www.336699.live:1935/blockfour/4gtv-4gtv054.stream/playlist.m3u8
+靖天戏剧台,http://www.336699.live:1935/blockfour/4gtv-4gtv058.stream/playlist.m3u8
+靖天映画,http://www.336699.live:1935/blockfour/4gtv-4gtv055.stream/playlist.m3u8
+靖天育乐台,http://www.336699.live:1935/blockfour/4gtv-4gtv062.stream/playlist.m3u8
+靖洋戏剧台,http://www.336699.live:1935/blockfour/4gtv-4gtv045.stream/playlist.m3u8
+龙华电影,https://epg.pw/stream/e4f21acda4343622520728335bad935a0f525b0afb005d52e8cb4f96c1c0f423.m3u8
+龙华电影,https://epg.pw/stream/f21f9561de9cbcf84cb00ca2dfc6a0f5c3c2ed696abe4336b4f45867f21c47b9.m3u8
+龙祥时代,http://120.84.96.108:808/hls/35/index.m3u8
+龙祥时代,http://120.84.96.113:808/hls/35/index.m3u8
+龙祥时代,http://120.84.96.23:808/hls/35/index.m3u8
+龙祥时代,http://120.84.96.87:808/hls/35/index.m3u8
+龙祥時代,http://120.84.96.73:808/hls/35/index.m3u8
+龙祥時代,http://120.84.96.89:808/hls/35/index.m3u8
+麓山迷踪,http://epg.112114.xyz/douyu/4505431
+美国电影,https://epg.pw/stream/781f06fa349039a762a1e3ce66ef344fa92146f448e18eea0b2c887e5044367a.m3u8
+米娅电影,http://epg.112114.xyz/douyu/6537888
+民视影视,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/litv-ftv09/4gtv-live-mid/index.m3u8?token=DApiC3rVSVXQ8K_rGLksOg&expires=1679359999&token1=InbvStfBxNM4M-DRzTrOxQ&expires1=1679359999
+民视影视,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/litv-ftv09/4gtv-live-mid/litv-ftv09-audio_20000=128000-video=2000000.m3u8?token=DApiC3rVSVXQ8K_rGLksOg&expires=1679359999&token1=InbvStfBxNM4M-DRzTrOxQ&expires1=1679359999
+民视影视,https://4gtvfreepc-mozai.4gtv.tv/14mS30EKX8KJP1jtHboC-96ykqKATtbCp_ZaXqph4DY%3d/index.m3u8?token=sdcRkUtEQ6ar4lJIWA0b8g&expires=1679331199&token1=4VBZ3BXsCgVET82WiXrYvg&expires1=1679331199&refer=NDY0Y2U5NzEtNDU2My00NDk1LWFmNjAtODBkMmM3MzM4ZjU0&y=0
+纬来电影,https://epg.pw/stream/97621d186740a9ae0539359ca4dcd4d4dc1efd5997f2c13b01eaf4d3e5fb1c27.m3u8
+纬来电影,https://epg.pw/stream/f279adaa72d94c6afa3ecbabffbcc4e0965555c1002607cd636610545c4427e1.m3u8
+斗鱼电影10,http://epg.112114.xyz/douyu/2935323
+斗鱼电影105,http://epg.112114.xyz/douyu/4290711
+斗鱼电影108,http://epg.112114.xyz/douyu/6566671
+斗鱼电影11,http://epg.112114.xyz/douyu/7459925
+斗鱼电影110,http://epg.112114.xyz/douyu/8415464
+斗鱼电影111,http://epg.112114.xyz/douyu/8475821
+斗鱼电影113,http://epg.112114.xyz/douyu/5522351
+斗鱼电影114,http://epg.112114.xyz/douyu/562225
+斗鱼电影115,http://epg.112114.xyz/douyu/223521
+斗鱼电影116,http://epg.112114.xyz/douyu/8651489
+斗鱼电影117,http://epg.112114.xyz/douyu/338759
+斗鱼电影118,http://epg.112114.xyz/douyu/4631599
+斗鱼电影120,http://epg.112114.xyz/douyu/5354713
+斗鱼电影124,http://epg.112114.xyz/douyu/2793084
+斗鱼电影125,http://epg.112114.xyz/douyu/5067952
+斗鱼电影128,http://epg.112114.xyz/douyu/675072
+斗鱼电影129,http://epg.112114.xyz/douyu/413573
+斗鱼电影130,http://epg.112114.xyz/douyu/8014467
+斗鱼电影134,http://epg.112114.xyz/douyu/6725858
+斗鱼电影135,http://epg.112114.xyz/douyu/7476264
+斗鱼电影136,http://epg.112114.xyz/douyu/5689514
+斗鱼电影137,http://epg.112114.xyz/douyu/1274132
+斗鱼电影141,http://epg.112114.xyz/douyu/7623292
+斗鱼电影143,http://epg.112114.xyz/douyu/7314294
+斗鱼电影145,http://epg.112114.xyz/douyu/5033502
+斗鱼电影149,http://epg.112114.xyz/douyu/6582435
+斗鱼电影150,http://epg.112114.xyz/douyu/3980787
+斗鱼电影151,http://epg.112114.xyz/douyu/426517
+斗鱼电影153,http://epg.112114.xyz/douyu/8799435
+斗鱼电影155,http://epg.112114.xyz/douyu/4258555
+斗鱼电影158,http://epg.112114.xyz/douyu/8788687
+斗鱼电影16,http://epg.112114.xyz/douyu/431460
+斗鱼电影165,http://epg.112114.xyz/douyu/8705754
+斗鱼电影166,http://epg.112114.xyz/douyu/5581257
+斗鱼电影168,http://epg.112114.xyz/douyu/6861249
+斗鱼电影169,http://epg.112114.xyz/douyu/7528160
+斗鱼电影18,http://epg.112114.xyz/douyu/4246519
+斗鱼电影19,http://epg.112114.xyz/douyu/7116591
+斗鱼电影21,http://epg.112114.xyz/douyu/6776615
+斗鱼电影22,http://epg.112114.xyz/douyu/1979257
+斗鱼电影23,http://epg.112114.xyz/douyu/7494871
+斗鱼电影26,http://epg.112114.xyz/douyu/8413092
+斗鱼电影7,http://epg.112114.xyz/douyu/3637726
+斗鱼电影71,http://epg.112114.xyz/douyu/2987100
+斗鱼电影77,http://epg.112114.xyz/douyu/2758565
+斗鱼电影79,http://epg.112114.xyz/douyu/805235
+斗鱼电影8,http://epg.112114.xyz/douyu/323876
+斗鱼电影81,http://epg.112114.xyz/douyu/3870925
+斗鱼电影90,http://epg.112114.xyz/douyu/6785471
+斗鱼电影92,http://epg.112114.xyz/douyu/7537296
+斗鱼电影94,http://epg.112114.xyz/douyu/4396972
+斗鱼电影95,http://epg.112114.xyz/douyu/4549169
+斗鱼电影97,http://epg.112114.xyz/douyu/8867878
+斗鱼电影99,http://epg.112114.xyz/douyu/7655471
+豆瓣高分,http://epg.112114.xyz/douyu/8770422
+高杠影片,http://epg.112114.xyz/douyu/6763930
+华语电话电影,http://epg.112114.xyz/douyu/1504768
+华语电影,http://epg.112114.xyz/douyu/3928
+华语经典,http://epg.112114.xyz/douyu/434971
+霍格影片,http://epg.112114.xyz/douyu/8814650

@@ -376,16 +376,20 @@ Sky Sports,https://dai.google.com/linear/hls/pb/event/YoBM0ae5Q62TPdrfFHS4RQ/str
 Sky Sports,https://dai.google.com/linear/hls/pb/event/YoBM0ae5Q62TPdrfFHS4RQ/stream/496e0918-5281-4b1f-ad2b-eac52be9a0c0:TPE2/variant/2bec17ce4b43ba5adacd2588b48725d4/bandwidth/3072000.m3u8
 Sky Sports,https://dai.google.com/linear/hls/pb/event/YoBM0ae5Q62TPdrfFHS4RQ/stream/496e0918-5281-4b1f-ad2b-eac52be9a0c0:TPE2/variant/35aa3abf9208a9323f7d459f27f7617a/bandwidth/2048000.m3u8
 Sky Tg24,https://acdn.ak-stream-videoplatform.sky.it/hls/2022/05/04/678727/HLS/1850/stream.m3u8
-Sky Tg24,https://acdn.ak-stream-videoplatform.sky.it/hls/2022/05/04/678727/HLS/350/stream.m3u8
-Sky Tg24,https://acdn.ak-stream-videoplatform.sky.it/hls/2022/05/04/678727/HLS/audio/aac/ita/stream.m3u8
 Sky Tg24,https://acdn.ak-stream-videoplatform.sky.it/hls/2022/05/04/678727/HLS/master.m3u8
 The Straits Times,https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/4800266888001/b2d1dc36-bcec-45ad-a799-6c34c6913888/10s/master.m3u8?fastly_token=NjQ0MTAxN2JfZDc1MmYyMWY5YzgxZTk3NWRmZTU5OGVkMmQyZDZiNDhmZmQzNTU0OGVhNDdhODljZDQ0NzliNWNhYzQ4ZTY5ZA%3D%3D
 The Straits Times,https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/4800266888001/b2d1dc36-bcec-45ad-a799-6c34c6913888/6ba50a1a-1b99-4453-9b59-0913f5084264/10s/rendition.m3u8?fastly_token=NjQzZmRmNDFfMzgyYjc3MGZhYTViM2NhZTZlMGRhYjllMjNjMGJkMTVmNTNiYTlmOWYxMzIzZGNjYjc1NWMyNWYzOTRiYThmYw%3D%3D
 The Straits Times,https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/4800266888001/b2d1dc36-bcec-45ad-a799-6c34c6913888/f311d794-27f5-4dfb-afc6-23b1a68b5876/10s/rendition.m3u8?fastly_token=NjQzZmRmNDFfMmQ0YWM2NzU1MWU3ZjE5MWFhNzdjMjUyZjY0YTAzNTY0NmI0ODBkZWRjNjEyZmJiMjNiNmIzMzQyNDRlYTg2Zg%3D%3D
-WGN9,https://dcs-live-uw1.mp.lura.live/server/play/8AkZMW1F8omdfnE0/rendition.m3u8?track=video-0&anvsid=m177610542-n32fd8734ff3f4e95952679d37c9fc140&ts=1679377291&anvtrid=c9165d2c483494a5025d84948d7ab889
-WGN9,https://dcs-live-uw1.mp.lura.live/server/play/8AkZMW1F8omdfnE0/rendition.m3u8?track=video-1&anvsid=m177610542-n32fd8734ff3f4e95952679d37c9fc140&ts=1679377291&anvtrid=c9165d2c483494a5025d84948d7ab889
-WGN9,https://dcs-live-uw1.mp.lura.live/server/play/8AkZMW1F8omdfnE0/rendition.m3u8?track=video-2&anvsid=m177610542-n32fd8734ff3f4e95952679d37c9fc140&ts=1679377291&anvtrid=c9165d2c483494a5025d84948d7ab889
-WGN9,https://dcs-vod.mp.lura.live/vod/p/master.m3u8?encp=OD7BsL9z-TFheHQCBC-7FQ:xR3Ihw0H71Cr14Ap0GdofcQNloNrbKypCBmTO6HC3jWvyw6qT1PkL4L2jksv7_Rg7A3cuHqpFvdETiK16pMtHhJIrZN2Vilk64SXQUjALve5bEkefKkI7e0_YkNg6qlV4zE34NtcCYHrQO6MvMC5gnHylvskIlqU1nKsVf-yQiyqoEz9Xegk_BIofiiUT7_zE1XZ1ke2OMHnzhaEBUtH7Zixnny3w41gnWisahbcsYxOmGAkkL4DVHVgFUrcrGsu4C6ONNvWLxwGXJbObpwbDMtWFCbWhyHvPRfTa2hu5-P2_RAhaAnS0a_k_i1RA4PDWkbGZPlZ4b6OZ22d4yBaHFzYUClYrnT15_98zcdkKn_82GgF6AC3KihfXx0xXed51a9nz4oPttF5mZT1sG4Y5r4dixt9zpdHIjnQqybcyxk&anvtrid=c2e9c2acbc9f11b1f85fe9528c9f08f6&anvauth=tb=0~te=1679377381~sgn=d37700b82b6d14f9dc22a204d20de60a7e2d00dbc1442c573443a703bde022e4&t=1679377291&_vpng=0
+ABC,http://www.336699.live:1935/blockfour/4gtv-4gtv055.stream/playlist.m3u8
+AXN,https://pull-l3-cny.douyincdn.com/live/00f492ce5595455e90b187a6406a3afc.flv
+CBS,http://www.336699.live:1935/blockfour/4gtv-4gtv054.stream/playlist.m3u8
+CBS,https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+CBS,https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_8.m3u8
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+CNEX,https://pull-l3-cny.douyincdn.com/live/52ace7dd489d6e486da332994e633c0f.flv
+
 
 
 
@@ -409,6 +413,96 @@ WGN9,https://dcs-vod.mp.lura.live/vod/p/master.m3u8?encp=OD7BsL9z-TFheHQCBC-7FQ:
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8?zgangd
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8?zgangd
+CATCHPLAY电影,https://pull-l3-cny.douyincdn.com/live/12578cc0a193f3ab50da03d34ee6b773.flv
+ELEVEN1,https://pull-l3-cny.douyincdn.com/live/8309632550d77c2f80148583ba61a386.flv?time=1679568117
+ELEVEN2,https://pull-l3-cny.douyincdn.com/live/5a0cd4ca069f088b3c2d47d62258759d.flv?time=1679568118
+ELTA1,https://pull-l3-cny.douyincdn.com/live/a9c520eb41dd25b494c9592f65e949dc.flv?time=1679567722
+ELTA2,https://pull-l3-cny.douyincdn.com/live/f73a5dd7336b98c92d1e4936f8751843.flv?time=1679568118
+ELTA3,https://pull-l3-cny.douyincdn.com/live/2e27825e0a6b12a9ff086d8b94ae3710.flv?time=1679568131
+ELTA娱乐,http://www.336699.live:1935/blockfour/4gtv-4gtv070.stream/playlist.m3u8
+ELTA娱乐,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?zshijd
+HKIBC,https://pull-l3-cny.douyincdn.com/live/535ec6ee7ff5dac010dce5c182a21d53.flv?time=1679567974
+Hollywood,https://pull-l3-cny.douyincdn.com/live/552bd95a5ed4249e6fb981f60d92588a.flv
+J2,https://pull-l3-cny.douyincdn.com/live/cc2fe0a3903f3cc4a53a525e39791ddf.flv?time=1679567706
+J2,https://pull-l3-cny.douyincdn.com/live/cc2fe0a3903f3cc4a53a525e39791ddf.flv?time=1679567707
+NHK综合,https://pull-l3-cny.douyincdn.com/live/4f04cb7ce0eb1e9671b58a40d2c603a5.flv
+RTHK31,https://pull-l3-cny.douyincdn.com/live/13d08e41d786dd6a25711b5c493006b9.flv?time=1679567834
+TVBS,https://pull-l3-cny.douyincdn.com/live/eb787b841e952c3deaffa99d9bcc9024.flv
+TVBS欢乐,https://pull-l3-cny.douyincdn.com/live/c4274ce4d9bc346b85388404bf836791.flv
+TVBS卫星,http://2023.stream-link.org/playlist/tvbs
+TVBS新闻,http://2023.stream-link.org/playlist/tvbs_news
+TVBS新闻,http://pull-l3-cny.douyincdn.com/third/stream-e6b6ef594c30eb3f3de0fa4ba0ce86e6.flv
+TVBS新闻,http://pull-l3-cny.douyincdn.com/third/stream-e6b6ef594c30eb3f3de0fa4ba0ce86e6.m3u8
+TVBS新闻,https://pull-l3-cny.douyincdn.com/live/237bbe0fa41001809a872a3273f08a13.flv?time=1679568178
+TVBS亚洲,http://pull-l3-cny.douyincdn.com/third/stream-9f6ea8b662a55d5fa562ebaeb2880bfc.flv
+TVB财经,https://prd-vcache.edge-global.akamai.tvb.com/v7/newsbks/_definst_/smil:news/inews1/20230322/archive_99_731560_1280_720_1500k_cht_proenv_can.smil/chunklist_b1404000_ao_slCantonese_t64Q2FudG9uZXNl.m3u8
+TVB财经,https://prd-vcache.edge-global.akamai.tvb.com/v7/newsbks/_definst_/smil:news/inews1/20230322/archive_99_731560_1280_720_1500k_cht_proenv_can.smil/chunklist_b1404000_vo.m3u8
+TVB财经,https://prd-vcache.edge-global.akamai.tvb.com/v7/newsbks/_definst_/smil:news/inews1/20230322/archive_99_731560_1280_720_1500k_cht_proenv_can.smil/playlist.m3u8?hdnea=ip=0.0.0.0~st=1679569604~exp=1679656004~acl=/v7/newsbks/_definst_/smil:news/inews1/20230322/archive_99_731560_1280_720_1500k_cht_proenv_can.smil/*~hmac=06ac145128d44ac901f97def73a37db8952a0e4075b68eaf2f468702b9cd2cbf
+ViuTV,https://pull-l3-cny.douyincdn.com/live/c0c295ccae3bdf8191268d4068870f0d.flv?time=1679567521
+八大第一,https://pull-l3-cny.douyincdn.com/live/ed386eafc75b4308321b3f6570a3ab85.flv
+八大精采,https://pull-l3-cny.douyincdn.com/live/fed2951169c7d1209388993ddb96423a.flv
+八大精彩,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+八大综合,http://167.99.65.12:1935/live/myStream/playlist.m3u8
+八大综合,http://203.176.130.123:8989/live/tvk_480k.stream/playlist.m3u8
+东森,https://pull-l3-cny.douyincdn.com/live/68b998af9b049fe4aa0b9a0c4b825156.flv?time=1679569049
+东森超视,https://pull-l3-cny.douyincdn.com/live/d3422597909c45babe55178717a843a3.flv
+东森新闻,http://2023.stream-link.org/playlist/ebc_news
+東森财经,http://2023.stream-link.org/playlist/ebc_finance
+动作电影,http://223.151.51.27:85/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+动作电影,http://live.cooltv.top/tv/aishang.php?id=chcdzdy
+翡翠台,https://pull-l3-cny.douyincdn.com/live/c7c4247f25068e8e53ed64c5fc7bfbeb.flv?time=1679567037
+凤凰香港,http://www.336699.live:1935/blocksix/4gtv-live021.stream/chunklist.m3u8
+高清电影,http://live.cooltv.top/tv/aishang.php?id=chcgqdy
+华视,https://pull-l3-cny.douyincdn.com/live/1059f4716f4620a4167704aef4d5e3d1.flv?time=1679569142
+华视新闻,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+华视新闻,https://pull-l3-cny.douyincdn.com/live/5b42fe25a48a3da8b2aa3d4aa4f720a3.flv
+寰宇新闻,http://2022.stream-link.org/playlist/global_tw
+寰宇新闻,http://2023.stream-link.org/playlist/global_news
+寰宇新闻,http://2023.stream-link.org/playlist/global_news.flv
+寰宇新闻,http://2023.stream-link.org/playlist/global_tw
+寰宇新闻,http://2023.stream-link.org/playlist/global_tw.flv
+寰宇新闻,https://pull-l3-cny.douyincdn.com/live/abc3e41536106636b5a0bead51acde79.flv?time=1679568358
+家庭影院,http://223.151.51.27:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+家庭影院,http://live.cooltv.top/tv/aishang.php?id=chcjtyy
+靖天电影,https://pull-l3-cny.douyincdn.com/live/9915cf809c465d55127bdde3bde83bd8.flv
+靖天映画 ,http://www.336699.live:1935/blockfour/4gtv-4gtv049.stream/playlist.m3u8
+靖天映画 ,http://www.336699.live:1935/blocksix/4gtv-live022.stream/chunklist.m3u8
+靖天映画 ,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+镜新闻,https://pull-l3-cny.douyincdn.com/live/0e0b24392f2951f9b62a59c04bd57610.flv
+龙华日韩,https://pull-l3-cny.douyincdn.com/live/fc00274188f7887baae4d80fcd10a54c.flv
+龙华戏剧,https://pull-l3-cny.douyincdn.com/live/d9d83d8edbe785f0bfea797365aa7540.flv
+民视,https://pull-l3-cny.douyincdn.com/live/7f390c66b0253d94bec75ae4017d9661.flv?time=1679569394
+民视新闻,http://2023.stream-link.org/playlist/ftv_news
+民视新闻,https://pull-l3-cny.douyincdn.com/live/82b30239bba5954aaf446ad73eb6cd41.flv?time=1679568888
+明珠台,https://pull-l3-cny.douyincdn.com/live/453aab0fb94bfa7f5995e801b65dc2a7.flv?time=1679567897
+三立,http://2023.stream-link.org/playlist/set_news.flv
+三立,https://pull-l3-cny.douyincdn.com/live/91b2c17bb6ecbafa9df4a515228b2c67.flv?time=1679569049
+三立LIVE,http://2023.stream-link.org/playlist/set_news
+三立LIVE,http://2023.stream-link.org/playlist/set_news+
+三立LIVE,https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8
+三立财经,http://2023.stream-link.org/playlist/set_inews
+三立新闻,https://pull-l3-cny.douyincdn.com/live/b028eb078be71b332b8e7398ea70d14f.flv?time=1679568942
+台视,https://pull-l3-cny.douyincdn.com/live/c852ca7ff7ea72f91fd5ef8efb9d1ece.flv?time=1679569185
+台视新闻,https://pull-l3-cny.douyincdn.com/live/81d38ae9f70ef21ba9a578f9c87c874c.flv?time=1679568783
+台湾番薯,http://www.336699.live:1935/blockfour/4gtv-4gtv062.stream/playlist.m3u8
+台湾华视,http://2023.stream-link.org/playlist/cts_zy
+台湾台视,http://2023.stream-link.org/playlist/ttv
+台湾卫视,http://2023.stream-link.org/playlist/cts_news
+纬来体育,https://pull-l3-cny.douyincdn.com/live/fed8bf18d0e2c0959763c03658ee20f3.flv?time=1679568725
+无线财经体育,https://pull-l3-cny.douyincdn.com/live/0a8fcd20f45423d7652bd805433c0b4f.flv?time=1679567835
+无线新闻,https://pull-l3-cny.douyincdn.com/live/df206eb2f33dcb250cbb8cc2a55344be.flv?time=1679567510
+星卫电影,https://pull-l3-cny.douyincdn.com/live/e5e2a20d929028850641216872453316.flv
+中视经典,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+中视经典,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+中视菁采,https://pull-l3-cny.douyincdn.com/live/261c96a11f40ae88fb58c0f180ec01d8.flv
+中视精彩,http://www.336699.live:1935/blockfour/4gtv-4gtv064.stream/playlist.m3u8
+中视精彩,https://jpts.sinovision.net/livestream.m3u8
+中视新闻,http://2023.stream-link.org/playlist/ctv_news
+中视新闻,https://pull-l3-cny.douyincdn.com/live/a6fb89f9bf6fbfd110be133fe04ad40a.flv?time=1679569053
+中天新闻,http://2023.stream-link.org/playlist/cti_news
+中天新闻,https://pull-l3-cny.douyincdn.com/live/7465163a388c105bba93c9066df1671a.flv?time=1679568467
+中天综合,http://2023.stream-link.org/playlist/cti_zh
+中天综合,http://pull-l3-cny.douyincdn.com/third/stream-5f26752efeee9e0c53cf6b530640ce60.flv
 CN卡通频道,https://epg.pw/stream/56af4de9a0300a4dc85abc4068d092de690bfde4f90062ceb659f1e373ffb3cc.m3u8
 HKIBC,https://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/chunklist_w667607781.m3u8
 HKIBC,https://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/playlist.m3u8

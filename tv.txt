@@ -1322,3 +1322,58 @@ CCTV-17农业农村,http://125.210.152.19:9120/live/hzgq-cctv17gq-h264.m3u8 $125
 安徽卫视,http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000298003.m3u8$央视频
 河北卫视,http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000293403.m3u8$央视频
 山东卫视,http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000294803.m3u8$央视频
+湖南卫视,http://125.210.152.19:9120/live/hzgq-hnwsgq-h264.m3u8    $125
+浙江卫视,http://125.210.152.19:9120/live/hzgq-zjwsgq-h264.m3u8    $125
+江苏卫视,http://125.210.152.19:9120/live/hzgq-jswsgq-h264.m3u8    $125
+北京卫视,http://125.210.152.19:9120/live/hzgq-bjgqws-h264.m3u8    $125
+东方卫视,http://125.210.152.19:9120/live/hzgq-dftvgq-h264.m3u8    $125
+深圳卫视,http://125.210.152.19:9120/live/hzgq-szwsgq-h264.m3u8    $125
+辽宁卫视,http://125.210.152.19:9120/live/hzgq-lnwsgq-h264.m3u8    $125
+天津卫视,http://125.210.152.19:9120/live/hzgq-tjwsgq-h264.m3u8    $125
+四川卫视,http://125.210.152.19:9120/live/hzgq-ssws-h264.m3u8      $125
+重庆卫视,http://125.210.152.19:9120/live/hzgq-cqwsgq-h264.m3u8    $125
+云南卫视,http://125.210.152.19:9120/live/hzgq-ynwsgq-h264.m3u8    $125
+黑龙江卫视,http://125.210.152.19:9120/live/hzgq-hljwsgq-h264.m3u8 $125
+安徽卫视,http://125.210.152.19:9120/live/hzgq-ahwsgq-h264.m3u8    $125
+河北卫视,http://125.210.152.19:9120/live/hzgq-hbwsgq1-h264.m3u8   $125
+江西卫视,http://125.210.152.19:9120/live/hzgq-jxwsgq-h264.m3u8    $125
+湖北卫视,http://125.210.152.19:9120/live/hzgq-hbwsgq-h264.m3u8    $125
+海南卫视,http://125.210.152.19:9120/live/hszx-lytv-h264.m3u8      $125
+吉林卫视,http://125.210.152.19:9120/live/hzgq-jlwsgq-h264.m3u8    $125
+内蒙古卫视,http://125.210.152.19:9120/live/hszx-nmgtv-h264.m3u8   $125
+广东卫视,http://125.210.152.19:9120/live/hzgq-gdwsgq-h264.m3u8    $125
+甘肃卫视,http://125.210.152.19:9120/live/hszx-gstv-h264.m3u8      $125
+山东卫视,http://125.210.152.19:9120/live/hzgq-sdwsgq-h264.m3u8    $125
+陕西卫视,http://125.210.152.19:9120/live/hszx-shanxitv-h264.m3u8  $125
+湖南卫视,http://113.117.74.40:8081/hls/42/index.m3u8$113
+江苏卫视,http://113.117.74.40:8081/hls/44/index.m3u8$113
+浙江卫视,http://113.117.74.40:8081/hls/43/index.m3u8$113
+东方卫视,http://113.117.74.40:8081/hls/47/index.m3u8$113
+广东卫视,http://113.117.74.40:8081/hls/40/index.m3u8$113
+深圳卫视,http://113.117.74.40:8081/hls/46/index.m3u8$113
+北京卫视,http://113.117.74.40:8081/hls/45/index.m3u8$113
+山东卫视,http://113.117.74.40:8081/hls/75/index.m3u8$113
+湖北卫视,http://113.117.74.40:8081/hls/51/index.m3u8$113
+辽宁卫视,http://113.117.74.40:8081/hls/54/index.m3u8$113
+江西卫视,http://113.117.74.40:8081/hls/58/index.m3u8$113
+重庆卫视,http://113.117.74.40:8081/hls/76/index.m3u8$113
+四川卫视,http://113.117.74.40:8081/hls/52/index.m3u8$113
+广西卫视,http://113.117.74.40:8081/hls/60/index.m3u8$113
+河南卫视,http://113.117.74.40:8081/hls/96/index.m3u8$113
+凤凰卫视中文台,http://113.117.74.22:8081/hls/37/index.m3u8
+凤凰卫视中文台,http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
+凤凰卫视资讯台,http://113.117.74.22:8081/hls/36/index.m3u8
+凤凰卫视资讯台,http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8
+凤凰卫视香港台,http://113.117.74.22:8081/hls/38/index.m3u8
+TVB翡翠台,http://113.117.74.22:8081/hls/67/index.m3u8
+TVB明珠台,http://113.117.74.10:8081/hls/26/index.m3u8
+TVBJ2,http://r.jdshipin.com/Nr5jq
+TVBJ2,http://r.jdshipin.com/ndGgS
+TVB无线新闻台,http://r.jdshipin.com/CkuBd
+TVB无线财体育·资讯台,http://r.jdshipin.com/jUx8K
+TVB星河台,http://113.117.74.22:8081/hls/135/index.m3u8
+VIUTV,http://r.jdshipin.com/vSJvl
+莲花卫视,http://107.151.203.111:2209/135/hk.php?id=amlh
+澳亚卫视,http://107.151.203.111:2209/135/hk.php?id=aoya
+星空卫视,http://113.117.74.22:8081/hls/87/index.m3u8
+星空卫视,http://113.117.74.24:8081/hls/87/index.m3u8

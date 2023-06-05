@@ -1247,4 +1247,78 @@ CCTV怀旧剧场,	http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/201251120
 CCTV兵器科技,	http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012513403.m3u8	$央视频线路 
 CCTV风云足球,	http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012514203.m3u8	$央视频线路 
 CCTV央视台球,	http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012513703.m3u8	$央视频线路 
-CCTV高尔夫网球,	http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012512503.m3u8	$央视频线路 
+CCTV高尔夫网球,	http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012512503.m3u8	$央视频线路
+CCTV-1综合,http://39.134.61.219/PLTV/88888888/224/3221226896/index.m3u8       $沈阳移动高清
+CCTV-1综合,http://113.117.74.40:8081/hls/138/index.m3u8      $113
+CCTV-2财经,http://113.117.74.40:8081/hls/2/index.m3u8        $113
+CCTV-3综艺,http://113.117.74.40:8081/hls/3/index.m3u8        $113
+CCTV-4中文国际,http://113.117.74.40:8081/hls/4/index.m3u8    $113
+CCTV-5体育,http://113.117.74.40:8081/hls/5/index.m3u8        $113
+CCTV-6电影,http://113.117.74.40:8081/hls/7/index.m3u8        $113
+CCTV-7国防军事,http://113.117.74.40:8081/hls/8/index.m3u8    $113
+CCTV-8电视剧,http://113.117.74.40:8081/hls/8/index.m3u8      $113
+CCTV-9纪录,http://113.117.74.40:8081/hls/9/index.m3u8        $113
+CCTV-10科教,http://113.117.74.40:8081/hls/10/index.m3u8      $113
+CCTV-11戏曲,http://113.117.74.40:8081/hls/11/index.m3u8      $113
+CCTV-12社会与法,http://113.117.74.40:8081/hls/12/index.m3u8  $113
+CCTV-13新闻,http://113.117.74.40:8081/hls/13/index.m3u8      $113
+CCTV-14少儿,http://113.117.74.40:8081/hls/14/index.m3u8      $113
+CCTV-15音乐,http://113.117.74.40:8081/hls/15/index.m3u8      $113
+CCTV-1综合,http://125.210.152.19:9120/live/hzgq-cctv1gq-h264.m3u8       $125																	
+CCTV-2财经,http://125.210.152.19:9120/live/hzgq-cctv2gq-h264.m3u8       $125																	
+CCTV-3综艺,http://125.210.152.19:9120/live/hzgq-cctv3gq-h264.m3u8       $125																	
+CCTV-5+体育赛事,http://125.210.152.19:9120/live/hzgq-cctvzhgq-h264.m3u8 $125
+CCTV-6电影,http://125.210.152.19:9120/live/hzgq-cctv6gq-h264.m3u8       $125
+CCTV-7国防军事,http://125.210.152.19:9120/live/hzgq-cctv7gq-h264.m3u8   $125
+CCTV-8电视剧,http://125.210.152.19:9120/live/hzgq-cctv8gq-h264.m3u8     $125
+CCTV-9纪录,http://125.210.152.19:9120/live/hzgq-cctvjlgq-h264.m3u8      $125
+CCTV-10科教,http://125.210.152.19:9120/live/hzgq-cctv10gq-h264.m3u8     $125
+CCTV-11戏曲,http://125.210.152.19:9120/live/hzgq-cctv11gq-h264.m3u8     $125
+CCTV-12社会与法,http://125.210.152.19:9120/live/hzgq-cctv12gq-h264.m3u8 $125
+CCTV-13新闻,http://125.210.152.19:9120/live/hzgq-cctvnewsgq-h264.m3u8   $125
+CCTV-14少儿,http://125.210.152.19:9120/live/hzgq-cctvsegq-h264.m3u8     $125
+CCTV-15音乐,http://125.210.152.19:9120/live/hzgq-cctvmusicgq-h264.m3u8  $125
+CCTV-16奥林匹克,http://125.210.152.19:9120/live/hzgq-cctv16gq-h264.m3u8 $125
+CCTV-17农业农村,http://125.210.152.19:9120/live/hzgq-cctv17gq-h264.m3u8 $125
+深圳卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000292203.m3u8$央视频
+广东卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000292703.m3u8$央视频
+浙江卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000295503.m3u8$央视频
+湖南卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000296203.m3u8$央视频
+东方卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000292403.m3u8$央视频
+北京卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000272103.m3u8$央视频
+江苏卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000295603.m3u8$央视频
+湖北卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000294503.m3u8$央视频
+广西卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000294203.m3u8$央视频
+黑龙江卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000293903.m3u8$央视频
+海南卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000291503.m3u8$央视频
+重庆卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000297803.m3u8$央视频
+四川卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000295003.m3u8$央视频
+河南卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000296103.m3u8$央视频
+东南卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000292503.m3u8$央视频
+贵州卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000293303.m3u8$央视频
+江西卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000294103.m3u8$央视频
+辽宁卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000281303.m3u8$央视频
+安徽卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000298003.m3u8$央视频
+河北卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000293403.m3u8$央视频
+山东卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000294803.m3u8$央视频
+深圳卫视,http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000292203.m3u8$央视频
+广东卫视,http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000292703.m3u8$央视频
+浙江卫视,http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000295503.m3u8$央视频
+湖南卫视,http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000296203.m3u8$央视频
+东方卫视,http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000292403.m3u8$央视频
+北京卫视,http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000272103.m3u8$央视频
+江苏卫视,http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000295603.m3u8$央视频
+湖北卫视,http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000294503.m3u8$央视频
+广西卫视,http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000294203.m3u8$央视频
+黑龙江卫视,http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000293903.m3u8$央视频
+海南卫视,http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000291503.m3u8$央视频
+重庆卫视,http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000297803.m3u8$央视频
+四川卫视,http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000295003.m3u8$央视频
+河南卫视,http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000296103.m3u8$央视频
+东南卫视,http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000292503.m3u8$央视频
+贵州卫视,http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000293303.m3u8$央视频
+江西卫视,http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000294103.m3u8$央视频
+辽宁卫视,http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000281303.m3u8$央视频
+安徽卫视,http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000298003.m3u8$央视频
+河北卫视,http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000293403.m3u8$央视频
+山东卫视,http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000294803.m3u8$央视频

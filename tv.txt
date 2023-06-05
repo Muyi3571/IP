@@ -1219,3 +1219,32 @@ CCTV16,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3
 咪咕综合体育,http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/3221228234/index.m3u8
 咪咕精彩足球,http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/3/224/3221228129/index.m3u8
 咪咕全民热练,http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/4/224/3221228427/index.m3u8
+
+
+Ouyang,#genre#
+CCTV-1综合,	http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000210103.m3u8	$央视频线路 
+CCTV-2财经,	http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203603.m3u8	$央视频线路 
+CCTV-3综艺,	http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203803.m3u8	$央视频线路 
+CCTV-4中文国际,	http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204803.m3u8	$央视频线路 
+CCTV-4 4K,	http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000266303.m3u8	$央视频线路 
+CCTV-5体育,	http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000205103.m3u8	$央视频线路 
+CCTV-5+体育赛事,	http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204503.m3u8	$央视频线路 
+CCTV-6电影,	http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203303.m3u8	$央视频线路 
+CCTV-7国防军事,	http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000510003.m3u8	$央视频线路 
+CCTV-8电视剧,	http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203903.m3u8	$央视频线路 
+CCTV-9记录,	http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000499403.m3u8	$央视频线路 
+CCTV-10科教,	http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203503.m3u8	$央视频线路 
+CCTV-11戏曲,	http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204103.m3u8	$央视频线路 
+CCTV-12社会与法,	http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000202603.m3u8	$央视频线路 
+CCTV-13新闻,	http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204603.m3u8	$央视频线路 
+CCTV-14少儿,	http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204403.m3u8	$央视频线路 
+CCTV-15音乐,	http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000205003.m3u8	$央视频线路 
+CCTV-16奥林匹克,	http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012492303.m3u8	$央视频线路 		
+CCTV-17农业 农村,	http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204203.m3u8	$央视频线路 		
+CCTV风云剧场,	http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012513603.m3u8	$央视频线路 
+CCTV第一剧场,	http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012514403.m3u8	$央视频线路 
+CCTV怀旧剧场,	http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012511203.m3u8	$央视频线路 		
+CCTV兵器科技,	http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012513403.m3u8	$央视频线路 
+CCTV风云足球,	http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012514203.m3u8	$央视频线路 
+CCTV央视台球,	http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012513703.m3u8	$央视频线路 
+CCTV高尔夫网球,	http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012512503.m3u8	$央视频线路 

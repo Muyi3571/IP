@@ -279,6 +279,8 @@ SiTV游戏风云,http://[2409:8087:2001:20:2800:0:df6e:eb16]/wh7f454c46tw8949572
 五星体育,http://[2409:8c20:9c71:120::34]/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
 五星体育,http://[2409:8c3c:1300:806:74::b]/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
 五星体育,http://[2409:8c3c:1300:806:74::b]/liveplay-五星体育,kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+五星体育,http://cntv.sbs/live?id=wxty
+五星体育,https://dispatch.ulivetv.net/v/live/cgxamfznu56o.m3u8?stream_id=cgxamfznu56o&timestamp=1684671243&rand=YAq7A02SN1&uuid=9b647b3816b2a66a&from=web&sign=a4f56ea1b20cf73e81ea29357c374152
 ELEVEN1,http://61.221.81.93:8078/hls/25/80/esport.m3u8
 ELEVEN2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 CCTV-5,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001850/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -1379,7 +1381,6 @@ VIUTV,http://r.jdshipin.com/vSJvl
 星空卫视,http://113.117.74.24:8081/hls/87/index.m3u8
 
 Youtube,#genre#
-
 寰宇全球新聞,https://www.youtube.com/watch?v=DDvdmzvaNJs
 寰宇新聞,https://www.youtube.com/watch?v=B7Zp3d6xXWw
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -1398,12 +1399,10 @@ TVBS NEWS LIVE,https://www.youtube.com/watch?v=m_dhMSvUCIc
 華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
 台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
-
 EBC東森財經,https://www.youtube.com/watch?v=WHEPzbFA3hw
 三立財經,https://www.youtube.com/watch?v=CKjSm5ZeehE
 NHK WORLD,https://www.youtube.com/watch?v=f0lYkdA-Gtw
 NHK WORLD,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8?zshijd
-
 Sky News,https://www.youtube.com/watch?v=9Auq9mYxFEE
 FRANCE 24,https://www.youtube.com/watch?v=h3MuIUNCCzI
 ABC News,https://www.youtube.com/watch?v=w_Ma8oQLmSM
@@ -1411,7 +1410,6 @@ Euronews English,https://www.youtube.com/watch?v=pykpO5kQJ98
 DW,https://www.youtube.com/watch?v=pqabxBKzZ6M
 ANN News,https://www.youtube.com/watch?v=coYw-eVU0Ks
 KBS KOREA,https://www.youtube.com/watch?v=HnfpTMtfFk8
-
 NBC NEW,https://www.youtube.com/watch?v=0IUbD_4ytuo
 鳳凰資訊,https://www.youtube.com/watch?v=sUISafvOieY
 凤凰卫视,https://www.youtube.com/watch?v=dmDg7NfUoSw
@@ -1419,5 +1417,75 @@ CCTV中文国际,https://www.youtube.com/watch?v=9sE12tg3CmA
 东森财经股市,https://www.youtube.com/watch?v=LbS-xQ67fos
 公視直播,https://www.youtube.com/watch?v=4Uc00FPs27M
 KOMPASTV,https://www.youtube.com/watch?v=4rmf-lk3ito
-东京新宿,https://www.youtube.com/watch?v=DjdUEyjx8GM
-台灣地震監視,https://www.youtube.com/watch?v=Owke6Quk7T0
+
+港澳台,#genre#
+TVBS財經,http://sc2022.stream-link.org/list.php?id=t014
+TVB星河台,http://103.112.191.9:880/LAOSAT1092.m3u8
+澳门莲花,http://103.112.191.9:880/LAOSAT1069.m3u8
+澳門蓮花衛視,http://sc2022.stream-link.org/list.php?id=h016
+东森财经,http://123.51.230.108:18515/.m3u8
+东森电影台,http://162.19.247.76:22222/live/dsdyt/index.m3u8
+东森戏剧,http://123.51.230.108:18538/.m3u8
+东森戏剧,http://162.19.247.76:22222/live/dsxj/index.m3u8
+东森新闻,http://61.221.81.93:8078/hls/33/80/ebcnews.m3u8
+东森洋片台,http://162.19.247.76:22222/live/dsypt/index.m3u8
+東森財經新聞,http://sc2022.stream-link.org/list.php?id=t002
+東森新聞,http://sc2022.stream-link.org/list.php?id=t001
+翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MD0D6984922869849228&ct=19512&tsum=889b196da03177507ddc120a83652f5b
+翡翠台,http://198.16.100.90:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
+翡翠台,http://sc2022.stream-link.org/list.php?id=h002
+凤凰卫视,https://epg.pw/stream/e308f9f7b68fa9e5775c465ef63f3123bb7762f33976382e27a7755fb9332a79.m3u8
+凤凰香港,http://162.19.247.76:22222/live/fenghuangxianggang/index.m3u8
+凤凰香港,http://sc2022.stream-link.org/list.php?id=h015
+凤凰中文,http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
+凤凰中文,http://sc2022.stream-link.org/list.php?id=h014
+凤凰资讯,http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
+凤凰资讯,http://sc2022.stream-link.org/list.php?id=h013
+港台电视32,http://sc2022.stream-link.org/list.php?id=h007
+华视,http://162.19.247.76:22222/live/huashi/index.m3u8
+華視新聞,http://sc2022.stream-link.org/list.php?id=t004
+寰宇國際新聞,http://sc2022.stream-link.org/list.php?id=t007
+寰宇台灣新聞,http://sc2022.stream-link.org/list.php?id=t008
+民视新闻,http://123.51.230.108:18663/.m3u8
+民視HD,http://sc2022.stream-link.org/list.php?id=t017
+民視第一台,http://sc2022.stream-link.org/list.php?id=t018
+民視旅遊台,http://sc2022.stream-link.org/list.php?id=t022
+民視台灣台,http://sc2022.stream-link.org/list.php?id=t019
+民視新聞,http://sc2022.stream-link.org/list.php?id=t006
+民視影劇台,http://sc2022.stream-link.org/list.php?id=t021
+民視綜藝台,http://sc2022.stream-link.org/list.php?id=t020
+三立財經新聞,http://sc2022.stream-link.org/list.php?id=t009
+三立都會,http://sc2022.stream-link.org/list.php?id=t024
+三立台灣,http://sc2022.stream-link.org/list.php?id=t023
+三立新聞,http://sc2022.stream-link.org/list.php?id=t010
+三立新聞+,http://sc2022.stream-link.org/list.php?id=t011
+台视,http://162.19.247.76:22222/live/taishi/index.m3u8
+台視新聞,http://sc2022.stream-link.org/list.php?id=t012
+天映经典台,http://162.19.247.76:22222/live/tyjd/index.m3u8
+天映频道,http://103.112.191.9:880/LAOSAT1029.m3u8
+無綫新聞台,http://sc2022.stream-link.org/list.php?id=h004
+無綫新聞台,http://sc2022.stream-link.org/list.php?id=h008
+無綫新聞台,http://sc2022.stream-link.org/list.php?id=h009
+香港國際財經台,http://sc2022.stream-link.org/list.php?id=h011
+香港開電視,http://sc2022.stream-link.org/list.php?id=h010
+香港開電視資訊台,http://sc2022.stream-link.org/list.php?id=h012
+中视,http://162.19.247.76:22222/live/zhongshi/index.m3u8
+中視新聞,http://sc2022.stream-link.org/list.php?id=t005
+中天亚洲台,http://162.19.247.76:22222/live/ztyz/index.m3u8
+中天娱乐台,http://162.19.247.76:22222/live/ztyl/index.m3u8
+ABC News Australia,http://sc2022.stream-link.org/list.php?id=e001
+ABC News,http://sc2022.stream-link.org/list.php?id=e002
+ANN News,http://sc2022.stream-link.org/list.php?id=e003
+BBC News,http://sc2022.stream-link.org/list.php?id=e005
+CNN Live,http://sc2022.stream-link.org/list.php?id=e007
+Disney,http://181.78.11.117:8000/play/a06p/index.m3u8
+DW News,http://sc2022.stream-link.org/list.php?id=e008
+Fox Live,http://sc2022.stream-link.org/list.php?id=e010
+Haber Turk,http://sc2022.stream-link.org/list.php?id=e013
+HBO,http://103.112.191.9:880/LAOSAT1089.m3u8
+J2,http://sc2022.stream-link.org/list.php?id=h003
+NBC News,http://sc2022.stream-link.org/list.php?id=e014
+NHK World Japan,http://sc2022.stream-link.org/list.php?id=e015
+Radio Ticino,http://sc2022.stream-link.org/list.php?id=e017
+SKY News,http://sc2022.stream-link.org/list.php?id=e016
+Smithsonian Channel,http://sc2022.stream-link.org/list.php?id=e018

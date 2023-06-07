@@ -1381,20 +1381,27 @@ VIUTV,http://r.jdshipin.com/vSJvl
 星空卫视,http://113.117.74.24:8081/hls/87/index.m3u8
 
 Youtube,#genre#
+Youtube,#genre#
+鳳凰資訊,https://www.youtube.com/watch?v=sUISafvOieY
+凤凰卫视,https://www.youtube.com/watch?v=dmDg7NfUoSw
+CCTV中文国际,https://www.youtube.com/watch?v=9sE12tg3CmA
+东森财经股市,https://www.youtube.com/watch?v=LbS-xQ67fos
+公視直播,https://www.youtube.com/watch?v=4Uc00FPs27M
 寰宇全球新聞,https://www.youtube.com/watch?v=DDvdmzvaNJs
 寰宇新聞,https://www.youtube.com/watch?v=B7Zp3d6xXWw
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
 東森Live,https://www.youtube.com/watch?v=R2iMq5LKXco
 東森新闻,https://www.youtube.com/watch?v=khuZW5GdBXo
+東森新聞 51,https://www.youtube.com/watch?v=R2iMq5LKXco
 中天新聞,https://www.youtube.com/watch?v=oIgbl7t0S_w
 中天新聞,https://www.youtube.com/live/oIgbl7t0S_w?feature=share
 中天新聞2,https://www.youtube.com/watch?v=WPfPjbOLNfE
 三立live,https://www.youtube.com/watch?v=FoBfXvlOR6I
 三立inews,https://www.youtube.com/watch?v=CKjSm5ZeehE
 三立NEWS+,https://www.youtube.com/watch?v=oZdzzvxTfUY
-
 TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
 TVBS NEWS LIVE,https://www.youtube.com/watch?v=m_dhMSvUCIc
+TVBS 56,https://www.youtube.com/watch?v=YvdcZ_jpLXE
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
 華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
@@ -1411,12 +1418,13 @@ DW,https://www.youtube.com/watch?v=pqabxBKzZ6M
 ANN News,https://www.youtube.com/watch?v=coYw-eVU0Ks
 KBS KOREA,https://www.youtube.com/watch?v=HnfpTMtfFk8
 NBC NEW,https://www.youtube.com/watch?v=0IUbD_4ytuo
-鳳凰資訊,https://www.youtube.com/watch?v=sUISafvOieY
-凤凰卫视,https://www.youtube.com/watch?v=dmDg7NfUoSw
-CCTV中文国际,https://www.youtube.com/watch?v=9sE12tg3CmA
-东森财经股市,https://www.youtube.com/watch?v=LbS-xQ67fos
-公視直播,https://www.youtube.com/watch?v=4Uc00FPs27M
 KOMPASTV,https://www.youtube.com/watch?v=4rmf-lk3ito
+CNA,https://www.youtube.com/watch?v=XWq5kBlakcQ
+WION,https://www.youtube.com/watch?v=lmZRiDMK3OU
+Al Jazeera,https://www.youtube.com/watch?v=gCNeDWCI0vo
+METRO TV,https://www.youtube.com/watch?v=qA7_9fcCbZ8
+ABC News Australia,https://www.youtube.com/watch?v=vOTiJkg1voo
+
 
 港澳台,#genre#
 TVBS財經,http://sc2022.stream-link.org/list.php?id=t014

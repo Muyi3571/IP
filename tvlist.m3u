@@ -3011,253 +3011,255 @@ http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153399&ex
 http://107.167.12.58:27347/livehttpplay?channel_id=20123
 #EXTINF:-1 group-title="goodiptv,#genre#",无线新闻
 http://live.cooltv.top/tv/tvb.php?id=0
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",东森电影
+#EXTINF:-1 group-title="goodiptv,#genre#",无线财经资讯台
+http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt
+#EXTINF:-1 group-title="goodiptv,#genre#",东森电影
 http://162.19.247.76:22222/live/dsdyt/index.m3u8
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",中视
+#EXTINF:-1 group-title="goodiptv,#genre#",中视
 http://162.19.247.76:22222/live/zhongshi/index.m3u8
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",台视
+#EXTINF:-1 group-title="goodiptv,#genre#",台视
 http://162.19.247.76:22222/live/taishi/index.m3u8
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",华视
+#EXTINF:-1 group-title="goodiptv,#genre#",华视
 https://fsv4.yj011.net/sat/tv111.flv
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",华视
+#EXTINF:-1 group-title="goodiptv,#genre#",华视
 http://162.19.247.76:22222/live/huashi/index.m3u8
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",澳门莲花
+#EXTINF:-1 group-title="goodiptv,#genre#",澳门莲花
 http://anren.live/HK/BiIOU11uLA.m3u8
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",NHK世界
+#EXTINF:-1 group-title="goodiptv,#genre#",NHK世界
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",美国CNN
+#EXTINF:-1 group-title="goodiptv,#genre#",美国CNN
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",ABC新闻
+#EXTINF:-1 group-title="goodiptv,#genre#",ABC新闻
 http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",CNA新闻
+#EXTINF:-1 group-title="goodiptv,#genre#",CNA新闻
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",半岛新闻
+#EXTINF:-1 group-title="goodiptv,#genre#",半岛新闻
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",金砖中文
+#EXTINF:-1 group-title="goodiptv,#genre#",金砖中文
 http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",金砖英文
+#EXTINF:-1 group-title="goodiptv,#genre#",金砖英文
 http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",CHC家庭影院
+#EXTINF:-1 group-title="goodiptv,#genre#",CHC家庭影院
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",CHC动作电影
+#EXTINF:-1 group-title="goodiptv,#genre#",CHC动作电影
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",CHC高清电影
+#EXTINF:-1 group-title="goodiptv,#genre#",CHC高清电影
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",CHC动作电影
+#EXTINF:-1 group-title="goodiptv,#genre#",CHC动作电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",CHC家庭影院
+#EXTINF:-1 group-title="goodiptv,#genre#",CHC家庭影院
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",CHC高清电影
+#EXTINF:-1 group-title="goodiptv,#genre#",CHC高清电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",CETV1
+#EXTINF:-1 group-title="goodiptv,#genre#",CETV1
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225753/index.m3u8
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",CETV1
+#EXTINF:-1 group-title="goodiptv,#genre#",CETV1
 http://txycetvbl.centv.cn/cetv1/ypd.m3u8
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",CETV2
+#EXTINF:-1 group-title="goodiptv,#genre#",CETV2
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225756/index.m3u8
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",CETV2
+#EXTINF:-1 group-title="goodiptv,#genre#",CETV2
 http://txycetvbl.centv.cn/cetv2/2020tsytk.m3u8
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",CETV3
+#EXTINF:-1 group-title="goodiptv,#genre#",CETV3
 http://txycsbl.centv.cn/zb/0822cetv3.m3u8
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",CETV3
+#EXTINF:-1 group-title="goodiptv,#genre#",CETV3
 http://txycetvbl.centv.cn/cetv3/bjdm.m3u8
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",CETV4
+#EXTINF:-1 group-title="goodiptv,#genre#",CETV4
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",CETV4
+#EXTINF:-1 group-title="goodiptv,#genre#",CETV4
 http://txycetvbl.centv.cn/cetv4/zjpd.m3u8
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",卡酷少儿
+#EXTINF:-1 group-title="goodiptv,#genre#",卡酷少儿
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001245/index.m3u8?
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",哈哈炫动
+#EXTINF:-1 group-title="goodiptv,#genre#",哈哈炫动
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001232/index.m3u8?
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",动漫秀场
+#EXTINF:-1 group-title="goodiptv,#genre#",动漫秀场
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001196/index.m3u8?
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",广东少儿
+#EXTINF:-1 group-title="goodiptv,#genre#",广东少儿
 http://14.212.185.77:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",南京少儿
+#EXTINF:-1 group-title="goodiptv,#genre#",南京少儿
 http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",南京少儿
+#EXTINF:-1 group-title="goodiptv,#genre#",南京少儿
 http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3425352611_209642410/ott.mobaibox.com/PLTV/4/224/3221227733/index.m3u8
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",浙江少儿
+#EXTINF:-1 group-title="goodiptv,#genre#",浙江少儿
 http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",黑龙江少儿
+#EXTINF:-1 group-title="goodiptv,#genre#",黑龙江少儿
 http://[2409:8087:1a01:df::4035]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/1.m3u8
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",海南少儿
+#EXTINF:-1 group-title="goodiptv,#genre#",海南少儿
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?IAS
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",黑莓动画
+#EXTINF:-1 group-title="goodiptv,#genre#",黑莓动画
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",江苏教育
+#EXTINF:-1 group-title="goodiptv,#genre#",江苏教育
 http://jh.d7g.cn/tv/migu.php?id=jsjy
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",山东教育卫视
+#EXTINF:-1 group-title="goodiptv,#genre#",山东教育卫视
 http://jh.d7g.cn/tv/migu.php?id=sdjy
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",金鹰卡通
+#EXTINF:-1 group-title="goodiptv,#genre#",金鹰卡通
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225744/index.m3u8
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",江苏优漫卡通
+#EXTINF:-1 group-title="goodiptv,#genre#",江苏优漫卡通
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225795/index.m3u8
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",嘉佳卡通
+#EXTINF:-1 group-title="goodiptv,#genre#",嘉佳卡通
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226227/index.m3u8
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",精品剧场
+#EXTINF:-1 group-title="goodiptv,#genre#",精品剧场
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/8230197131234717902/index.m3u8?channel-id=wasusyt&Contentid=8230197131234717902&livemode=1&stbId=3
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",欧美影院
+#EXTINF:-1 group-title="goodiptv,#genre#",欧美影院
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/7185203501769528108/index.m3u8?channel-id=wasusyt&Contentid=7185203501769528108&livemode=1&stbId=3
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",亚洲影院
+#EXTINF:-1 group-title="goodiptv,#genre#",亚洲影院
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/5841816227539527643/index.m3u8?channel-id=wasusyt&Contentid=5841816227539527643&livemode=1&stbId=3
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",超级综艺
+#EXTINF:-1 group-title="goodiptv,#genre#",超级综艺
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",超级电影
+#EXTINF:-1 group-title="goodiptv,#genre#",超级电影
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",超级电视剧
+#EXTINF:-1 group-title="goodiptv,#genre#",超级电视剧
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",武搏世界
+#EXTINF:-1 group-title="goodiptv,#genre#",武搏世界
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",中国功夫
+#EXTINF:-1 group-title="goodiptv,#genre#",中国功夫
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",怡伴健康
+#EXTINF:-1 group-title="goodiptv,#genre#",怡伴健康
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",军旅剧场
+#EXTINF:-1 group-title="goodiptv,#genre#",军旅剧场
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",农业致富
+#EXTINF:-1 group-title="goodiptv,#genre#",农业致富
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",古装剧场
+#EXTINF:-1 group-title="goodiptv,#genre#",古装剧场
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",炫舞未来
+#EXTINF:-1 group-title="goodiptv,#genre#",炫舞未来
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",潮妈辣婆
+#EXTINF:-1 group-title="goodiptv,#genre#",潮妈辣婆
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",精品纪录
+#EXTINF:-1 group-title="goodiptv,#genre#",精品纪录
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",金牌综艺
+#EXTINF:-1 group-title="goodiptv,#genre#",金牌综艺
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",家庭剧场
+#EXTINF:-1 group-title="goodiptv,#genre#",家庭剧场
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",精品大剧
+#EXTINF:-1 group-title="goodiptv,#genre#",精品大剧
 http://[2409:8087:2001:20:2800:0:df6e:eb1b]/ott.mobaibox.com/PLTV/3/224/3221227618/index.m3u8
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",军事评论
+#EXTINF:-1 group-title="goodiptv,#genre#",军事评论
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",东北热剧
+#EXTINF:-1 group-title="goodiptv,#genre#",东北热剧
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",欢乐剧场
+#EXTINF:-1 group-title="goodiptv,#genre#",欢乐剧场
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",全民热练
+#EXTINF:-1 group-title="goodiptv,#genre#",全民热练
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",NewTV爱情喜剧
+#EXTINF:-1 group-title="goodiptv,#genre#",NewTV爱情喜剧
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",NewTV动作电影
+#EXTINF:-1 group-title="goodiptv,#genre#",NewTV动作电影
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",NewTV惊悚悬疑
+#EXTINF:-1 group-title="goodiptv,#genre#",NewTV惊悚悬疑
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",NewTV海外剧场
+#EXTINF:-1 group-title="goodiptv,#genre#",NewTV海外剧场
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",iHOT爱院线
+#EXTINF:-1 group-title="goodiptv,#genre#",iHOT爱院线
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",iHOT爱科幻
+#EXTINF:-1 group-title="goodiptv,#genre#",iHOT爱科幻
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000020630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000020630&livemode=1&stbId=3
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",iHOT爱浪漫
+#EXTINF:-1 group-title="goodiptv,#genre#",iHOT爱浪漫
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000040630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000040630&livemode=1&stbId=3
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",iHOT爱喜剧
+#EXTINF:-1 group-title="goodiptv,#genre#",iHOT爱喜剧
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000010630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000010630&livemode=1&stbId=3
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",iHOT爱娱乐
+#EXTINF:-1 group-title="goodiptv,#genre#",iHOT爱娱乐
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000130630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000130630&livemode=1&stbId=3
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",iHOT爱悬疑
+#EXTINF:-1 group-title="goodiptv,#genre#",iHOT爱悬疑
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000050630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000050630&livemode=1&stbId=3
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",iHOT爱经典
+#EXTINF:-1 group-title="goodiptv,#genre#",iHOT爱经典
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000060630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000060630&livemode=1&stbId=3
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",iHOT爱江湖
+#EXTINF:-1 group-title="goodiptv,#genre#",iHOT爱江湖
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000110630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000110630&livemode=1&stbId=3
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",iHOT爱赛车
+#EXTINF:-1 group-title="goodiptv,#genre#",iHOT爱赛车
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000240630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000240630&livemode=1&stbId=3
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",iHOT爱体育
+#EXTINF:-1 group-title="goodiptv,#genre#",iHOT爱体育
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000290630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000290630&livemode=1&stbId=3
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",iHOT爱探索
+#EXTINF:-1 group-title="goodiptv,#genre#",iHOT爱探索
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000300630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000300630&livemode=1&stbId=3
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",iHOT爱奇谈
+#EXTINF:-1 group-title="goodiptv,#genre#",iHOT爱奇谈
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000270630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000270630&livemode=1&stbId=3
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",iHOT爱玩具
+#EXTINF:-1 group-title="goodiptv,#genre#",iHOT爱玩具
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000220630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000220630&livemode=1&stbId=3
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",iHOT爱世界
+#EXTINF:-1 group-title="goodiptv,#genre#",iHOT爱世界
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000210630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000210630&livemode=1&stbId=3
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",iHOT爱怀旧
+#EXTINF:-1 group-title="goodiptv,#genre#",iHOT爱怀旧
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000260630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000260630&livemode=1&stbId=3
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",iHOT爱旅行
+#EXTINF:-1 group-title="goodiptv,#genre#",iHOT爱旅行
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000250630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000250630&livemode=1&stbId=3
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",iHOT爱极限
+#EXTINF:-1 group-title="goodiptv,#genre#",iHOT爱极限
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000170630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000170630&livemode=1&stbId=3
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",iHOT爱幼教
+#EXTINF:-1 group-title="goodiptv,#genre#",iHOT爱幼教
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000180630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000180630&livemode=1&stbId=3
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",iHOT爱解密
+#EXTINF:-1 group-title="goodiptv,#genre#",iHOT爱解密
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000200630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000200630&livemode=1&stbId=3
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",iHOT爱谍战
+#EXTINF:-1 group-title="goodiptv,#genre#",iHOT爱谍战
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000070630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000070630&livemode=1&stbId=3
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",iHOT爱历史
+#EXTINF:-1 group-title="goodiptv,#genre#",iHOT爱历史
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000150630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000150630&livemode=1&stbId=3
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",iHOT爱猎奇
+#EXTINF:-1 group-title="goodiptv,#genre#",iHOT爱猎奇
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000190630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000190630&livemode=1&stbId=3
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",iHOT爱都市
+#EXTINF:-1 group-title="goodiptv,#genre#",iHOT爱都市
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000080630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000080630&livemode=1&stbId=3
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",iHOT爱科学
+#EXTINF:-1 group-title="goodiptv,#genre#",iHOT爱科学
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000160630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000160630&livemode=1&stbId=3
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",iHOT爱美食
+#EXTINF:-1 group-title="goodiptv,#genre#",iHOT爱美食
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000120630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000120630&livemode=1&stbId=3
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",iHOT爱时尚
+#EXTINF:-1 group-title="goodiptv,#genre#",iHOT爱时尚
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000140630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000140630&livemode=1&stbId=3
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",iHOT爱青春
+#EXTINF:-1 group-title="goodiptv,#genre#",iHOT爱青春
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000100630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000100630&livemode=1&stbId=3
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",iHOT爱家庭
+#EXTINF:-1 group-title="goodiptv,#genre#",iHOT爱家庭
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000090630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000090630&livemode=1&stbId=3
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",iHOT爱动漫
+#EXTINF:-1 group-title="goodiptv,#genre#",iHOT爱动漫
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000280630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",精彩影视
+#EXTINF:-1 group-title="goodiptv,#genre#",精彩影视
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000320630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000320630&livemode=1&stbId=3
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",少儿动漫
+#EXTINF:-1 group-title="goodiptv,#genre#",少儿动漫
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/8145334647720731271/index.m3u8?channel-id=wasusyt&Contentid=8145334647720731271&livemode=1&stbId=3
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",风尚音乐
+#EXTINF:-1 group-title="goodiptv,#genre#",风尚音乐
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/5529729098703832176/index.m3u8?channel-id=wasusyt&Contentid=5529729098703832176&livemode=1&stbId=3
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",欢笑剧场
+#EXTINF:-1 group-title="goodiptv,#genre#",欢笑剧场
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226582/index.m3u8
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",4k修复
+#EXTINF:-1 group-title="goodiptv,#genre#",4k修复
 http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",纪实科教
+#EXTINF:-1 group-title="goodiptv,#genre#",纪实科教
 http://[2409:8087:2001:20:2800:0:df6e:eb0e]/wh7f454c46tw1542052607_1430934483/ott.mobaibox.com/PLTV/3/224/3221227699/index.m3u8?icpid=3&RTS=1669704438&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",东方影视
+#EXTINF:-1 group-title="goodiptv,#genre#",东方影视
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001016/index.m3u8?
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",上海外语
+#EXTINF:-1 group-title="goodiptv,#genre#",上海外语
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001128/index.m3u8?
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",上海都市
+#EXTINF:-1 group-title="goodiptv,#genre#",上海都市
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001015/index.m3u8?
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",上海教育
+#EXTINF:-1 group-title="goodiptv,#genre#",上海教育
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001268/index.m3u8?
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",上海新闻
+#EXTINF:-1 group-title="goodiptv,#genre#",上海新闻
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001014/index.m3u8?
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",都市剧场
+#EXTINF:-1 group-title="goodiptv,#genre#",都市剧场
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001203/index.m3u8?
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",生活时尚
+#EXTINF:-1 group-title="goodiptv,#genre#",生活时尚
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001199/index.m3u8?
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",金色学堂
+#EXTINF:-1 group-title="goodiptv,#genre#",金色学堂
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001194/index.m3u8?
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",法治天地
+#EXTINF:-1 group-title="goodiptv,#genre#",法治天地
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001195/index.m3u8?
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",哈哈动炫
+#EXTINF:-1 group-title="goodiptv,#genre#",哈哈动炫
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001232/index.m3u8?
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",欢笑剧场
+#EXTINF:-1 group-title="goodiptv,#genre#",欢笑剧场
 http://[2409:8087:2001:20:2800:0:df6e:eb1a]/wh7f454c46tw1868232_1764604972/ott.mobaibox.com/PLTV/3/224/3221227715/index.m3u8?icpid=3&RTS=1661190272&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",第一财经
+#EXTINF:-1 group-title="goodiptv,#genre#",第一财经
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001017/index.m3u8?
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",东方财经
+#EXTINF:-1 group-title="goodiptv,#genre#",东方财经
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001318/index.m3u8?
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",茶频道
+#EXTINF:-1 group-title="goodiptv,#genre#",茶频道
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002305/index.m3u8/?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",快乐垂钓
+#EXTINF:-1 group-title="goodiptv,#genre#",快乐垂钓
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002264/index.m3u8/?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",金鹰纪实
+#EXTINF:-1 group-title="goodiptv,#genre#",金鹰纪实
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001230/index.m3u8?
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",乐游频道
+#EXTINF:-1 group-title="goodiptv,#genre#",乐游频道
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001200/index.m3u8?
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",纪实人文
+#EXTINF:-1 group-title="goodiptv,#genre#",纪实人文
 http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw1293235676_155310184/ott.mobaibox.com/PLTV/3/224/3221227635/index.m3u8?icpid=3&RTS=1669704189&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",求索动物
+#EXTINF:-1 group-title="goodiptv,#genre#",求索动物
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",求索生活
+#EXTINF:-1 group-title="goodiptv,#genre#",求索生活
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",求索科学
+#EXTINF:-1 group-title="goodiptv,#genre#",求索科学
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
-#EXTINF:-1 group-title="无线财经资讯台, http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt",求索纪录
+#EXTINF:-1 group-title="goodiptv,#genre#",求索纪录
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3

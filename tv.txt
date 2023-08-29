@@ -865,6 +865,14 @@ Smithsonian Channel,http://sc2022.stream-link.org/tv2306.php?id=e18
 Star Sports,http://live.0472.org/hls/starsports.m3u8
 StarWorld,http://61.221.81.93:8078/hls/11/80/fox.m3u8
 WB TV,http://208.115.225.174:14132
+NHK_world,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8#https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8#https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8?blog.ntnas.top
+CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8
+NBC News,https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/1920x1080_5055600/index.m3u8?blog.ntnas.top
+FOXNews,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+ABC News,http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
+DW News,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+AL JAZEERA,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
 港澳台,#genre#
 4K影视,http://nas.jdshipin.com:8801/4kys.php

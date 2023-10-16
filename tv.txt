@@ -879,13 +879,15 @@ CCTV-5+,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001008/
 新视觉,https://live.goodiptv.club/api/sxg.php?id=ycxsjH265_4000
 
 Youtube,#genre#
-鳳凰資訊,https://www.youtube.com/watch?v=sUISafvOieY
+鳳凰資訊,https://www.youtube.com/watch?v=bYBjjtgKUnM
 ABC News Australia,https://www.youtube.com/watch?v=vOTiJkg1voo
 ABC News,https://www.youtube.com/watch?v=w_Ma8oQLmSM
 Al Jazeera,https://www.youtube.com/watch?v=gCNeDWCI0vo
 CCTV中文国际,https://www.youtube.com/watch?v=9sE12tg3CmA
+CNN-News18,https://www.youtube.com/watch?v=AqD4T9YQb84
 CNA,https://www.youtube.com/watch?v=XWq5kBlakcQ
 DW,https://www.youtube.com/watch?v=pqabxBKzZ6M
+LiveNOW from FOX,https://www.youtube.com/watch?v=h3xoU0ASe9c
 EBC東森財經,https://www.youtube.com/watch?v=WHEPzbFA3hw
 Euronews English,https://www.youtube.com/watch?v=pykpO5kQJ98
 FRANCE 24,https://www.youtube.com/watch?v=h3MuIUNCCzI

@@ -1,4 +1,5 @@
 Youtube,#genre#
+凤凰资讯台,https://www.youtube.com/watch?v=Z0jfJm2L7Rc
 ABC News Australia,https://www.youtube.com/watch?v=vOTiJkg1voo
 ABC News,https://www.youtube.com/watch?v=w_Ma8oQLmSM
 Al Jazeera,https://www.youtube.com/watch?v=gCNeDWCI0vo

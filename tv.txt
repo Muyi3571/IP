@@ -1,4 +1,5 @@
 Youtube,#genre#
+凤凰资讯台,https://www.youtube.com/watch?v=a3WZVssKlAI
 凤凰资讯台,https://tlive.fengshows.com/live/0701pin48.flv?txSecret=6fdb180f5c14ff489e8dd1ac29a3c082&txTime=6630d560
 凤凰中文台,https://tlive.fengshows.com/live/0701pin48.flv?txSecret=24d19deed8423b4965f69b66a53721ef&txTime=6630d5be
 凤凰资讯台,https://tlive.fengshows.com/live/0701pin48.flv?txSecret=80a4b32cc46d907d9db84e12990e32b7&txTime=6630d656

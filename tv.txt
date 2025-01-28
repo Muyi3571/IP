@@ -7,7 +7,7 @@ Youtube,#genre#
 ABC News Australia,https://www.youtube.com/watch?v=vOTiJkg1voo
 ABC News,https://www.youtube.com/watch?v=gN0PZCe-kwQ
 Al Jazeera,https://www.youtube.com/watch?v=gCNeDWCI0vo
-CCTV中文国际,https://www.youtube.com/watch?v=bEZYrBMYNNg
+CCTV中文国际,https://www.youtube.com/watch?v=JdGKMrhq-98
 CNN-News18,https://www.youtube.com/watch?v=lndz_1r-3HI
 CNA,https://www.youtube.com/watch?v=XWq5kBlakcQ
 DW,https://www.youtube.com/watch?v=pqabxBKzZ6M
